@@ -28,6 +28,6 @@ meat and vegetables.  Recover.  Add heat to the top.  Cook until the
 biscuits are brown and the vegetables are done.
 
 source: Let's Cook Dutch
-keywords: beef dutch_oven
+keywords: beef, dutch oven
 time: 2 hours
 ratings: Linda-8, Tom-8, Kyle-7

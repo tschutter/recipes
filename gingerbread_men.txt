@@ -26,4 +26,4 @@ greased cookie sheet.  Add raisins or redhots for eyes.
 Bake at 325 degrees F for 12 to 15 minutes.
 
 source: Alane Wolner or Grandma Janet?
-keywords: cookie
+keywords: cookies

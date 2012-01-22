@@ -49,6 +49,6 @@ Add chicken and cook for 3 minutes.  Add peanuts and 1 teaspoon sesame
 oil.  Stir and serve.
 
 source: various
-keywords: chicken, chinese
+keywords: poultry, chinese
 ratings: Linda-7, Tom-7, Kyle-8, Skylar-5 (needs rerating)
 time: 75 minutes
