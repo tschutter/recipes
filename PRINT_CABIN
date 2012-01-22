@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# meat
+./PRINT beef_pot_pie_with_biscuts.txt
+./PRINT potlatch_salmon.txt
+./PRINT dutch_oven_chicken.txt
+./PRINT dutch_oven_pork_chops.txt
+./PRINT spaghetti_meat_sauce.txt
+
+# vegetables
+./PRINT deluxe_potatoes_and_onions.txt
+
+# bread
+./PRINT dutch_oven_rolls.txt
+
+# dessert
+./PRINT lazy_cobbler.txt
