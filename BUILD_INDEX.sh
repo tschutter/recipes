@@ -3,7 +3,7 @@
 # Create index.html
 #
 
-echo "<!doctype html public "-//W3C//DTD HTML 3.2 Final//EN">" > index.html
+echo "<!doctype html public \"-//W3C//DTD HTML 3.2 Final//EN\">" > index.html
 echo "<html>" >> index.html
 echo "<head>" >> index.html
 echo "<title>recipes</title>" >> index.html
