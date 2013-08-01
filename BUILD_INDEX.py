@@ -7,6 +7,7 @@ Builds an index.html.
 import collections
 import glob
 import optparse
+import re
 
 SECTION_NAMES = [
     "Poultry",
@@ -60,6 +61,7 @@ def list_files(options):
         # Collect metadata from recipe.
         title = "unknown"
         keywords = []
+        ratings = ""
         with open(filename) as recipe:
             title = recipe.readline().strip()
             keywords = ""
@@ -68,7 +70,9 @@ def list_files(options):
                     keywords = [
                         keyword.strip() for keyword in line[10:].split(",")
                     ]
-                    break
+                elif line.startswith("ratings:"):
+                    if re.search(r"[0-9]", line):
+                        ratings = line[9:].strip()
 
         # Determine which section this recipe should be in.
         section_name = "Other"
@@ -80,7 +84,7 @@ def list_files(options):
             print "%45s: %s" % (filename, keywords)
 
         # Add the recipe to the section.
-        recipe = (title, filename)
+        recipe = (title, filename, ratings)
         sections[section_name].append(recipe)
 
     # Sort the recipes in each section by title.
@@ -104,9 +108,15 @@ def build_index(index, sections):
         index.write("<h2><a id=\"%s\">%s</h2>" % (section_name, section_name))
         index.write("<ul>\n")
         for recipe in recipes:
-            title, filename = recipe
+            title, filename, ratings = recipe
+            if len(ratings) > 0:
+                ratings = " (%s)" % ratings
             index.write(
-                "  <li><a href=\"%s\">%s</a></li>\n" % (filename, title)
+                "  <li><a href=\"%s\">%s</a>%s</li>\n" % (
+                    filename,
+                    title,
+                    ratings
+                )
             )
         index.write("</ul>\n")
     index.write("</body>\n")
