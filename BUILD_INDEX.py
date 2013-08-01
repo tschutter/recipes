@@ -65,7 +65,9 @@ def list_files(options):
             keywords = ""
             for line in recipe.readlines():
                 if line.startswith("keywords:"):
-                    keywords = line[10:].strip().split(",")
+                    keywords = [
+                        keyword.strip() for keyword in line[10:].split(",")
+                    ]
                     break
 
         # Determine which section this recipe should be in.
