@@ -1,5 +1,8 @@
 all: KEYWORDS index.html
 
+clean:
+	rm KEYWORDS index.html
+
 KEYWORDS: *.txt
 	grep --no-filename keywords: *.txt\
 	| grep -v "^keywords:$$"\
