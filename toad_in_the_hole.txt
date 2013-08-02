@@ -27,5 +27,5 @@ Bake at 425 degrees F for 30 minutes.
 source: Longmont Dairy
 servings: 6
 ratings: Linda-7, Tom-8, Kyle-10, Skylar-8
-keywords: sausage
+keywords: pork, sausage
 time: 45 minutes
