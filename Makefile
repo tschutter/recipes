@@ -7,7 +7,7 @@ KEYWORDS: *.txt
 	| awk '{c=split($$0, s, ","); for (n=1; n<=c; n++) print s[n] }'\
 	| sed 's/^  *//'\
 	| sort\
-	| uniq --count\
+	| uniq -c\
 	> KEYWORDS
 
 index.html: *.txt
