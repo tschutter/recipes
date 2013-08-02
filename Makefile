@@ -1,3 +1,5 @@
+all: KEYWORDS index.html
+
 KEYWORDS: *.txt
 	grep --no-filename keywords: *.txt\
 	| grep -v "^keywords:$$"\
@@ -7,3 +9,6 @@ KEYWORDS: *.txt
 	| sort\
 	| uniq --count\
 	> KEYWORDS
+
+index.html: *.txt
+	./BUILD_INDEX.py
