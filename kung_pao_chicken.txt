@@ -51,5 +51,5 @@ oil.  Stir and serve.
 
 source: various
 keywords: poultry, chinese
-ratings: Linda-7, Tom-7, Kyle-8, Skylar-5 (needs rerating)
+ratings: Linda-9, Tom-8, Kyle-8, Skylar-7
 time: 75 minutes
