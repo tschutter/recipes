@@ -12,6 +12,7 @@ import re
 SECTION_NAMES = [
     "Poultry",
     "Beef",
+    "Ground Beef",
     "Pork",
     "Seafood",
     "Soup",
@@ -27,6 +28,7 @@ SECTION_NAMES = [
 KEYWORD_TO_SECTION = {
     "chicken": "Poultry",
     "poultry": "Poultry",
+    "ground beef": "Ground Beef",
     "beef": "Beef",
     "pork": "Pork",
     "fish": "Seafood",
