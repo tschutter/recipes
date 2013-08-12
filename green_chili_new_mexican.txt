@@ -32,7 +32,7 @@ and onion.
 Remove cooked large pieces of fat and discard.
 
 Add chicken stock, green chile (about 1 1/4 to 1 1/2 cups of chopped
-chile) and chopped canned tomatoes.  With a wodden spoon, gently
+chile) and chopped canned tomatoes.  With a wooden spoon, gently
 scrape bottom and sides of pan to help flavor the stock.  With no lid
 on the stockpot, allow chile to come to a boil and then reduce heat to
 a light simmer.  Simmer for 1 to 1 1/2 hours, or until pork is
@@ -43,3 +43,5 @@ Just before serving add fresh cilantro to chili.
 
 source: Daily Camera
 keywords: pork, stew, southwest
+ratings: Linda-6, Tom-9, Kyle-8, Skylar-6
+time: 210 minutes
