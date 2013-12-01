@@ -90,7 +90,7 @@ def list_files(args):
         sections[section_name].append(recipe)
 
     # Sort the recipes in each section by title.
-    for sectionname in list(sections.keys()):
+    for sectionname in sections.keys():
         sections[sectionname] = sorted(sections[sectionname])
 
     return sections
@@ -105,9 +105,9 @@ def build_index(index, sections):
     index.write("<title>Recipes</title>\n")
     index.write("</head>\n")
     index.write("<h1 align=\"center\">Recipes</h1>\n")
-    for section_name in list(sections.keys()):
+    for section_name in sections.keys():
         index.write("<a href=\"#%s\">%s</a>\n" % (section_name, section_name))
-    for section_name, recipes in list(sections.items()):
+    for section_name, recipes in sections.items():
         index.write("<h2><a id=\"%s\">%s</h2>" % (section_name, section_name))
         index.write("<ul>\n")
         for recipe in recipes:
