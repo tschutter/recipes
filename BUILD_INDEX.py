@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 Builds an index.html.
@@ -6,7 +6,7 @@ Builds an index.html.
 
 import collections
 import glob
-import optparse
+import argparse
 import re
 
 SECTION_NAMES = [
@@ -47,7 +47,7 @@ KEYWORD_TO_SECTION = {
     "drink": "Drinks"
 }
 
-def list_files(options):
+def list_files(args):
     """Return a dictionary of type: [(filename, title)]."""
 
     # Initialize the ordered dictionary of sections.
@@ -82,15 +82,15 @@ def list_files(options):
             if keyword in KEYWORD_TO_SECTION:
                 section_name = KEYWORD_TO_SECTION[keyword]
                 break
-        if section_name == "Other" and options.print_other:
-            print "%45s: %s" % (filename, keywords)
+        if section_name == "Other" and args.print_other:
+            print("%45s: %s" % (filename, keywords))
 
         # Add the recipe to the section.
         recipe = (title, filename, ratings)
         sections[section_name].append(recipe)
 
     # Sort the recipes in each section by title.
-    for sectionname in sections.keys():
+    for sectionname in list(sections.keys()):
         sections[sectionname] = sorted(sections[sectionname])
 
     return sections
@@ -105,9 +105,9 @@ def build_index(index, sections):
     index.write("<title>Recipes</title>\n")
     index.write("</head>\n")
     index.write("<h1 align=\"center\">Recipes</h1>\n")
-    for section_name in sections.keys():
+    for section_name in list(sections.keys()):
         index.write("<a href=\"#%s\">%s</a>\n" % (section_name, section_name))
-    for section_name, recipes in sections.items():
+    for section_name, recipes in list(sections.items()):
         index.write("<h2><a id=\"%s\">%s</h2>" % (section_name, section_name))
         index.write("<ul>\n")
         for recipe in recipes:
@@ -128,28 +128,24 @@ def build_index(index, sections):
 
 def main():
     """main"""
-    option_parser = optparse.OptionParser(
-        usage="usage: %prog [options]\n" +
-        "  Create index.html."
+    arg_parser = argparse.ArgumentParser(
+        description="Create index.html for recipes."
     )
-    option_parser.add_option(
+    arg_parser.add_argument(
         "--print-other",
         action="store_true",
         default=False,
         help="print keywords for recipes in Other section"
     )
-
-    # Parse command line arguments.
-    (options, args) = option_parser.parse_args()
-    if len(args) > 0:
-        option_parser.error("invalid argument")
+    args = arg_parser.parse_args()
 
     # Do the work.
-    sections = list_files(options)
+    sections = list_files(args)
     with open("index.html", "w") as index:
         build_index(index, sections)
 
     return 0
+
 
 if __name__ == "__main__":
     main()
