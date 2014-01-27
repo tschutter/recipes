@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ $# -ne 1 -o "$1" = "--help" ]; then
+if [ $# -eq 0 -o "$1" = "--help" ]; then
   echo "USAGE: $0 filename [filename ...]"
   exit 1
 fi
