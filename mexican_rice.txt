@@ -5,7 +5,9 @@ Mexican Rice
 1 carrot, finely chopped
 1/2 green bell pepper, finely chopped
 2 cloves garlic, minced
+
 1 cup long grain rice
+
 2 cups chicken broth
 1 tomato, finely chopped
 1/2 teaspoon cumin
@@ -20,6 +22,6 @@ let rest for 5 more minutes.
 
 source: Tom Schutter
 keywords: rice
-ratings: Linda-?, Tom-8, Kyle-?, Skylar-?
-time: ? minutes
-things to try: corn, peas, jalapenos, salsa
+ratings: Linda-3, Tom-8, Kyle-6, Skylar-?
+time: 65 minutes
+things to try: corn, peas, > 6 jalapeno slices, salsa
