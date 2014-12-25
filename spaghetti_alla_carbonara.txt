@@ -12,7 +12,8 @@ Spaghetti alla Carbonara
 
 3 tablespoons heavy cream
 
-Melt butter in a skillet.  Add bacon and cook.  Remove pan from heat.
+Cut bacon crosswise into small strips.  Melt 1 tablespoon of the
+butter in a skillet.  Add bacon and cook.  Remove pan from heat.
 
 Start cooking spaghetti.
 
@@ -28,5 +29,5 @@ Serve with remaining cheese.
 
 source: Cecile Schutter
 keywords:
-ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
-time: ? minutes
+ratings: Linda-7, Tom-7, Kyle-?, Skylar-8
+time: 45 minutes
