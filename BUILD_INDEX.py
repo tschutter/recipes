@@ -1,9 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 """
 Builds an index.html.
 """
 
+from __future__ import print_function
 import collections
 import glob
 import argparse
@@ -46,6 +47,7 @@ KEYWORD_TO_SECTION = {
     "dessert": "Treats",
     "drink": "Drinks"
 }
+
 
 def list_files(args):
     """Return a dictionary of type: [(filename, title)]."""
