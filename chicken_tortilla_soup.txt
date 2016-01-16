@@ -9,7 +9,7 @@ Chicken Tortilla Soup
 3 green onions, chopped
 one carrot, shredded
 
-tortilla chips
+tortilla chips, broken up into bite-sized pieces
 1 cup white cheese
 sour cream
 
@@ -25,5 +25,5 @@ with sour cream.  Serve with warmed tortillas.
 
 source: Longmont Dairy
 keywords: chicken, soup
-ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
-time: ? minutes
+ratings: Linda-8, Tom-9, Kyle-?, Skylar-9
+time: 60 minutes
