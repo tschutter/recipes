@@ -1,4 +1,4 @@
-Chicken Philly Cheesesteaks
+Philly Chicken Cheesesteaks
 
 2 tablespoons olive oil
 1-1/2 pounds boneless, skinless chicken thighs, cut into strips
@@ -12,13 +12,14 @@ Chicken Philly Cheesesteaks
 
 Heat oil in a large skillet over medium-high heat.  Add the chicken,
 onion, and bell pepper.  Season with salt and pepper and cook until
-the chicken has browned, 10 to 12 minutes.
+the chicken has browned, 10 to 12 minutes.  Drain extra liquid as you
+cook.
 
 Heat broiler.  Fill the rolls with the chicken mixture, top with the
 provolone, and place on a rimmed baking sheet.  Broil until the
 provolone has melted, 2 to 3 minutes.  Serve with french fries.
 
-source: realsimple.com/food-recipes/browse-all-recipes/chicken-philly-cheesesteaks
+source: realsimple.com
 keywords: chicken
 ratings: Linda-8, Tom-8, Kyle-7, Skylar-9
-time: ?
+time: 50 minutes
