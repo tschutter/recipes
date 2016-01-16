@@ -1,4 +1,4 @@
-Turkey Soup
+Turkey Carcass Soup
 
 1 turkey carcass
 
@@ -14,6 +14,7 @@ Turkey Soup
 5 carrots, peeled and chopped
 4 stalks celery, chopped
 
+5 cups chopped leftover turkey (including carcass pickings)
 2 cups frozen corn
 1-1/2 cup rice
 
@@ -29,9 +30,10 @@ back to a boil over medium heat.
 
 Add onion, carrots, and celery and simmer for 15 minutes.
 
-Add corn and rice and simmer for another 15 minutes.  Salt to taste.
+Add turkey, corn and rice and simmer for another 15 minutes.  Salt to
+taste.
 
 source: Tom Schutter
 keywords: turkey, soup
-ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+ratings: Linda-7, Tom-9, Kyle-?, Skylar-8
 time: ? minutes
