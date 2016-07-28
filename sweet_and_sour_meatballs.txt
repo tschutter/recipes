@@ -26,7 +26,7 @@ cornstarch
 2 cups hot cooked rice
 
 In a large bowl, combine beef with bread crumbs, egg, salt, coriander,
-and horseradish.  Mix thoroughly.  Shape into 8 small balls.  Roll
+and horseradish.  Mix thoroughly.  Shape into 32 small balls.  Roll
 each ball in cornstarch.  Heat oil in wok to 375 degrees F.  Fry
 meatballs a few at a time until browned.  Remove and set aside.  Drain
 oil from wok.
@@ -43,5 +43,5 @@ Serve over rice.
 
 source: unknown
 keywords: chinese, wok
-ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
-time: ? minutes
+ratings: Linda-5, Tom-8, Kyle-5, Skylar-8
+time: 75 minutes
