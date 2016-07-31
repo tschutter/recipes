@@ -3,6 +3,7 @@ Dutch Oven Chicken
 1 chicken
 flour
 seasoning
+oil
 
 Preheat 3 cups of water.
 
@@ -19,5 +20,5 @@ approximately 1 hour or until tender.  Make sure there is always a
 small amount of moisture in the dutch oven.
 
 source: World Championship Dutch Oven Cookbook
-keywords: poultry, dutch oven
-ratings: Linda-8, Tom-8, Kyle-8
+keywords: poultry, dutch oven, cabin
+ratings: Linda-8, Tom-8, Kyle-8, Skylar-?
