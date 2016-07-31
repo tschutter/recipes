@@ -5,7 +5,7 @@ Beef Pot Pie with Biscuits
 1/2 cup water
 
 4 medium potatoes
-4 onions
+3 onions
 6 carrots
 1 stalk celery
 
@@ -28,6 +28,6 @@ meat and vegetables.  Recover.  Add heat to the top.  Cook until the
 biscuits are brown and the vegetables are done.
 
 source: Let's Cook Dutch
-keywords: beef, dutch oven
+keywords: beef, dutch oven, cabin
 time: 2 hours
-ratings: Linda-8, Tom-8, Kyle-7
+ratings: Linda-8, Tom-8, Kyle-7, Skylar-7
