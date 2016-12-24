@@ -1,6 +1,6 @@
 Crock Pot Christmas Crack
 
-176 ounces unsalted peanuts
+16 ounces unsalted peanuts
 16 ounces salted peanuts
 12 ounces semi sweet chocolate chips
 12 ounces milk chocolate chips
@@ -16,5 +16,6 @@ harden for at least 1 hour.
 
 source: Cecile Schutter
 keywords:
-ratings: Linda-?, Tom-8, Kyle-?, Skylar-?
+ratings: Linda-7, Tom-8, Kyle-10, Skylar-5
 time: 4 hours
+notes: too dry, try shorter cook time
