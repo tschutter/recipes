@@ -6,7 +6,7 @@ Hawaiian Stir-Fry Ground Beef
 1/4 cup chopped water chestnuts
 1/4 cup chopped green onions
 1 clove garlic, finely minced
-1/4 cup candied ginger, finely chopped
+1/2 cup candied ginger, finely chopped
 
 1/4 cup beef broth
 
@@ -29,5 +29,5 @@ Serve over rice.
 
 source: unknown
 keywords: chinese, wok
-ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+ratings: Linda-8, Tom-8, Kyle-8, Skylar-8
 time: ? minutes
