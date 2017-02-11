@@ -8,7 +8,7 @@ Steak with Tomato Sauce
 1/4 cup oil
 1 onion
 
-1 8-ounce can tomato sauce
+1 14 ounce can diced tomatoes
 1/2 can water
 1 4-ounce can mushrooms
 
@@ -23,6 +23,6 @@ Add tomato sauce, water, and mushrooms.  Cover and bake at 350 degrees
 for 2 hours.  Add liquid if dry.
 
 source: unknown
-keywords: bread
-ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+keywords: beef
+ratings: Linda-?, Tom-9, Kyle-?, Skylar-8, Benjamin-9
 time: ? minutes
