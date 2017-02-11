@@ -1,7 +1,5 @@
-Boiling and Steaming
-
-Boiling
--------
+Boiling Times
+-------------
 Broccoli         10 min
 Corn on the cob   4 min
 Green beans      20 min
@@ -16,3 +14,12 @@ Carrots (sliced) 30 min
 Cauliflower      30 min
 Peas             30 min
 Spinach          20 min
+
+Portions
+--------
+Pasta     70 g
+Broccoli 100 g
+
+Conversions
+-----------
+1 cup flour = 125 g
