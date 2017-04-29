@@ -10,6 +10,8 @@ import glob
 import argparse
 import re
 
+IGNORE_FILES = ["LICENSE.txt", "TEMPLATE.txt"]
+
 SECTION_NAMES = [
     "Poultry",
     "Beef",
@@ -59,7 +61,7 @@ def list_files(args):
 
     # Loop through all recipes on disk.
     for filename in sorted(glob.glob("*.txt")):
-        if filename == "TEMPLATE.txt":
+        if filename in IGNORE_FILES:
             continue
 
         # Collect metadata from recipe.
@@ -68,7 +70,6 @@ def list_files(args):
         ratings = ""
         with open(filename) as recipe:
             title = recipe.readline().strip()
-            keywords = ""
             for line in recipe.readlines():
                 if line.startswith("keywords:"):
                     keywords = [
