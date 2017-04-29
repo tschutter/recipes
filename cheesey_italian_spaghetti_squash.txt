@@ -35,6 +35,6 @@ cheese.
 Bake uncovered at 375 degrees F for 40 minutes.
 
 source: Alane Wolner
-keywords: side dish, vegetable
+keywords: vegetable
 ratings: Linda-?, Tom-7, Kyle-?, Skylar-?
 time: ?

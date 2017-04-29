@@ -36,6 +36,6 @@ Dice the avocado and dress with the lime juice.
 Serve shrimp and avocado over rice.
 
 source: http://www.foodnetwork.com/recipes/rachael-ray/sweet-n-spicy-shrimp-lettuce-tacos.html
-keywords:
+keywords: shrimp
 ratings: Linda-9, Tom-9, Kyle-?, Skylar-9
 time: 45 minutes

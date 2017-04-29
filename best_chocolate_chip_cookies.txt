@@ -61,6 +61,6 @@ container, plastic bag, or cookie jar at room temperature for up to 5
 days.
 
 source: http://www.seriouseats.com/
-keywords:
+keywords: cookies
 ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 time: ? minutes
