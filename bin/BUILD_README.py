@@ -15,10 +15,11 @@ from __future__ import print_function
 import collections
 import glob
 import argparse
+import os
 import re
 import textwrap
 
-IGNORE_TXT_FILES = ["LICENSE.txt", "TEMPLATE.txt"]
+IGNORE_TXT_FILES = ["TEMPLATE.txt"]
 
 SECTION_NAMES = [
     "Poultry",
@@ -77,10 +78,10 @@ def write_header(readme, name, level):
 def write_file_header(readme):
     """Write the README.md file header."""
 
-    write_header(readme, "Family Recipes", "=")
+    write_header(readme, "Culinary Recipes", "=")
 
 
-def list_files(args):
+def list_files(args, root_dir):
     """Return a dictionary of type: [(filename, title)]."""
 
     # Initialize the ordered dictionary of sections.
@@ -89,7 +90,8 @@ def list_files(args):
         sections[section_name] = []
 
     # Loop through all recipes on disk.
-    for filename in sorted(glob.glob("*.txt")):
+    os.chdir(root_dir)
+    for filename in sorted(glob.glob(os.path.join("r", "*.txt"))):
         if filename in IGNORE_TXT_FILES:
             continue
 
@@ -144,7 +146,7 @@ def write_file_body(readme, sections):
             title, filename, ratings = recipe
             if ratings:
                 ratings = f" ({ratings})"
-            readme.write(f"- [{title}]({filename}){ratings}\n")
+            readme.write(f"- [{title}]({filename}?raw=true){ratings}\n")
 
 
 def write_file_footer(readme):
@@ -181,9 +183,12 @@ def main():
     )
     args = arg_parser.parse_args()
 
+    # Locate the root directory.
+    root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
     # Do the work.
-    sections = list_files(args)
-    with open("README.md", "w") as readme:
+    sections = list_files(args, root_dir)
+    with open(os.path.join(root_dir, "README.md"), "w") as readme:
         write_file_header(readme)
         write_file_body(readme, sections)
         write_file_footer(readme)
