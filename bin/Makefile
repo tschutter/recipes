@@ -1,17 +1,20 @@
-all: KEYWORDS index.html
+KEYWORDS:=../KEYWORDS
+README:=../README.md
+
+all: $(KEYWORDS) $(README)
 
 clean:
-	rm KEYWORDS index.html
+	rm $(KEYWORDS) $(README)
 
-KEYWORDS: *.txt
-	grep --no-filename keywords: *.txt\
+$(KEYWORDS): ../r/*.txt
+	grep --no-filename keywords: ../r/*.txt\
 	| grep -v "^keywords:$$"\
 	| cut -d ' ' -f 2-\
 	| awk '{c=split($$0, s, ","); for (n=1; n<=c; n++) print s[n] }'\
 	| sed 's/^  *//'\
 	| sort\
 	| uniq -c\
-	> KEYWORDS
+	> $(KEYWORDS)
 
-index.html: *.txt
-	./BUILD_INDEX.py
+$(README): ../r/*.txt
+	./BUILD_README.py
