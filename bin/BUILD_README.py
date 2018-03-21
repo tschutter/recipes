@@ -19,8 +19,13 @@ import os
 import re
 import textwrap
 
+# Arabic Five Pointed Star
+UNICODE_STAR = "&#066D;"
+
+# .txt files to ignore.
 IGNORE_TXT_FILES = ["TEMPLATE.txt"]
 
+# Ordered list of section names.
 SECTION_NAMES = [
     "Poultry",
     "Beef",
@@ -39,6 +44,8 @@ SECTION_NAMES = [
     "Other"
 ]
 
+# Map of keyword to section name.  Should merge this with
+# SECTION_NAMES.
 KEYWORD_TO_SECTION = {
     "appetizer": "Appetizers",
     "beef": "Beef",
@@ -117,7 +124,11 @@ def list_files(args, root_dir):
                 section_name = KEYWORD_TO_SECTION[keyword]
                 break
         if section_name == "Other" and args.print_other:
-            print("%45s: %s" % (filename, keywords))
+            print(f"{filename:45}: {keywords}")
+
+        # Flag favorite recipes.
+        if "favorite" in keywords:
+            title += " " + UNICODE_STAR
 
         # Add the recipe to the section.
         recipe = (title, filename, ratings)
@@ -163,8 +174,12 @@ def write_file_footer(readme):
 
             Design
             ------
-            All recipes are ASCII text files.
-            100 years from now anyone will be able to read them.
+            - All recipes are ASCII text files.
+            - 100 years from now anyone will be able to read them.
+            - No funky abbreviations.  Tablespoons, not tbsp.
+            - Flour is measured by mass instead of volume when baking.
+            - Ingredients are ordered to make prep and cleanup easier.
+            - Ingredients are logically grouped.
             """
         )
     )
