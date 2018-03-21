@@ -32,6 +32,6 @@ Per serving:
   10mg cholesterol
 
 source: Parade Magazine
-keywords: soup
+keywords: soup, favorite
 ratings: Tom-9, Linda-8, Kyle-10, Skylar-8
 time: ?

@@ -20,6 +20,6 @@ Bake at 450 degrees F for 15 to 20 minutes (place a small bowl of
 water in the oven, which will help to create steam).
 
 source: Club Med
-keywords: bread
+keywords: bread, favorite
 ratings: Linda-10, Tom-10, Kyle-10, Skylar-10
 time: 125 minutes
