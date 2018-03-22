@@ -126,12 +126,8 @@ def list_files(args, root_dir):
         if section_name == "Other" and args.print_other:
             print(f"{filename:45}: {keywords}")
 
-        # Flag favorite recipes.
-        if "favorite" in keywords:
-            title += " " + STAR_CHARACTER
-
         # Add the recipe to the section.
-        recipe = (title, filename, ratings)
+        recipe = (title, filename, keywords, ratings)
         sections[section_name].append(recipe)
 
     # Sort the recipes in each section by title.
@@ -154,10 +150,13 @@ def write_file_body(readme, sections):
         readme.write("\n")
         write_header(readme, section_name, "-")
         for recipe in recipes:
-            title, filename, ratings = recipe
+            title, filename, keywords, ratings = recipe
+            item = f"- [{title}]({filename}?raw=true)"
+            if "favorite" in keywords:
+                item += " " + STAR_CHARACTER
             if ratings:
-                ratings = f" ({ratings})"
-            readme.write(f"- [{title}]({filename}?raw=true){ratings}\n")
+                item += f" ({ratings})"
+            readme.write(item + "\n")
 
 
 def write_file_footer(readme):
