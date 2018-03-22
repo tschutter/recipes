@@ -324,7 +324,6 @@ Other
 - [Playdough](r/playdough.txt?raw=true)
 - [Rhumba Yam-Allspice Butter](r/rhumba_yam_allspice_butter.txt?raw=true)
 - [Roasted Garlic](r/roasted_garlic.txt?raw=true)
-- [Title](r/TEMPLATE.txt?raw=true)
 
 Usage
 -----
@@ -340,3 +339,4 @@ Design
 - Flour is measured by mass instead of volume when baking.
 - Ingredients are ordered to make prep and cleanup easier.
 - Ingredients are logically grouped.
+- This file was created by [BUILD_README.py](bin/BUILD_README.py)
