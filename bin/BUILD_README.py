@@ -23,53 +23,28 @@ import textwrap
 STAR_CHARACTER = ":star:"
 
 # .txt files to ignore.
-IGNORE_TXT_FILES = ["TEMPLATE.txt"]
+IGNORE_TXT_FILES = ["r/TEMPLATE.txt"]
 
 # Ordered list of section names.
-SECTION_NAMES = [
-    "Poultry",
-    "Beef",
-    "Ground Beef",
-    "Pork",
-    "Lamb",
-    "Seafood",
-    "Soup (Veg)",
-    "Vegetable",
-    "Side Dish",
-    "Bread",
-    "Breakfast",
-    "Treats",
-    "Appetizers",
-    "Drinks",
-    "Other"
-]
-
-# Map of keyword to section name.  Should merge this with
-# SECTION_NAMES.
-KEYWORD_TO_SECTION = {
-    "appetizer": "Appetizers",
-    "beef": "Beef",
-    "bread": "Bread",
-    "breakfast": "Breakfast",
-    "chicken": "Poultry",
-    "chocolate": "Treats",
-    "cookie press": "Treats",
-    "cookies": "Treats",
-    "dessert": "Treats",
-    "drink": "Drinks",
-    "fish": "Seafood",
-    "ground beef": "Ground Beef",
-    "lamb": "Lamb",
-    "pork": "Pork",
-    "poultry": "Poultry",
-    "rice": "Side Dish",
-    "salad": "Side Dish",
-    "seafood": "Seafood",
-    "shrimp": "Seafood",
-    "side dish": "Side Dish",
-    "soup": "Soup (Veg)",
-    "vegetable": "Vegetable"
-}
+SECTIONS = collections.OrderedDict(
+    [
+        ("Poultry", ("chicken", "poultry")),
+        ("Beef", ("beef",)),
+        ("Ground Beef", ("ground beef",)),
+        ("Pork", ("pork",)),
+        ("Lamb", ("lamb",)),
+        ("Seafood", ("fish", "seafood", "shrimp")),
+        ("Soup (Veg)", ("soup",)),
+        ("Vegetable", ("vegetable",)),
+        ("Side Dish", ("rice", "salad", "side dish")),
+        ("Bread", ("bread",)),
+        ("Breakfast", ("breakfast",)),
+        ("Treats", ("chocolate", "cookie press", "cookies", "dessert")),
+        ("Appetizers", ("appetizer",)),
+        ("Drinks", ("drink",)),
+        ("Other", ())
+    ]
+)
 
 
 def write_header(readme, name, level):
@@ -88,13 +63,27 @@ def write_file_header(readme):
     write_header(readme, "Culinary Recipes", "=")
 
 
+def create_keyword_to_section_name():
+    """Create a map of keyword to section name."""
+
+    keyword_to_section_name = {}
+    for section_name, keywords in SECTIONS.items():
+        for keyword in keywords:
+            keyword_to_section_name[keyword] = section_name
+
+    return keyword_to_section_name
+
+
 def list_files(args, root_dir):
     """Return a dictionary of type: [(filename, title)]."""
 
+    # Create a map of keyword to section name.
+    keyword_to_section_name = create_keyword_to_section_name()
+
     # Initialize the ordered dictionary of sections.
-    sections = collections.OrderedDict()
-    for section_name in SECTION_NAMES:
-        sections[section_name] = []
+    recipies = collections.OrderedDict()
+    for section_name in SECTIONS:
+        recipies[section_name] = []
 
     # Loop through all recipes on disk.
     os.chdir(root_dir)
@@ -120,21 +109,21 @@ def list_files(args, root_dir):
         # Determine which section this recipe should be in.
         section_name = "Other"
         for keyword in keywords:
-            if keyword in KEYWORD_TO_SECTION:
-                section_name = KEYWORD_TO_SECTION[keyword]
+            if keyword in keyword_to_section_name:
+                section_name = keyword_to_section_name[keyword]
                 break
         if section_name == "Other" and args.print_other:
             print(f"{filename:45}: {keywords}")
 
         # Add the recipe to the section.
         recipe = (title, filename, keywords, ratings)
-        sections[section_name].append(recipe)
+        recipies[section_name].append(recipe)
 
     # Sort the recipes in each section by title.
-    for sectionname in sections.keys():
-        sections[sectionname] = sorted(sections[sectionname])
+    for sectionname in recipies.keys():
+        recipies[sectionname] = sorted(recipies[sectionname])
 
-    return sections
+    return recipies
 
 
 def write_file_body(readme, sections):
@@ -179,6 +168,7 @@ def write_file_footer(readme):
             - Flour is measured by mass instead of volume when baking.
             - Ingredients are ordered to make prep and cleanup easier.
             - Ingredients are logically grouped.
+            - This file was created by [BUILD_README.py](bin/BUILD_README.py)
             """
         )
     )
