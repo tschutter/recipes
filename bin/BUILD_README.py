@@ -19,8 +19,8 @@ import os
 import re
 import textwrap
 
-# Arabic Five Pointed Star
-UNICODE_STAR = "&#066D;"
+# Markdown star emoji
+STAR_CHARACTER = ":star:"
 
 # .txt files to ignore.
 IGNORE_TXT_FILES = ["TEMPLATE.txt"]
@@ -128,7 +128,7 @@ def list_files(args, root_dir):
 
         # Flag favorite recipes.
         if "favorite" in keywords:
-            title += " " + UNICODE_STAR
+            title += " " + STAR_CHARACTER
 
         # Add the recipe to the section.
         recipe = (title, filename, ratings)
