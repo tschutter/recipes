@@ -45,7 +45,7 @@ def convert(input_lines):
                 continue
             else:
                 output_lines.append(line)
-                output_lines.append("-" * len(line) + "\n")
+                output_lines.append("-" * (len(line) - 1) + "\n")
                 continue
 
         if state == "ingredients":
