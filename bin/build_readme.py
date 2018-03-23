@@ -22,8 +22,8 @@ import textwrap
 # Markdown star emoji
 STAR_CHARACTER = ":star:"
 
-# .txt files to ignore.
-IGNORE_TXT_FILES = ["r/TEMPLATE.txt"]
+# Recipe files to ignore.
+IGNORE_FILES = ["r/TEMPLATE.md"]
 
 # Ordered list of section names.
 SECTIONS = collections.OrderedDict(
@@ -87,8 +87,8 @@ def list_files(args, root_dir):
 
     # Loop through all recipes on disk.
     os.chdir(root_dir)
-    for filename in sorted(glob.glob(os.path.join("r", "*.txt"))):
-        if filename in IGNORE_TXT_FILES:
+    for filename in sorted(glob.glob(os.path.join("r", "*.md"))):
+        if filename in IGNORE_FILES:
             continue
 
         # Collect metadata from recipe.
