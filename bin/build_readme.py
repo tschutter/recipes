@@ -57,6 +57,12 @@ def write_header(readme, name, level):
     readme.write(f"{name}\n{level * len(name)}\n")
 
 
+def write_file_header(readme):
+    """Write the README.md file header."""
+
+    write_header(readme, "tschutter Culinary Recipes", "=")
+
+
 def create_keyword_to_section_name():
     """Create a map of keyword to section name."""
 
@@ -125,7 +131,6 @@ def write_file_body(readme, sections):
 
     # Table of contents.
     readme.write("\n")
-    write_header(readme, "Table of Contents", "-")
     for name in sections.keys():
         readme.write(f"- [{name}](#{name.lower().replace(' ', '-')})\n")
 
@@ -187,6 +192,7 @@ def main():
     # Do the work.
     sections = list_files(args, root_dir)
     with open(os.path.join(root_dir, "README.md"), "w") as readme:
+        write_file_header(readme)
         write_file_body(readme, sections)
         write_file_footer(readme)
 

@@ -1,6 +1,6 @@
+tschutter Culinary Recipes
+==========================
 
-Table of Contents
------------------
 - [Poultry](#poultry)
 - [Beef](#beef)
 - [Ground Beef](#ground-beef)
