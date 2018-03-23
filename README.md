@@ -1,5 +1,3 @@
-Culinary Recipes
-================
 
 Table of Contents
 -----------------
