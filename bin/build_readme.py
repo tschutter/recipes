@@ -98,13 +98,13 @@ def list_files(args, root_dir):
         with open(filename) as recipe:
             title = recipe.readline().strip()
             for line in recipe.readlines():
-                if line.startswith("keywords:"):
+                if line.startswith("- keywords:"):
                     keywords = [
-                        keyword.strip() for keyword in line[10:].split(",")
+                        keyword.strip() for keyword in line[12:].split(",")
                     ]
-                elif line.startswith("ratings:"):
+                elif line.startswith("- ratings:"):
                     if re.search(r"[0-9]", line):
-                        ratings = line[9:].strip()
+                        ratings = line[11:].strip()
 
         # Determine which section this recipe should be in.
         section_name = "Other"
