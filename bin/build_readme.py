@@ -168,7 +168,7 @@ def write_file_footer(readme):
             - Flour is measured by mass instead of volume when baking.
             - Ingredients are ordered to make prep and cleanup easier.
             - Ingredients are logically grouped.
-            - This file was created by [BUILD_README.py](bin/BUILD_README.py)
+            - This file was created by [build_readme.py](bin/build_readme.py)
             """
         )
     )

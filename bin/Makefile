@@ -17,4 +17,4 @@ $(KEYWORDS): ../r/*.txt
 	> $(KEYWORDS)
 
 $(README): ../r/*.txt
-	./BUILD_README.py
+	./build_readme.py
