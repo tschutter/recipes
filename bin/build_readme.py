@@ -140,7 +140,7 @@ def write_file_body(readme, sections):
         write_header(readme, section_name, "-")
         for recipe in recipes:
             title, filename, keywords, ratings = recipe
-            item = f"- [{title}]({filename}?raw=true)"
+            item = f"- [{title}]({filename[:-3]})"
             if "favorite" in keywords:
                 item += " " + STAR_CHARACTER
             if ratings:
