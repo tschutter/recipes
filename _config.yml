@@ -1,5 +1,4 @@
 plugins:
   - jemoji
-favicon: "ironcat.ico"
 
 theme: jekyll-theme-minimal
