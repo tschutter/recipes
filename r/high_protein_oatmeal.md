@@ -38,4 +38,4 @@ This recipe has been doubled to fit a 6-quart slow cooker.
 - source: http://www.apexnutritionllc.com
 - keywords: breakfast, favorite
 - ratings: Linda-9, Tom-9, Kyle-?, Skylar-?
-- time: ? minutes
+- time: 20 minutes + 4 hours
