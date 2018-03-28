@@ -8,5 +8,5 @@ fi
 for FILE in $*; do
   # https://bugs.launchpad.net/ubuntu/+source/ttf-freefont/+bug/447961
   #sed -e 's/^/              /' "${FILE}" | lp -o cpi=16.5 -o lpi=6
-  sed -e 's/^/       /' "${FILE}" | lp
+  sed -e 's/^/       /' -e 's/<!-- *-->//' "${FILE}" | lp
 done
