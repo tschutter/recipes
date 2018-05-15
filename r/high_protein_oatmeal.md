@@ -6,10 +6,10 @@ High-Protein Oatmeal
 - 2 cups steel-cut oats
 - 1/2 cup hemp seeds
 - 1/2 cup chia seeds
+- 4 teaspoons cinnamon
 <!-- -->
 - 3 cups unsweetened non-dairy milk
 - 6 cups water
-- 4 teaspoons cinnamon
 - 1 teaspoon salt
 - 1/2 cup brown sugar
 - 1/4 cup coconut oil
@@ -21,12 +21,13 @@ High-Protein Oatmeal
 
 Grease a slow cooker with coconut oil, butter, or an oil spray.
 
-Blend oats, hemp seeds, and chia seeds in a bowl.  This prevents the
-chia seeds from clumping.  Place in the slow cooker.
+Blend oats, hemp seeds, chia seeds, and cinnamon in a bowl.  This
+prevents the chia seeds and cinnamon from clumping.  Place in the slow
+cooker.
 
-Add milk, water, cinnamon, salt, brown sugar, coconut oil, and maple
-syrup to the slow cooker.  Cover.  Cook on low for 2 hours, stirring
-every half hour.
+Add milk, water, salt, brown sugar, coconut oil, and maple syrup to
+the slow cooker.  Cover.  Cook on low for 2 hours, stirring every half
+hour.
 
 Add chopped apple to the cooker.  Cook on low for 2 hours, stirring
 every 20 minutes.
