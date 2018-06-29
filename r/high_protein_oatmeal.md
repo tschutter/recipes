@@ -2,21 +2,21 @@ High-Protein Oatmeal
 --------------------
 
 - 1 tablespoon coconut oil
-
+\
 - 2 cups steel-cut oats
 - 1/2 cup hemp seeds
 - 1/2 cup chia seeds
 - 4 teaspoons cinnamon
-
+\
 - 3 cups unsweetened non-dairy milk
 - 6 cups water
 - 1 teaspoon salt
 - 1/2 cup brown sugar
 - 1/4 cup coconut oil
 - 1/4 cup real maple syrup or organic or local honey
-
+\
 - 4 large apples, cored and chopped
-
+\
 - 2 teaspoons vanilla extract
 
 Grease a slow cooker with coconut oil, butter, or an oil spray.
