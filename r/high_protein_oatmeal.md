@@ -29,8 +29,8 @@ Add milk, water, salt, brown sugar, coconut oil, and maple syrup to
 the slow cooker.  Cover.  Cook on low for 2 hours, stirring every half
 hour.
 
-Add chopped apple to the cooker.  Cook on low for 2 hours, stirring
-every 20 minutes.
+Add chopped apple to the cooker.  Cook on low for another 2 hours,
+stirring every 20 minutes.
 
 Add vanilla before serving.
 
@@ -38,5 +38,5 @@ This recipe has been doubled to fit a 6-quart slow cooker.
 
 - source: http://www.apexnutritionllc.com
 - keywords: breakfast, favorite
-- ratings: Linda-9, Tom-9, Kyle-?, Skylar-?
+- ratings: Linda-9, Tom-9, Kyle-8, Skylar-9
 - time: 20 minutes + 4 hours
