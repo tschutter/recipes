@@ -18,9 +18,9 @@ Tangy Apple Sausage Quiche
 - 1 cup shredded sharp cheddar
 <!-- -->
 - 9 inch pastry shell
-
-parsley
-tart apple slices for garnishing
+<!-- -->
+- parsley
+- tart apple slices for garnishing
 
 Heat olive oil in skillet over medium heat.  Put apple, sugar, lemon
 juice, and pepper flakes in skillet.  Cook over medium heat until
