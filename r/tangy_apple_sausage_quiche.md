@@ -10,13 +10,14 @@ Tangy Apple Sausage Quiche
 - 12 ounces pork sausage
 - 1/2 cup minced onion
 <!-- -->
-- 9 inch pastry shell
-<!-- -->
-- 1 cup shredded sharp cheddar
 - 3 eggs
 - 1-1/2 cups half & half
 - 1/4 teaspoon salt
 - dash of black pepper
+<!-- -->
+- 1 cup shredded sharp cheddar
+<!-- -->
+- 9 inch pastry shell
 
 parsley
 tart apple slices for garnishing
@@ -26,11 +27,13 @@ juice, and pepper flakes in skillet.  Cook over medium heat until
 apple is tender and liquid is gone.  Put aside.
 
 Cook sausage and onion in skillet until brown.  Drain grease and put
-sausage aside.
+aside.
 
-Put sausage into pie shell.  Top with apple mixture and cheese.  Whisk
-eggs, half & half, salt, and a dash of black pepper together, until
-well blended.  Pour over cheese.  Sprinkle with parsley.
+Whisk eggs, half & half, salt, and a dash of black pepper together,
+until well blended.
+
+Put sausage into pie shell.  Top with apple mixture and cheese.  Pour
+egg mixture over cheese.  Sprinkle with parsley.
 
 Bake uncovered 55 to 60 minutes at 375 degrees F, or until knife comes
 out clean.  Let cool 10 minutes before slicing.  Garnish with apple
