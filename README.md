@@ -332,6 +332,7 @@ Usage
 -----
 ```shell
 git clone git://github.com/tschutter/recipes.git
+bin/build_readme.py
 ```
 
 Design
@@ -343,3 +344,7 @@ Design
 - Ingredients are ordered to make prep and cleanup easier.
 - Ingredients are logically grouped.
 - This file was created by [build_readme.py](bin/build_readme.py)
+
+See Also
+--------
+http://github.com/kschutter/recipes
