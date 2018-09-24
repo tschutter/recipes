@@ -185,7 +185,7 @@ def write_file_footer(readme):
 
             See Also
             --------
-            http://github.com/kschutter/recipes
+            - http://github.com/kschutter/recipes
             """
         )
     )
