@@ -1,5 +1,8 @@
 tschutter Culinary Recipes
 ==========================
+{% comment %}
+Links on this page do not work, use http://tschutter.github.io/recipes/ instead.
+{% endcomment %}
 
 - [Poultry](#poultry)
 - [Beef](#beef)
@@ -133,6 +136,7 @@ Seafood
 - [Creamy Crab Chowder](r/creamy_crab_chowder)
 - [Garlic Lime Shrimp](r/garlic_lime_shrimp) :star: (Linda-9, Tom-9, Kyle-8, Skylar-9)
 - [Garlic Shrimp](r/garlic_shrimp) (Linda-7, Tom-6, Kyle-?, Skylar-?)
+- [Garlicky Baked Shrimp](r/garlicy_baked_shrimp) (Linda-9, Tom-9, Kyle-?, Skylar-?)
 - [Glazed Salmon](r/glazed_salmon) :star: (Linda-10, Tom-9, Kyle-?, Skylar-9)
 - [Grilled Salmon With Pineapple Salsa](r/grilled_salmon_pineapple_salsa)
 - [Grilled Tilipia With Cherry Salsa](r/grilled_tilipia_with_cherry_salsa) (Linda-8, Tom-7, Kyle-6, Skylar-9)
@@ -172,6 +176,7 @@ Vegetable
 - [Mint Carrots](r/mint_carrots) (Linda-10, Tom-10, Kyle-7, Skylar-3)
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
 - [Smashed Potatoes and Peas](r/smashed_potatoes_and_peas) (Linda-8, Tom-8, Kyle-9, Skylar-8)
+- [Stuffed Red Peppers](r/stuffed_red_peppers)
 - [Sugar Peas Almondine](r/sugar_peas_almondine) (Linda-10, Tom-8, Kyle-5)
 - [Sweet Gingered Corn](r/sweet_gingered_corn) (Linda-7, Tom-9, Kyle-, Skylar-7)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
@@ -236,7 +241,7 @@ Breakfast
 ---------
 - [Apple Pancakes](r/apple_pancakes)
 - [Belgian Waffles](r/belgian_waffles)
-- [High-Protein Oatmeal](r/high_protein_oatmeal) :star: (Linda-9, Tom-9, Kyle-?, Skylar-?)
+- [High-Protein Oatmeal](r/high_protein_oatmeal) :star: (Linda-9, Tom-9, Kyle-8, Skylar-9)
 - [Stuffed Cinnamon Toast](r/stuffed_cinnamon_toast)
 
 Treats

@@ -57,10 +57,23 @@ def write_header(readme, name, level):
     readme.write(f"{name}\n{level * len(name)}\n")
 
 
+def write_comment(readme, comment):
+    """
+    Write a comment element.
+    """
+
+    readme.write(f"{{% comment %}}\n{comment}\n{{% endcomment %}}\n")
+
+
 def write_file_header(readme):
     """Write the README.md file header."""
 
     write_header(readme, "tschutter Culinary Recipes", "=")
+    write_comment(
+        readme,
+        "Links on this page do not work,"
+        " use http://tschutter.github.io/recipes/ instead."
+    )
 
 
 def create_keyword_to_section_name():
