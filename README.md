@@ -64,6 +64,7 @@ Beef
 - [Braised Short Ribs](r/braised_short_ribs) (Linda-6, Tom-9, Kyle-6, Skylar-9, Benjamin-9)
 - [Dr Pepper Tenderloin](r/dr_pepper_tenderloin) (Linda-9, Tom-9, Kyle-8, Skylar-6)
 - [Easy Chuck Roast](r/easy_chuck_roast) (Linda-7, Tom-9, Kyle-7, Skylar-9)
+- [Easy Fall-Apart Pot Roast](r/easy_fall_apart_pot_roast) (Linda-9, Tom-9, Kyle-?, Skylar-?)
 - [Honey Steak Marinade](r/honey_steak_marinade) (Linda-9, Tom-9, Kyle-9, Skylar-8)
 - [Italian Steak Marinade](r/italian_steak_marinade) (Linda-9, Tom-9, Kyle-9, Skylar-9)
 - [Massaman Curry With Beef](r/massaman_curry_with_beef) (Linda-7, Tom-7, Kyle-?, Skylar-8 (rated without coriander & water))
@@ -347,4 +348,4 @@ Design
 
 See Also
 --------
-http://github.com/kschutter/recipes
+- http://github.com/kschutter/recipes
