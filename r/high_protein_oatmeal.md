@@ -8,7 +8,7 @@ High-Protein Oatmeal
 - 1/2 cup chia seeds
 - 4 teaspoons cinnamon
 <!-- -->
-- 3 cups unsweetened non-dairy milk
+- 3-1/2 cups unsweetened non-dairy milk
 - 6 cups water
 - 1 teaspoon salt
 - 1/2 cup brown sugar
