@@ -16,8 +16,8 @@ Carrot Chicken Salad
 - 2 tablespoons olive oil
 - 2 tablespoons water
 - 1 garlic clove, minced
-- ? teaspoon sea salt
-- ? teaspoon red pepper flakes
+- 1/2 teaspoon sea salt
+- 1/2 teaspoon red pepper flakes
 <!-- -->
 - 1 pound carrots
 - 1/4 cup parsley
@@ -30,8 +30,9 @@ salt and pepper.  Roast for 25 minutes and remove.
 
 Drain and rinse chickpeas.  Pat dry with paper towels.  Toss chickpeas
 with olive oil, sea salt, and cumin.  Spread in a single layer on a
-sheet pan.  Roast 15-20 minutes or until browned and crisped, tossing
-occasionally.
+sheet pan.  Roast 25-30 minutes or until browned and crisped, tossing
+occasionally.  Check frequently at the end of roasting as they will
+quickly burn after the moisture is gone.
 
 Once chicken has cooled, chop or pull into bite-sized pieces.
 
@@ -47,5 +48,5 @@ on the side.
 
 - source: Parade Magazine, 2017-10-01
 - keywords: chicken
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
-- time: ? minutes
+- ratings: Linda-6, Tom-7, Kyle-?, Skylar-?
+- time: 40 minutes
