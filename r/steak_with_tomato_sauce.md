@@ -25,5 +25,5 @@ for 2 hours.  Add liquid if dry.
 
 - source: unknown
 - keywords: beef
-- ratings: Linda-?, Tom-9, Kyle-?, Skylar-8, Benjamin-9
-- time: ? minutes
+- ratings: Linda-6, Tom-9, Kyle-7, Skylar-8, Benjamin-9
+- time: 2.5 hours
