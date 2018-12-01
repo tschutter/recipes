@@ -22,7 +22,7 @@ and pepper.
 Cover and simmer the sauce for 10 minutes.
 
 Arrange pork chops in slow cooker, pour sauce over the chops.  Cover
-and cook on LOW HEAT for 5-6 hours.
+and cook on low heat for 4-5 hours.
 
 - source: food.com/110078
 - keywords: pork, slow cooker
