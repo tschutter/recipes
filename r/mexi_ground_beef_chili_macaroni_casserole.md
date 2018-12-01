@@ -43,5 +43,5 @@ has melted.
 
 - source: food.com/150046
 - keywords: ground beef, casserole
-- servings: 8
-- ratings: Linda-7, Tom-8, Kyle-9, Skylar-6
+- ratings: Linda-7, Tom-8, Kyle-8, Skylar-6
+- time: 2 hours
