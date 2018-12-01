@@ -9,6 +9,7 @@ Beef With Peanuts
 - 1 teaspoon sugar
 - 2 tablespoons sherry
 - 1/3 cup chicken broth
+<!-- -->
 - 1 tablespoon soy sauce
 - 1 cup bean sprouts
 <!-- -->
@@ -24,8 +25,9 @@ pink.  Break up meat as it cooks.
 
 Add peas and stir-fry for 30 seconds.  Sprinkle with sugar.  Add
 sherry and cook, stirring for 1 minute.  Add broth.  Cover and steam
-for 3 minutes, stirring occasionally.  When peas are tender, add soy
-sauce and bean sprouts.
+for 3 minutes, stirring occasionally.
+
+When peas are tender, add soy sauce and bean sprouts.
 
 Mix cornstarch in water and add to wok.  Stir until thickened.  Stir
 in peanuts.
