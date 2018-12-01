@@ -20,8 +20,8 @@ Roast Brined Turkey
 - 4 sprigs rosemary
 - 6 leaves sage
 - canola oil
-<!-- -->
-- 2 to 3 days before roasting, begin thawing the turkey in the
+
+2 to 3 days before roasting, begin thawing the turkey in the
 refrigerator or in a cooler kept at 38 degrees F.
 
 Combine the vegetable stock, salt, brown sugar, peppercorns, allspice
