@@ -38,4 +38,4 @@ Simmer for an hour.
 - source: Rocky Mountain News
 - keywords: beef
 - ratings: Linda-9, Tom-9, Kyle-?, Skylar-7
-- time: ? minutes
+- time: 2 hours
