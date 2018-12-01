@@ -16,5 +16,5 @@ pickled ginger for condiments.
 
 - source: Pan-Asia Fusion
 - keywords: seafood, favorite
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Linda-10, Tom-10, Kyle-?, Skylar-?
 - time: ? minutes
