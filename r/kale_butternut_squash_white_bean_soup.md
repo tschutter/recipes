@@ -13,7 +13,7 @@ Kale, Butternut Squash, White Bean Soup
 - 4 cups butternut squash, diced
 <!-- -->
 - 6 cups kale, removed from stems and cut into shreds
-- 1 can white beans, rinsed
+- 1 can cannellini (white Italian kidney) beans, rinsed
 <!-- -->
 - grated Parmesan cheese
 
