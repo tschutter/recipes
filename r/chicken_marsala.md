@@ -5,7 +5,7 @@ Chicken Marsala
 - 4 skinless, boneless chicken breasts
 <!-- -->
 - 4 shallots, finely chopped
-- 1/2 pound mushrooms, sliced
+- 1 pound mushrooms, sliced
 - 1/4 cup dry Marsala
 - 1/2 cup heavy cream
 - 1 teaspoon lemon juice
