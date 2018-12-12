@@ -5,8 +5,8 @@ Pulled Pork
 - 4 medium garlic cloves, thinly sliced
 - 1 cup chicken broth
 <!-- -->
-- 4 tablespoons pork butt rub
 - 1 5-pound boneless or bone-in pork shoulder (a.k.a. a pork butt)
+- 4 tablespoons pork butt rub
 <!-- -->
 - 1 cup barbecue sauce (optional)
 
@@ -32,5 +32,5 @@ with salt as needed.
 
 - source: various
 - keywords: pork, slow cooker
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Linda-8, Tom-10, Kyle-10, Skylar-8
 - time: ? minutes
