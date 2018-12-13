@@ -10,10 +10,10 @@ Sweet Gingered Corn
 - 4 cups frozen corn kernels
 
 food.com adds (unrated)
-  1 teaspoon powdered ginger
-  1 tablespoon garlic powder (sounds like too much)
-  1 tablespoon curry powder
-  2 scallions, stalks sliced
+- 1 teaspoon powdered ginger
+- 1 tablespoon garlic powder (sounds like too much)
+- 1 tablespoon curry powder
+- 2 scallions, stalks sliced
 
 Heat oil in a large skillet over a medium flame.  Add the cumin and
 ginger and saute for 1 minute, stirring constantly.  Add the tomatoes
@@ -28,5 +28,5 @@ Serve immediately.
 
 - source: unknown
 - keywords: vegetable
-- ratings: Linda-7, Tom-9, Kyle-, Skylar-7
+- ratings: Linda-7, Tom-9, Kyle-7, Skylar-7
 - time: ? minutes
