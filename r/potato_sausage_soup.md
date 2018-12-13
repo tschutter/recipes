@@ -28,5 +28,5 @@ serve.
 
 - source: allrecipes.com
 - keywords: pork
-- ratings: Linda-9, Tom-8, Kyle-7, Skylar-5
+- ratings: Linda-9, Tom-8, Kyle-8, Skylar-7
 - time: 95 minutes
