@@ -10,7 +10,7 @@ Grilled Tilipia With Cherry Salsa
 <!-- -->
 - 1 teaspoon ground coriander
 <!-- -->
-- 4 tilapia fillets (4 to 6 ounces each)
+- 6 tilapia fillets (4 to 6 ounces each)
 - 1 tablespoon olive oil
 
 Heat grill to high and lightly oil grates.
@@ -31,4 +31,4 @@ Serve tilapia topped with cherry salsa.
 
 - source: www.marthastewart.com/337282/grilled-tilapia-with-cherry-salsa
 - keywords: seafood
-- ratings: Linda-8, Tom-7, Kyle-6, Skylar-9
+- ratings: Linda-8, Tom-9, Kyle-6, Skylar-9
