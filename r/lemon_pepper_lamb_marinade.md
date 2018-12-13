@@ -13,5 +13,5 @@ temperature for 10 minutes or refigerate for 1 hour.
 
 - source: food.com/291497
 - keywords: lamb
-- ratings: Linda-9, Tom-9, Kyle-9, Skylar-7
+- ratings: Linda-10, Tom-10, Kyle-9, Skylar-9
 - time: 10 minutes
