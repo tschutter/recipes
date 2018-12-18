@@ -20,7 +20,7 @@ Kale, Butternut Squash, White Bean Soup
 Cut sausage into rounds.  Heat 1 tablespoon of oil in a large pot over
 medium heat.  Brown sausage in skillet.  Set cooked sausage aside.
 
-Heat rest of oil in pot over medium heat.  Add onion and saute for 10
+Heat rest of oil in pot over medium heat.  Add onion and saute for 5
 minutes.
 
 Add vegetable broth, tomatoes, and rosemary.  Add salt and pepper to
@@ -34,5 +34,5 @@ Serve with Parmesan cheese.
 
 - source: Kimberly Teter
 - keywords: soup, sausage
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Linda-9, Tom-8, Kyle-8, Skylar-?
 - time: ? minutes
