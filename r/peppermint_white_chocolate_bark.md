@@ -13,4 +13,5 @@ on how minty you want it). Let harden then break into pieces.
 
 - source: Parade Magazine
 - keywords: chocolate, favorite
-- ratings: Linda-10, Tom-9, Kyle-?, Skylar-10
+- ratings: Linda-10, Tom-9, Kyle-9, Skylar-10
+- time: 15 minutes
