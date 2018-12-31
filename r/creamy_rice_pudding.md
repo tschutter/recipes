@@ -2,8 +2,8 @@ Creamy Rice Pudding
 -------------------
 
 - 3/4 cup uncooked white rice
-- 2 cups milk, divided
 <!-- -->
+- 2 cups milk, divided
 - 1/3 cup white sugar
 - 1/4 teaspoon salt
 <!-- -->
