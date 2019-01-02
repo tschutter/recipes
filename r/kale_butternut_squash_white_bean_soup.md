@@ -35,4 +35,4 @@ Serve with Parmesan cheese.
 - source: Kimberly Teter
 - keywords: soup, sausage
 - ratings: Linda-9, Tom-8, Kyle-8, Skylar-?
-- time: ? minutes
+- time: 75 minutes
