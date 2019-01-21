@@ -1,4 +1,4 @@
-KEYWORDS:=../KEYWORDS
+KEYWORDS:=../KEYWORDS.txt
 README:=../README.md
 
 all: $(KEYWORDS) $(README)
@@ -6,15 +6,15 @@ all: $(KEYWORDS) $(README)
 clean:
 	rm $(KEYWORDS) $(README)
 
-$(KEYWORDS): ../r/*.txt
-	grep --no-filename keywords: ../r/*.txt\
+$(KEYWORDS): ../r/*.md
+	grep --no-filename keywords: ../r/*.md\
 	| grep -v "^keywords:$$"\
-	| cut -d ' ' -f 2-\
+	| sed 's/.*keywords: *//'\
 	| awk '{c=split($$0, s, ","); for (n=1; n<=c; n++) print s[n] }'\
 	| sed 's/^  *//'\
 	| sort\
 	| uniq -c\
 	> $(KEYWORDS)
 
-$(README): ../r/*.txt
+$(README): ../r/*.md
 	./build_readme.py
