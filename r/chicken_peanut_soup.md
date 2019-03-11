@@ -33,6 +33,6 @@ shredded chicken.  Stir in a little water to thin the soup if desired.
 Heat gently.  Season with salt, pepper and lime juice to taste.
 
 - source: Everyday with Rachel Ray mag
-- keywords: poultry, soup, favorite
+- keywords: soup, poultry, favorite
 - ratings: Linda-9, Tom-9, Kyle-9, Skylar-7
 - time: 75 minutes

@@ -46,6 +46,6 @@ or until mixture is slightly thickened.  Remove and discard bay leaf.
 Serve stew over hot cooked noodles.  Makes 6 servings.
 
 - source: John Wolner
-- keywords: pork, stew
+- keywords: stew, pork
 - time: 90 minutes?
 - ratings: Linda-9, Tom-9, Kyle-9, Skylar-6

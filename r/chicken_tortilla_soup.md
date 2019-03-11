@@ -25,6 +25,6 @@ Ladle into warm bowls.  Top with tortilla chips and cheese.  Garnish
 with sour cream.  Serve with warmed tortillas.
 
 - source: Longmont Dairy
-- keywords: chicken, soup
+- keywords: soup, chicken
 - ratings: Linda-8, Tom-9, Kyle-?, Skylar-9
 - time: 60 minutes

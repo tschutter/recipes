@@ -27,6 +27,6 @@ Let soup sit for approximately 5 minutes in order to thicken and then
 serve.
 
 - source: allrecipes.com
-- keywords: pork
+- keywords: soup, pork
 - ratings: Linda-9, Tom-8, Kyle-8, Skylar-7
 - time: 95 minutes

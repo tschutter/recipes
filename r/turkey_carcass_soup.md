@@ -35,6 +35,6 @@ Add turkey, corn and rice and simmer for another 15 minutes.  Salt to
 taste.
 
 - source: Tom Schutter
-- keywords: poultry, favorite
+- keywords: soup, poultry, favorite
 - ratings: Linda-7, Tom-9, Kyle-?, Skylar-8
 - time: ? minutes

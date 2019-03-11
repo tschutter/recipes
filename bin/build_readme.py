@@ -34,7 +34,7 @@ SECTIONS = collections.OrderedDict(
         ("Pork", ("pork",)),
         ("Lamb", ("lamb",)),
         ("Seafood", ("fish", "seafood", "shrimp")),
-        ("Soup (Veg)", ("soup",)),
+        ("Soup and Stew", ("soup", "stew")),
         ("Vegetable", ("vegetable",)),
         ("Side Dish", ("rice", "salad", "side dish")),
         ("Bread", ("bread",)),
@@ -119,7 +119,8 @@ def list_files(args, root_dir):
                     if re.search(r"[0-9]", line):
                         ratings = line[11:].strip()
 
-        # Determine which section this recipe should be in.
+        # Determine which section this recipe should be in.  The first
+        # keyword in the recipe that matches determines the section.
         section_name = "Other"
         for keyword in keywords:
             if keyword in keyword_to_section_name:
@@ -185,7 +186,7 @@ def write_file_footer(readme):
 
             See Also
             --------
-            - http://github.com/kschutter/recipes
+            - [kschutter Culinary Recipes](http://github.com/kschutter/recipes)
             """
         )
     )

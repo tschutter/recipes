@@ -48,6 +48,6 @@ of stew into each of 6 bowls.  Top each serving with 3 beet wedges,
 1/6 of the parsley mixture, and 1 teaspoon horseradish.
 
 - source: food.com/348728
-- keywords: beef, stew
-- time: ?
+- keywords: stew, beef
 - ratings: Linda-8, Tom-8, Kyle-8, Skylar-8
+- time: ?
