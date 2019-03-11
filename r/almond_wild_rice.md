@@ -37,6 +37,6 @@ In a serving bowl, combine the wild rice, brown rice, raisin mixture,
 almonds, parsley, salt, and pepper.
 
 - source: unknown
-- keywords: rice, side dish
+- keywords: side dish, rice, vegetarian
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

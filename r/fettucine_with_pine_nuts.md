@@ -20,4 +20,4 @@ Toss cooked fettucini with sauce. Simmer 3 minutes.
 Serve with fresh ground black pepper and sauteed pine nuts.
 
 - source: Cheap Thrills Cuisine
-- keywords: side dish
+- keywords: side dish, vegetarian

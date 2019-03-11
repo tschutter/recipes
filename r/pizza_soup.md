@@ -23,6 +23,6 @@ minutes longer.
 Sprinkle cheese over each serving.
 
 - source: Beta Sigma Phi cookbook
-- keywords: soup
+- keywords: soup, pork
 - ratings: Linda-8, Tom-9, Kyle-8, Skylar-7
 - time: ? minutes

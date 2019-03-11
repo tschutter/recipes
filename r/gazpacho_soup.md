@@ -20,4 +20,4 @@ Blend everything together and run through a strainer.
 Serve cold.
 
 - source: Dalton Rasmussen
-- keywords: soup, italian
+- keywords: soup, italian, vegetarian

@@ -27,6 +27,6 @@ Add the chicken broth slowly, stirring until well blended.  Stir in
 the remaining ingredients.  Cook until heated through.
 
 - source: Beta Sigma Phi cookbook
-- keywords: soup
+- keywords: soup, vegetarian
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

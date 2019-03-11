@@ -32,4 +32,4 @@ kettle. Simmer for 10 minutes.
 Sprinkle parsley on top of each serving.
 
 - source: Daily Camera - Corn Meals & More
-- keywords: soup
+- keywords: soup, vegetarian

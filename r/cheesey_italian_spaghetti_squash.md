@@ -36,6 +36,6 @@ cheese.
 Bake uncovered at 375 degrees F for 40 minutes.
 
 - source: Alane Wolner
-- keywords: casserole, vegetarian
+- keywords: vegetarian
 - ratings: Linda-?, Tom-7, Kyle-?, Skylar-?
 - time: ?

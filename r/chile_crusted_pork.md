@@ -43,6 +43,6 @@ Slice the pork very thinly.  Serve hot, drizzled with some of the pan
 juices.
 
 - source: Daily Camera
-- keywords: pork, slow cooker
+- keywords: pork, slow cooker, southwest
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

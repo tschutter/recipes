@@ -22,6 +22,6 @@ dish.  Sprinkle top with cinnamon.
 Bake 1 hour or until top is light brown.  Cut into squares.  Serves 8
 to 10.  Leftover kugel is excellent cold.
 
-- keywords: side dish
+- keywords: side dish, vegetarian
 - ratings:
 - time: ?

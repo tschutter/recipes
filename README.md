@@ -10,7 +10,7 @@ Links on this page do not work, use http://tschutter.github.io/recipes/ instead.
 - [Pork](#pork)
 - [Lamb](#lamb)
 - [Seafood](#seafood)
-- [Soup (Veg)](#soup-(veg))
+- [Soup and Stew](#soup-and-stew)
 - [Vegetable](#vegetable)
 - [Side Dish](#side-dish)
 - [Bread](#bread)
@@ -24,16 +24,14 @@ Poultry
 -------
 - [Apple Tarragon Barbecue Chicken](r/apple_tarragon_bbq_chicken) (Linda-8, Tom-8, Kyle-8, Skylar-8)
 - [Bacon Chicken](r/bacon_chicken) (Linda-?, Tom-8, Kyle-10, Skylar-8)
-- [Bourbon Marinade](r/bourbon_marinade) (Linda-9, Tom-9, Kyle-8, Skylar-7)
+- [Bourbon Marinade](r/bourbon_marinade) :pig2: (Linda-9, Tom-9, Kyle-8, Skylar-7)
 - [Cajun BBQ Chicken Strips](r/cajun_bbq_chicken_strips)
 - [Carrot Chicken Salad](r/carrot_chicken_salad) (Linda-6, Tom-7, Kyle-?, Skylar-?)
 - [Cashew Butter Chicken](r/cashew_butter_chicken) :star: (Linda-9, Tom-9, Kyle-9, Skylar-9)
 - [Cashew Chicken](r/cashew_chicken) (Linda-8, Tom-8, Kyle-5, Skylar-8)
 - [Cheddar Bacon Chicken Tenders](r/cheddar_bacon_chicken_tenders)
-- [Chicken Cheese Enchiladas](r/chicken_cheese_enchiladas) (Linda-8, Tom-8, Kyle-8, Skylar-6)
+- [Chicken Cheese Enchiladas](r/chicken_cheese_enchiladas) :cactus: (Linda-8, Tom-8, Kyle-8, Skylar-6)
 - [Chicken Marsala](r/chicken_marsala) :star: (Linda-10, Tom-9, Kyle-9, Skylar-10, Benjamin-10)
-- [Chicken Peanut Soup](r/chicken_peanut_soup) :star: (Linda-9, Tom-9, Kyle-9, Skylar-7)
-- [Chicken Tortilla Soup](r/chicken_tortilla_soup) (Linda-8, Tom-9, Kyle-?, Skylar-9)
 - [Chicken With Mushroom Sauce](r/chicken_with_mushroom_sauce) (Linda-9, Tom-8, Kyle-?, Skylar-7)
 - [Chicken and Vegetable Scallop](r/chicken_and_vegetable_scallop) (Linda-7, Tom-8, Kyle-8, Skylar-7)
 - [Chicken with Tabbouleh](r/chicken_with_tabbouleh) (Linda-7, Tom-7, Kyle-7, Skylar-8)
@@ -42,7 +40,6 @@ Poultry
 - [Easy Turkey Tetrazzini](r/easy_turkey_tetrazzini)
 - [Janet's Barbecue Chicken](r/janets_barbecue_chicken) (Linda-?, Tom-9, Kyle-5, Skylar-8)
 - [Kung Pao Chicken](r/kung_pao_chicken) (Linda-9, Tom-8, Kyle-8, Skylar-7)
-- [Lemon Chicken Tortellini Soup](r/lemon_chicken_tortellini_soup) (Linda-9, Tom-9, Kyle-?, Skylar-?)
 - [Paprika Chicken Thighs](r/paprika_chicken_thighs) (Linda-8, Tom-8, Kyle-8, Skylar-7)
 - [Philly Chicken Cheesesteaks](r/philly_chicken_cheesesteaks) (Linda-8, Tom-8, Kyle-7, Skylar-9)
 - [Roast Brined Turkey](r/roast_brined_turkey) (Linda-9, Tom-9, Kyle-9, Skylar-9)
@@ -50,7 +47,6 @@ Poultry
 - [Spicy Bolivian Chicken](r/spicy_bolivian_chicken) (Linda-9, Tom-8, Kyle-8, Skylar-8)
 - [Tray-Baked Chicken](r/tray_baked_chicken) (Linda-9, Tom-9, Kyle-9, Skylar-9)
 - [Turkey Beer Brine](r/turkey_beer_brine)
-- [Turkey Carcass Soup](r/turkey_carcass_soup) :star: (Linda-7, Tom-9, Kyle-?, Skylar-8)
 - [Turkey How So](r/turkey_how_so) (Linda-5, Tom-7, Kyle-7, Skylar-6)
 
 Beef
@@ -59,7 +55,6 @@ Beef
 - [Bacon Blue Cheese Brisket](r/bacon_blue_cheese_brisket) (Linda-9, Tom-10, Benjamin-10)
 - [Beef Pot Pie with Biscuits](r/beef_pot_pie_with_biscuits) (Linda-8, Tom-8, Kyle-7, Skylar-7)
 - [Beef Teriyaki](r/beef_teriyaki) (Linda-8, Tom-9, Kyle-?, Skylar-8)
-- [Beef, Beer, and Barley Stew](r/beef_beer_barley_stew) (Linda-8, Tom-8, Kyle-8, Skylar-8)
 - [Best Steak Marinade in Existence](r/best_steak_marinade) :star: (Tom-9, Linda-9, Kyle-9, Skylar-9)
 - [Bison and Sausage Chili](r/bison_sausage_chili) (Linda-9, Tom-9, Kyle-?, Skylar-7)
 - [Braised Short Ribs](r/braised_short_ribs) (Linda-6, Tom-9, Kyle-6, Skylar-9, Benjamin-9)
@@ -69,7 +64,6 @@ Beef
 - [Honey Steak Marinade](r/honey_steak_marinade) (Linda-9, Tom-9, Kyle-9, Skylar-8)
 - [Italian Steak Marinade](r/italian_steak_marinade) (Linda-9, Tom-9, Kyle-9, Skylar-9)
 - [Massaman Curry With Beef](r/massaman_curry_with_beef) (Linda-7, Tom-7, Kyle-?, Skylar-8 (rated without coriander & water))
-- [Porter Beef Stew](r/porter_beef_stew) (Linda-7, Tom-8, Skylar-8)
 - [Sirloin Tip Roast](r/sirloin_tip_roast)
 - [Steak with Tomato Sauce](r/steak_with_tomato_sauce) (Linda-6, Tom-9, Kyle-7, Skylar-8, Benjamin-9)
 - [Texas Chili](r/texas_chili) :star: (Linda-9, Tom-9, Kyle-7, Skylar-4)
@@ -98,29 +92,26 @@ Pork
 - [BBQ Pork Tenderloin](r/bbq_pork_tenderloin)
 - [Bacon](r/bacon) :star:
 - [Caribbean Pork Roast](r/caribbean_pork_roast) (Linda-9, Tom-9, Kyle-9, Skylar-?)
-- [Carne de Puerco (Shredded Pork)](r/carne_de_puerco)
+- [Carne de Puerco (Shredded Pork)](r/carne_de_puerco) :cactus:
 - [Cashew Pork](r/cashew_pork) (Linda-8, Tom-8, Kyle-7, Skylar-7)
-- [Chile Crusted Pork](r/chile_crusted_pork)
+- [Chile Crusted Pork](r/chile_crusted_pork) :cactus:
 - [Crock Pot Chili Pork Chops](r/crock_pot_chili_pork_chops) (Linda-?, Tom-8, Kyle-9, Skylar-8)
 - [Dutch Oven Pork Chops](r/dutch_oven_pork_chops) (Linda-7, Tom-7, Kyle-?, Skylar-?)
 - [Gingered Pork](r/gingered_pork)
-- [Green Chili](r/green_chili)
-- [Green Chili Stew](r/green_chili_stew)
-- [Ham and Lentil Soup](r/ham_and_lentil_soup) (Linda-9, Tom-9, Kyle-7, Skylar-3)
-- [Hearty Pork Stew](r/hearty_pork_stew) (Linda-9, Tom-9, Kyle-9, Skylar-6)
+- [Green Chili](r/green_chili) :cactus:
+- [Green Chili Stew](r/green_chili_stew) :cactus:
 - [Hogback Pork Chops](r/hogback_pork_chops) (Linda-8, Tom-8)
-- [Italian Sausage and Lentil Soup](r/italian_sausage_and_lentil_soup) (Linda-7, Tom-8, Kyle-7, Skylar-9)
 - [Jack Daniel's Glazed Ham](r/jack_daniels_glazed_ham) (Linda-8, Tom-9, Kyle-?, Skylar-8)
 - [Lasagne](r/lasagne) :star: (Linda-8, Tom-10, Kyle-10, Skylar-7)
-- [New Mexican Green Chili](r/green_chili_new_mexican) (Linda-6, Tom-9, Kyle-8, Skylar-6)
+- [New Mexican Green Chili](r/green_chili_new_mexican) :cactus: (Linda-6, Tom-9, Kyle-8, Skylar-6)
 - [Parmesan Sage Pork Chops](r/parmesan_sage_pork_chops) (Linda-8, Tom-8, Kyle-9, Skylar-8)
-- [Pineapple Pickles](r/pineapple_pickles)
 - [Pineapple Pork Chops](r/pineapple_pork_chops) (Linda-8, Tom-7, Kyle-7, Skylar-8)
+- [Pizza Cobbler](r/pizza_cobbler) (Linda-8, Tom-8, Kyle-8, Skylar-8)
 - [Pork Chops Yum Yum](r/pork_chops_yum_yum) (Linda-9, Tom-9, Kyle-9, Skylar-9)
-- [Potato Sausage Soup](r/potato_sausage_soup) (Linda-9, Tom-8, Kyle-8, Skylar-7)
 - [Pulled Pork](r/pulled_pork) (Linda-8, Tom-10, Kyle-10, Skylar-8)
 - [Ray's BBQ Ribs](r/rays_bbq_ribs) (Linda-9, Tom-9, Kyle-9, Skylar-8)
 - [Sesame Pork Roast](r/sesame_pork_roast)
+- [Spaghetti alla Carbonara](r/spaghetti_alla_carbonara) (Linda-7, Tom-7, Kyle-?, Skylar-8)
 - [Tangy Apple Sausage Quiche](r/tangy_apple_sausage_quiche) (Linda-9, Tom-9, Kyle-9, Skylar-8)
 - [Toad-in-the-Hole](r/toad_in_the_hole) :star: (Linda-7, Tom-8, Kyle-10, Skylar-8)
 - [Wild Rice and Pork Hot Dish](r/wild_rice_and_pork_hot_dish)
@@ -136,7 +127,6 @@ Seafood
 - [Blackened Salmon](r/blackened_salmon) (Linda-6, Tom-8, Kyle-7, Skylar-7)
 - [Brown Sugar and Bourbon Salmon](r/brown_sugar_bourbon_salmon) (Linda-10, Tom-10, Kyle-8, Skylar-10)
 - [Cashew Crusted Salmon](r/cashew_crusted_salmon) (Linda-8, Tom-8, Kyle-8, Skylar-9)
-- [Creamy Crab Chowder](r/creamy_crab_chowder)
 - [Creamy Shrimp and Poblanos](r/creamy_shrimp_and_poblanos) (Linda-9, Tom-9, Kyle-7, Skylar-?)
 - [Garlic Lime Shrimp](r/garlic_lime_shrimp) :star: (Linda-9, Tom-9, Kyle-8, Skylar-9)
 - [Garlic Shrimp](r/garlic_shrimp) (Linda-7, Tom-6, Kyle-?, Skylar-?)
@@ -155,64 +145,73 @@ Seafood
 - [Sweet 'n Spicy Shrimp](r/sweet_n_spicy_shrimp) (Linda-9, Tom-9, Kyle-?, Skylar-9)
 - [Tilapia](r/tilapia) (Linda-8, Tom-8, Kyle-7, Skylar-8)
 
-Soup (Veg)
-----------
-- [Carrot Ginger Soup](r/carrot_ginger_soup) :star: (Tom-9, Linda-8, Kyle-10, Skylar-8)
-- [Cheddar Potato Soup](r/cheddar_potato_soup)
-- [Corn and Red Pepper Chowder](r/corn_and_red_pepper_chowder)
-- [Gazpacho Soup](r/gazpacho_soup)
-- [Homestyle Corn Chowder](r/homestyle_corn_chowder)
-- [Kale, Butternut Squash, White Bean Soup](r/kale_butternut_squash_white_bean_soup) (Linda-9, Tom-8, Kyle-8, Skylar-?)
-- [Pizza Soup](r/pizza_soup) (Linda-8, Tom-9, Kyle-8, Skylar-7)
-- [Victor's Gazpaucho Soup](r/victors_gazpaucho_soup)
-- [Wild Rice Soup](r/wild_rice_soup)
+Soup and Stew
+-------------
+- [Beef, Beer, and Barley Stew](r/beef_beer_barley_stew) :cow2: (Linda-8, Tom-8, Kyle-8, Skylar-8)
+- [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Tom-9, Linda-8, Kyle-10, Skylar-8)
+- [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
+- [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
+- [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-?, Skylar-9)
+- [Corn and Red Pepper Chowder](r/corn_and_red_pepper_chowder) :herb:
+- [Creamy Crab Chowder](r/creamy_crab_chowder) :fish:
+- [Gazpacho Soup](r/gazpacho_soup) :herb:
+- [Ham and Lentil Soup](r/ham_and_lentil_soup) :pig2: (Linda-9, Tom-9, Kyle-7, Skylar-3)
+- [Hearty Pork Stew](r/hearty_pork_stew) :pig2: (Linda-9, Tom-9, Kyle-9, Skylar-6)
+- [Homestyle Corn Chowder](r/homestyle_corn_chowder) :herb:
+- [Italian Sausage and Lentil Soup](r/italian_sausage_and_lentil_soup) :pig2: (Linda-7, Tom-8, Kyle-7, Skylar-9)
+- [Kale, Butternut Squash, White Bean Soup](r/kale_butternut_squash_white_bean_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-?)
+- [Lemon Chicken Tortellini Soup](r/lemon_chicken_tortellini_soup) :chicken: (Linda-9, Tom-9, Kyle-?, Skylar-?)
+- [Pizza Soup](r/pizza_soup) :pig2: (Linda-8, Tom-9, Kyle-8, Skylar-7)
+- [Porter Beef Stew](r/porter_beef_stew) :cow2: (Linda-7, Tom-8, Skylar-8)
+- [Potato Sausage Soup](r/potato_sausage_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-7)
+- [Turkey Carcass Soup](r/turkey_carcass_soup) :star: :chicken: (Linda-7, Tom-9, Kyle-?, Skylar-8)
+- [Victor's Gazpaucho Soup](r/victors_gazpaucho_soup) :herb:
+- [Wild Rice Soup](r/wild_rice_soup) :herb:
 
 Vegetable
 ---------
-- [Carrots with Ginger and Honey](r/carrots_with_ginger_and_honey) :star: (Linda-9, Tom-9, Kyle-5, Skylar-9)
 - [Cheesey Italian Spaghetti Squash](r/cheesey_italian_spaghetti_squash) (Linda-?, Tom-7, Kyle-?, Skylar-?)
-- [Corn with Chipotle and Thyme](r/corn_with_chipotle_and_thyme)
-- [Deluxe Potatoes and Onions](r/deluxe_potatoes_and_onions)
-- [Grilled Asparagus](r/grilled_asparagus) (Linda-9, Tom-X, Kyle-7, Skylar-8)
-- [Herb Roasted Potatoes](r/herb_roasted_potatoes)
-- [Janet's Sweet Potatoes](r/janets_sweet_potatoes)
-- [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :star: (Linda-9, Tom-10, Kyle-?, Skylar-8)
-- [Leek Patties](r/leek_patties) (Linda-7, Tom-7, Kyle-9, Skylar-3)
-- [Mint Carrots](r/mint_carrots) (Linda-10, Tom-10, Kyle-7, Skylar-3)
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
-- [Smashed Potatoes and Peas](r/smashed_potatoes_and_peas) (Linda-8, Tom-8, Kyle-9, Skylar-8)
-- [Stuffed Red Peppers](r/stuffed_red_peppers)
-- [Sugar Peas Almondine](r/sugar_peas_almondine) (Linda-10, Tom-8, Kyle-5)
-- [Sweet Gingered Corn](r/sweet_gingered_corn) (Linda-7, Tom-9, Kyle-7, Skylar-7)
+- [Stuffed Red Peppers](r/stuffed_red_peppers) (Linda-8, Tom-9, Kyle-?, Skylar-?)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
-- [Turnip Gratin](r/turnip_gratin) (Linda-9, Tom-9, Kyle-?, Skylar-?)
 
 Side Dish
 ---------
-- [Almond Wild Rice](r/almond_wild_rice)
-- [Asian Cabbage Salad](r/asian_cabbage_salad) (Linda-10, Tom-?, Skylar-?, Kyle-?)
-- [Chinese Cabbage Salad](r/chinese_cabbage_salad) (Linda-10, Tom-4, Skylar-?, Kyle-?)
-- [Corn Muffins](r/corn_muffins)
-- [Cornbread & Sausage Stuffing](r/cornbread_sausage_stuffing) (Linda-?, Tom-8, Kyle-9, Skylar-6)
-- [Fettucine with Pine Nuts](r/fettucine_with_pine_nuts)
-- [Fire Roasted Sweet Corn Salsa](r/fire_roasted_sweet_corn_salsa)
-- [Garlic Rice](r/garlic_rice) (Linda-8, Tom-9, Kyle-9, Skylar-?)
-- [Goat Cheese Polenta](r/goat_cheese_polenta) (Linda-6, Tom-8, Kyle-4, Skylar-7, Benjamin-7)
-- [Grandma's Shrooms](r/grandmas_shrooms)
-- [Hummus](r/hummus) :star: (Tom-9, Linda-8, Kyle-9, Skylar-6)
+- [Almond Wild Rice](r/almond_wild_rice) :herb:
+- [Asian Cabbage Salad](r/asian_cabbage_salad) :herb: (Linda-10, Tom-?, Skylar-?, Kyle-?)
+- [Carrots with Ginger and Honey](r/carrots_with_ginger_and_honey) :star: :herb: (Linda-9, Tom-9, Kyle-5, Skylar-9)
+- [Chinese Cabbage Salad](r/chinese_cabbage_salad) :herb: (Linda-10, Tom-4, Skylar-?, Kyle-?)
+- [Corn Muffins](r/corn_muffins) :herb:
+- [Corn with Chipotle and Thyme](r/corn_with_chipotle_and_thyme) :herb:
+- [Cornbread & Sausage Stuffing](r/cornbread_sausage_stuffing) :pig2: (Linda-?, Tom-8, Kyle-9, Skylar-6)
+- [Deluxe Potatoes and Onions](r/deluxe_potatoes_and_onions) :pig2:
+- [Fettucine with Pine Nuts](r/fettucine_with_pine_nuts) :herb:
+- [Fire Roasted Sweet Corn Salsa](r/fire_roasted_sweet_corn_salsa) :herb:
+- [Garlic Rice](r/garlic_rice) :herb: (Linda-8, Tom-9, Kyle-9, Skylar-?)
+- [Goat Cheese Polenta](r/goat_cheese_polenta) :herb: (Linda-6, Tom-8, Kyle-4, Skylar-7, Benjamin-7)
+- [Grandma's Shrooms](r/grandmas_shrooms) :herb:
+- [Grilled Asparagus](r/grilled_asparagus) :herb: (Linda-9, Tom-X, Kyle-7, Skylar-8)
+- [Herb Roasted Potatoes](r/herb_roasted_potatoes) :herb:
+- [Hummus](r/hummus) :star: :herb: (Tom-9, Linda-8, Kyle-9, Skylar-6)
 - [Janet's Broccoli Salad 2008](r/janets_broccoli_salad)
-- [Mexican Rice](r/mexican_rice) (Linda-3, Tom-8, Kyle-6, Skylar-?)
-- [Noodle Kugel](r/noodle_kugel)
-- [Pat Sebesta's Cranberry Sauce](r/cranberry_sauce)
-- [Pineapple Rice](r/pineapple_rice)
-- [Pizza Cobbler](r/pizza_cobbler) (Linda-8, Tom-8, Kyle-8, Skylar-8)
+- [Janet's Sweet Potatoes](r/janets_sweet_potatoes) :herb:
+- [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :star: :herb: (Linda-9, Tom-10, Kyle-?, Skylar-8)
+- [Leek Patties](r/leek_patties) :herb: (Linda-7, Tom-7, Kyle-9, Skylar-3)
+- [Mexican Rice](r/mexican_rice) :herb: :cactus: (Linda-3, Tom-8, Kyle-6, Skylar-?)
+- [Mint Carrots](r/mint_carrots) :herb: (Linda-10, Tom-10, Kyle-7, Skylar-3)
+- [Noodle Kugel](r/noodle_kugel) :herb:
+- [Pat Sebesta's Cranberry Sauce](r/cranberry_sauce) :herb:
+- [Pineapple Rice](r/pineapple_rice) :herb:
 - [Portabello Mushrooms](r/portabello_mushrooms)
-- [Salade Canaille (Yummy Salad with Pears and Walnuts)](r/salade_canaille)
-- [Salsa Ranchera](r/salsa_ranchera) (Linda-?, Tom-8, Kyle-8, Skylar-?)
-- [Spaghetti alla Carbonara](r/spaghetti_alla_carbonara) (Linda-7, Tom-7, Kyle-?, Skylar-8)
-- [Two-Seed Rice](r/two_seed_rice)
-- [Unfried Pickles](r/unfried_pickles) (Linda-5, Tom-7, Kyle-8, Skylar-7)
-- [Wild Rice with Mushrooms and Almonds](r/wild_rice_with_mushrooms_and_almonds)
+- [Salade Canaille (Yummy Salad with Pears and Walnuts)](r/salade_canaille) :herb:
+- [Salsa Ranchera](r/salsa_ranchera) :cactus: :herb: (Linda-?, Tom-8, Kyle-8, Skylar-?)
+- [Smashed Potatoes and Peas](r/smashed_potatoes_and_peas) :herb: (Linda-8, Tom-8, Kyle-9, Skylar-8)
+- [Sugar Peas Almondine](r/sugar_peas_almondine) :herb: (Linda-10, Tom-8, Kyle-5)
+- [Sweet Gingered Corn](r/sweet_gingered_corn) :herb: (Linda-7, Tom-9, Kyle-7, Skylar-7)
+- [Turnip Gratin](r/turnip_gratin) :herb: (Linda-9, Tom-9, Kyle-?, Skylar-?)
+- [Two-Seed Rice](r/two_seed_rice) :herb:
+- [Unfried Pickles](r/unfried_pickles) :herb: (Linda-5, Tom-7, Kyle-8, Skylar-7)
+- [Wild Rice with Mushrooms and Almonds](r/wild_rice_with_mushrooms_and_almonds) :herb:
 
 Bread
 -----
@@ -307,6 +306,7 @@ Appetizers
 ----------
 - [Bacon Ricotta Crostini](r/bacon_ricotta_crostini) (Linda-9, Tom-9, Kyle-9, Skylar-9)
 - [Jalapeno Bites](r/jalapeno_bites) (Linda-?, Tom-9, Kyle-?, Skylar-?)
+- [Pineapple Pickles](r/pineapple_pickles)
 - [Sweet and Spicy Pecans](r/sweet_and_spicy_pecans)
 
 Drinks
@@ -329,8 +329,8 @@ Drinks
 Other
 -----
 - [Basic Pizza Sauce](r/basic_pizza_sauce)
-- [Boiling Times](r/kitchen_notes)
 - [Bubble Solution](r/bubble_solution)
+- [Kitchen Notes](r/kitchen_notes)
 - [Playdough](r/playdough)
 - [Rhumba Yam-Allspice Butter](r/rhumba_yam_allspice_butter)
 - [Roasted Garlic](r/roasted_garlic)
@@ -354,4 +354,4 @@ Design
 
 See Also
 --------
-- http://github.com/kschutter/recipes
+- [kschutter Culinary Recipes](http://github.com/kschutter/recipes)

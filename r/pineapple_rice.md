@@ -18,4 +18,4 @@ Reduce heat, gradually and nuts and rice and stir about 3 minutes.
 Add soy sauce and sesame oil.  Season to taste.
 
 - source: Nicole Miller
-- keywords: rice
+- keywords: side_dish, rice, vegetarian

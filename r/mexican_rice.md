@@ -22,7 +22,7 @@ Simmer for 20 minutes.  Remove from heat, leaving the cover on and
 let rest for 5 more minutes.
 
 - source: Tom Schutter
-- keywords: rice
+- keywords: rice, southwest, vegetarian
 - ratings: Linda-3, Tom-8, Kyle-6, Skylar-?
 - time: 65 minutes
 - notes: things to try: corn, peas, > 6 jalapeno slices, salsa

@@ -19,9 +19,6 @@ import os
 import re
 import textwrap
 
-# Markdown star emoji
-STAR_CHARACTER = ":star:"
-
 # Recipe files to ignore.
 IGNORE_FILES = ["r/TEMPLATE.md"]
 
@@ -46,6 +43,22 @@ SECTIONS = collections.OrderedDict(
     ]
 )
 
+# Keyword to emoji map.
+# See https://www.webfx.com/tools/emoji-cheat-sheet/
+EMOJIS = {
+    "beef": ":cow2:",
+    "chicken": ":chicken:",
+    "favorite": ":star:",
+    "fish": ":fish:",
+    "ground beef": ":cow2:",
+    "lamb": ":sheep:",
+    "pork": ":pig2:",
+    "poultry": ":chicken:",
+    "seafood": ":fish:",
+    "shrimp": ":fish:",
+    "southwest": ":cactus:",
+    "vegetarian": ":herb:"
+}
 
 def write_header(readme, name, level):
     """
@@ -122,15 +135,23 @@ def list_files(args, root_dir):
         # Determine which section this recipe should be in.  The first
         # keyword in the recipe that matches determines the section.
         section_name = "Other"
+        emoji_keywords = set(keywords)
         for keyword in keywords:
             if keyword in keyword_to_section_name:
                 section_name = keyword_to_section_name[keyword]
+                emoji_keywords.remove(keyword)
                 break
         if section_name == "Other" and args.print_other:
             print(f"{filename:45}: {keywords}")
 
+        # Build list of applicable emojis.
+        emojis = []
+        for keyword in emoji_keywords:
+            if keyword in EMOJIS:
+                emojis.append(EMOJIS[keyword])
+
         # Add the recipe to the section.
-        recipe = (title, filename, keywords, ratings)
+        recipe = (title, filename, keywords, emojis, ratings)
         recipies[section_name].append(recipe)
 
     # Sort the recipes in each section by title.
@@ -152,10 +173,10 @@ def write_file_body(readme, sections):
         readme.write("\n")
         write_header(readme, section_name, "-")
         for recipe in recipes:
-            title, filename, keywords, ratings = recipe
+            title, filename, keywords, emojis, ratings = recipe
             item = f"- [{title}]({filename[:-3]})"
-            if "favorite" in keywords:
-                item += " " + STAR_CHARACTER
+            if emojis:
+                item += " " + " ".join(emojis)
             if ratings:
                 item += f" ({ratings})"
             readme.write(item + "\n")

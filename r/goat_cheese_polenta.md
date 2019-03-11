@@ -22,6 +22,6 @@ Add salt, butter, goat cheese, and rosemary.  Stir until melted.
 Remove from heat, cover, and let stand 5 minutes to thicken.
 
 - source: various
-- keywords: side dish
+- keywords: side dish, vegetarian
 - ratings: Linda-6, Tom-8, Kyle-4, Skylar-7, Benjamin-7
 - time: 45 minutes

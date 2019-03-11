@@ -29,6 +29,6 @@ Heat through, reducing heat so the mixture does not boil.
 Serve hot.  Garnish with bacon.
 
 - source: Beta Sigma Phi cookbook
-- keywords: soup
+- keywords: soup, vegetarian
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

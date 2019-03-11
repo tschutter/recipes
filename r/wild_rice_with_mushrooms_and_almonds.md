@@ -19,6 +19,6 @@ mixture.  Cover tightly.  Bake about 1-1/2 hours or until all liquid
 as absorbed and rice is tender and fluffy.
 
 - source: unknown
-- keywords: rice, side dish
+- keywords: side dish, rice, vegetarian
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

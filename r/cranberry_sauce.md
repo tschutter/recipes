@@ -12,5 +12,5 @@ cinnamon stick and orange rind.  Simmer 10 minutes until cranberries
 pop.  Remove cinnamon stick and orange rind.  Chill.
 
 - source: Pat Sebesta
-- keywords: side dish
+- keywords: side dish, vegetarian
 - time: 1 hour

@@ -19,6 +19,6 @@ Victor's Gazpaucho Soup
 Mix all and serve.
 
 - source: Ed Victor
-- keywords: soup
+- keywords: soup, vegetarian
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ?

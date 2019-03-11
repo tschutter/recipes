@@ -27,6 +27,6 @@ Blend salad oil, sugar, vinegar, and soy sauce with beater.
 Toss together 20 minutes before serving.
 
 - source: Janet Van-Eps
-- keywords: salad
+- keywords: salad, vegetarian
 - ratings: Linda-10, Tom-4, Skylar-?, Kyle-?
 - time: ?

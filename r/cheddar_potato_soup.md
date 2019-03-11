@@ -25,6 +25,6 @@ heat until the cheese is melted.
 Garnish with croutons.
 
 - source: unknown
-- keywords: soup
+- keywords: soup, vegetarian
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

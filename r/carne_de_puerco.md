@@ -40,4 +40,4 @@ Carne de puerco is used as a filling for tacos, enchiladas, or any
 recipe that calls for shredded meat.
 
 - source: Paul Clayton, author of "Calling Crow" via the Daily Camera
-- keywords: pork
+- keywords: pork, southwest

@@ -41,6 +41,6 @@ salsa.  Sprinkle with remaining 1/2 cup cheese mixture.
 Bake at 350 degrees F for 20 to 25 minutes or until cheese is melted.
 
 - source: pillsbury.com
-- keywords: poultry
+- keywords: poultry, southwest
 - ratings: Linda-8, Tom-8, Kyle-8, Skylar-6
 - time: ? minutes

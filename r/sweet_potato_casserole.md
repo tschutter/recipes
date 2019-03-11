@@ -21,4 +21,4 @@ on top of sweet potato mixture.
 Bake at 350 degrees F until done.
 
 - source: ? ask Janet
-- keywords: casserole, vegetarian
+- keywords: vegetarian

@@ -21,4 +21,4 @@ ingredients. Cover and refigerate 2 hours to blend flavors. Can be
 served cold or warm.
 
 - source: Daily Camera - Cadillac Ranch
-- keywords: side dish, condiment
+- keywords: side dish, vegetarian, condiment

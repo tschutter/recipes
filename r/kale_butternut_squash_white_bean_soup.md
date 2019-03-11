@@ -33,6 +33,6 @@ Add kale, beans and sausage to pot.  Simmer for 15 minutes.
 Serve with Parmesan cheese.
 
 - source: Kimberly Teter
-- keywords: soup, sausage
+- keywords: soup, pork
 - ratings: Linda-9, Tom-8, Kyle-8, Skylar-?
 - time: 75 minutes

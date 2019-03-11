@@ -33,6 +33,6 @@ seeds.  Bring to a boil, reduce heat, and cover.  Simmer until rice is
 tender, about 25 to 30 minutes.
 
 - source: Paul Prudhomme
-- keywords: rice
+- keywords: rice, vegetarian
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

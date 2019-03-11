@@ -23,6 +23,6 @@ Of course, you can create individual salads, and place the pears and
 walnuts individually.
 
 - source: Mostly Mediterranean, Paula Wolfert; Ed Victor
-- keywords: salad
+- keywords: salad, vegetarian
 - ratings: Tom-?, Linda-?, Kyle-?, Skylar-?
 - time: ?

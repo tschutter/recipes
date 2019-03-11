@@ -33,6 +33,6 @@ Per serving:
   10mg cholesterol
 
 - source: Parade Magazine
-- keywords: soup, favorite
+- keywords: soup, vegetarian, favorite
 - ratings: Tom-9, Linda-8, Kyle-10, Skylar-8
 - time: ?

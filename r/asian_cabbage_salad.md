@@ -23,6 +23,6 @@ Mix vegetables together in a large bowl.
 Whisk together dressing ingredients and toss with vegetables.
 
 - source: Linda Schutter
-- keywords: salad
+- keywords: salad, vegetarian
 - ratings: Linda-10, Tom-?, Skylar-?, Kyle-?
 - time: ?
