@@ -28,6 +28,6 @@ Bake until the cheese is bubbly and the biscuits are browned, about 13
 minutes.  Let cool about 5 minutes before serving.
 
 - source: Everyday with Rachel Ray mag
-- keywords: side dish
+- keywords: casserole, pork
 - ratings: Linda-8, Tom-8, Kyle-8, Skylar-8
 - time: 35 minutes

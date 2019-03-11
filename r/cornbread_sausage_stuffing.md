@@ -26,5 +26,5 @@ Cover and bake 20 minutes at 350 degrees F.  Uncover and bake 10 more
 minutes, or until golden brown.
 
 - source: food.com/14200
-- keywords: side dish
+- keywords: side dish, pork
 - ratings: Linda-?, Tom-8, Kyle-9, Skylar-6

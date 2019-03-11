@@ -23,6 +23,6 @@ most of the liquid has reduced (another 5-10 minutes), and the sauce
 is thickened, sprinkle the Parmesan evenly over the top.  Serve hot.
 
 - source: Red Wagon Organic Farm, CSA Newsletter 2009-06-22
-- keywords: vegetable
+- keywords: side dish
 - ratings: Linda-9, Tom-9, Kyle-?, Skylar-?
 - time: 45 minutes

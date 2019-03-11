@@ -29,6 +29,6 @@ blend.
 Serve with remaining cheese.
 
 - source: Cecile Schutter
-- keywords: side dish
+- keywords: pork
 - ratings: Linda-7, Tom-7, Kyle-?, Skylar-8
 - time: 45 minutes

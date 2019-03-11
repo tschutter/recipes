@@ -1,9 +1,9 @@
 Janet's Sweet Potatoes
 ----------------------
 
-sweet potatoes
-brown sugar
-melted butter
+- sweet potatoes
+- brown sugar
+- melted butter
 
 Preheat oven to 350.
 
@@ -19,5 +19,5 @@ Cover with aluminium foil and bake for 15 minutes.
 Uncover and bake for another 15 minutes.
 
 - source: Janet Van Eps
-- keywords: vegetable
+- keywords: side dish, vegetarian
 - time: 1 hour

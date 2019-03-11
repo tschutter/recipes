@@ -34,6 +34,6 @@ peppers in 13x9 baking dish.  Bake for 35 minutes until peppers are
 tender and heated through.
 
 - source: Post Brewing
-- keywords: vegetable
+- keywords: vegetarian
 - ratings: Linda-8, Tom-9, Kyle-?, Skylar-?
 - time: 8 hours + 2 hours

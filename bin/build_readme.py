@@ -35,7 +35,7 @@ SECTIONS = collections.OrderedDict(
         ("Lamb", ("lamb",)),
         ("Seafood", ("fish", "seafood", "shrimp")),
         ("Soup and Stew", ("soup", "stew")),
-        ("Vegetable", ("vegetable",)),
+        ("Vegetable", ("casserole", "vegetarian")),
         ("Side Dish", ("rice", "salad", "side dish")),
         ("Bread", ("bread",)),
         ("Breakfast", ("breakfast",)),

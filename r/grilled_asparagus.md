@@ -18,6 +18,6 @@ Refrigerate at least 30 minutes.
 Grill for 10 minutes.
 
 - source: Skylar Schutter
-- keywords: vegetable
+- keywords: side dish, vegetarian
 - ratings: Linda-9, Tom-X, Kyle-7, Skylar-8
 - time: 40 minutes

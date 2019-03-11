@@ -20,6 +20,6 @@ them.  Add more oil if needed, a little at a time, so as not to get
 too oily.  Cook until tender to fork, about 45 minutes.
 
 - source: Let's Cook Dutch, World Championship Dutch Oven Cookbook
-- keywords: vegetable, dutch oven, cabin
+- keywords: side dish, dutch oven, cabin
 - time: ?
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?

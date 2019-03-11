@@ -19,5 +19,5 @@ almonds and cook until butter foams slightly.
 Add peas.  Toss well to coat.  Season with freshly ground pepper.
 
 - source: Cheap Thrills Cuisine
-- keywords: vegetable
+- keywords: side dish, vegetarian
 - ratings: Linda-10, Tom-8, Kyle-5

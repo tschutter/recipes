@@ -20,6 +20,6 @@ Add carrots and honey and cook for 4 to 5 minutes, or until carrots
 are glazed.
 
 - source: marthastewart.com
-- keywords: vegetable, favorite
+- keywords: side dish, vegetarian, favorite
 - ratings: Linda-9, Tom-9, Kyle-5, Skylar-9
 - time: 16 minutes

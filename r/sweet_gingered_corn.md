@@ -27,6 +27,6 @@ through.
 Serve immediately.
 
 - source: unknown
-- keywords: vegetable
+- keywords: side dish, vegetarian
 - ratings: Linda-7, Tom-9, Kyle-7, Skylar-7
 - time: ? minutes

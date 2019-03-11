@@ -19,4 +19,4 @@ Put potatoes in a shallow baking pan. Bake, turning occasionally,
 until potatoes are tender, about 40-60 minutes.
 
 - source: Various
-- keywords: vegetable
+- keywords: side dish, vegetarian

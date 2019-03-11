@@ -7,7 +7,7 @@ Leek Patties
 - 1/2 pound grated romano cheese
 - salt
 - pepper
-oil (for frying)
+- oil (for frying)
 
 Peel and boil potatoes.
 
@@ -21,6 +21,6 @@ Heat oil.  When sizzling, drop leeks by the tablespoonful into the
 oil.  Fry until golden on each side.  Drain.
 
 - source: food.com/153845
-- keywords: vegetable
+- keywords: side dish, vegetarian
 - ratings: Linda-7, Tom-7, Kyle-9, Skylar-3
 - time: ? minutes

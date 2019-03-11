@@ -34,6 +34,6 @@ ready to serve and then dump the mashers into a preheated bowl to
 serve.
 
 - source: KT's BBQ News, Issue #17, Nov 2011
-- keywords: vegetable, favorite
+- keywords: side dish, vegetarian, favorite
 - ratings: Linda-9, Tom-10, Kyle-?, Skylar-8
 - time: 80 minutes

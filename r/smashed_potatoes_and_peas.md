@@ -17,5 +17,5 @@ Gently mash with the scallions, butter, and 1/2 teaspoon salt and 1/2
 teaspoon pepper.
 
 - source: Real Simple, May 2009
-- keywords: vegetable
+- keywords: side dish, vegetarian
 - ratings: Linda-8, Tom-8, Kyle-9, Skylar-8
