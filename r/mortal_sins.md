@@ -5,7 +5,7 @@ Mortal Sins
 - 1/4 cup cream or evaporated milk
 - 1 cup chopped pecans
 - 3/4 cup melted butter
-- 1 cup chocalate chips
+- 1 cup chocolate chips
 - 1/2 jar caramel sauce (or 60 pieces caramel melted with 1/4 cup cream)
 
 Mix chocolate cake mix, cream, pecans, and butter. Put 1/2 of the
