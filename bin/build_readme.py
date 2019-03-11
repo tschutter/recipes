@@ -39,7 +39,7 @@ SECTIONS = collections.OrderedDict(
         ("Treats :cake:", ("chocolate", "cookie press", "cookies", "dessert")),
         ("Appetizers", ("appetizer",)),
         ("Drinks :tropical_drink:", ("drink",)),
-        ("Other :hocho:", ())
+        ("Other", ())
     ]
 )
 

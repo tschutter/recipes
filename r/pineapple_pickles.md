@@ -22,4 +22,4 @@ Add pineapple chunks and cook for 5 minutes.  Cool and cover tightly.
 Refrigerate 24 hours.  Serve with ham or pork.
 
 - source: Cheap Thrills Cuisine
-- keywords: appetizer
+- keywords: appetizer, vegetarian

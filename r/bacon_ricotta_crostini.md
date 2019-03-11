@@ -15,6 +15,6 @@ Top slices with ricotta and cooked bacon pieces.
 Mix honey and hot sauce and drizzle over bacon.
 
 - source: foodnetwork.com
-- keywords: appetizer
+- keywords: appetizer, pork
 - ratings: Linda-9, Tom-9, Kyle-9, Skylar-9
 - time: ? minutes

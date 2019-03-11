@@ -19,6 +19,6 @@ Place on ungreased baking sheet.
 Bake for 15 to 20 minutes, or until lightly golden brown.
 
 - source: realhousemoms.com
-- keywords: appetizer
+- keywords: appetizer, southwest, vegetarian
 - ratings: Linda-?, Tom-9, Kyle-?, Skylar-?
 - time: ? minutes
