@@ -25,21 +25,21 @@ IGNORE_FILES = ["r/TEMPLATE.md"]
 # Ordered list of section names.
 SECTIONS = collections.OrderedDict(
     [
-        ("Poultry", ("chicken", "poultry")),
-        ("Beef", ("beef",)),
-        ("Ground Beef", ("ground beef",)),
-        ("Pork", ("pork",)),
-        ("Lamb", ("lamb",)),
-        ("Seafood", ("fish", "seafood", "shrimp")),
-        ("Soup and Stew", ("soup", "stew")),
-        ("Vegetable", ("casserole", "vegetarian")),
+        ("Poultry :chicken:", ("chicken", "poultry")),
+        ("Beef :cow2:", ("beef",)),
+        ("Ground Beef :cow2:", ("ground beef",)),
+        ("Pork :pig2:", ("pork",)),
+        ("Lamb :sheep:", ("lamb",)),
+        ("Seafood :fish:", ("fish", "seafood", "shrimp")),
+        ("Soup and Stew :stew:", ("soup", "stew")),
+        ("Vegetable :herb:", ("casserole", "vegetarian")),
         ("Side Dish", ("rice", "salad", "side dish")),
-        ("Bread", ("bread",)),
+        ("Bread :bread:", ("bread",)),
         ("Breakfast", ("breakfast",)),
-        ("Treats", ("chocolate", "cookie press", "cookies", "dessert")),
+        ("Treats :cake:", ("chocolate", "cookie press", "cookies", "dessert")),
         ("Appetizers", ("appetizer",)),
-        ("Drinks", ("drink",)),
-        ("Other", ())
+        ("Drinks :tropical_drink:", ("drink",)),
+        ("Other :hocho:", ())
     ]
 )
 
@@ -205,6 +205,15 @@ def write_file_footer(readme):
             - Ingredients are logically grouped.
             - This file was created by [build_readme.py](bin/build_readme.py)
 
+            Keywords
+            --------
+            - The first keyword controls the section.
+            - If the only non-vegetarian item is chicken broth, the
+              recipe is still marked as vegetarian assuming that
+              vegetable broth can be substituted for chicken broth.
+            - Emojis for the primary keyword are not displayed in the
+              recipe list; if the recipe is in the pork section, it is
+              not displayed with a pig emoji.
             See Also
             --------
             - [kschutter Culinary Recipes](http://github.com/kschutter/recipes)
