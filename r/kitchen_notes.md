@@ -1,4 +1,4 @@
-Boiling Times
+Kitchen Notes
 -------------
 
 Item            | Time
