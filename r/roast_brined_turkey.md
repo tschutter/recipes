@@ -27,12 +27,12 @@ refrigerator or in a cooler kept at 38 degrees F.
 Combine the vegetable stock, salt, brown sugar, peppercorns, allspice
 berries, and candied ginger in a large stockpot over medium-high heat.
 Stir occasionally to dissolve solids and bring to a boil.  Then remove
-the brine from the heat, cool to room temperature, and refigerate.
+the brine from the heat, cool to room temperature, and refrigerate.
 
 Early on the night before you'd like to eat, combine the brine, water,
 and ice in a 5-gallon bucket.  Place the thawed turkey (with innards
 removed) breast side down in the brine.  If necessary, weigh down the
-bird to ensure that it is fully immersed.  Cover, and refigerate or
+bird to ensure that it is fully immersed.  Cover, and refrigerate or
 set in cool area for 8 to 16 hours, turning the bird once halfway
 through brining.
 
