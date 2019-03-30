@@ -19,7 +19,7 @@ Mix in eggs and almond extract.
 
 In a small bowl, combine flour, baking powder and salt.  Mix dry
 ingredients into wet ingredients, stirring until well combined.  Fold
-in chocolate chips.  Cover and refigerate for at least two hours.
+in chocolate chips.  Cover and refrigerate for at least two hours.
 
 Heat oven to 350 degrees F.  Line cookie sheets with parchment paper.
 Place powdered sugar in a small bowl.  Scoop out small teaspoons of
