@@ -9,7 +9,7 @@ Lemon-Pepper Lamb Marinade
 - 1 tablespoon crushed garlic
 
 Combine and put in zip-lock back with lamb chops.  Marinate at room
-temperature for 10 minutes or refigerate for 1 hour.
+temperature for 10 minutes or refrigerate for 1 hour.
 
 - source: food.com/291497
 - keywords: lamb
