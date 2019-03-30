@@ -17,7 +17,7 @@ minutes before grilling.
 
 Roast corn in husk over the grill, 10-15 minutes. Let cool. When
 cooled, cut corn from the cob and combine with remaining
-ingredients. Cover and refigerate 2 hours to blend flavors. Can be
+ingredients. Cover and refrigerate 2 hours to blend flavors. Can be
 served cold or warm.
 
 - source: Daily Camera - Cadillac Ranch
