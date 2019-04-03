@@ -4,20 +4,20 @@ tschutter Culinary Recipes
 Links on this page do not work, use http://tschutter.github.io/recipes/ instead.
 {% endcomment %}
 
-- [Poultry :chicken:](#poultry-:chicken:)
-- [Beef :cow2:](#beef-:cow2:)
-- [Ground Beef :cow2:](#ground-beef-:cow2:)
-- [Pork :pig2:](#pork-:pig2:)
-- [Lamb :sheep:](#lamb-:sheep:)
-- [Seafood :fish:](#seafood-:fish:)
-- [Soup and Stew :stew:](#soup-and-stew-:stew:)
-- [Vegetable :herb:](#vegetable-:herb:)
+- [Poultry :chicken:](#poultry-chicken)
+- [Beef :cow2:](#beef-cow2)
+- [Ground Beef :cow2:](#ground-beef-cow2)
+- [Pork :pig2:](#pork-pig2)
+- [Lamb :sheep:](#lamb-sheep)
+- [Seafood :fish:](#seafood-fish)
+- [Soup and Stew :stew:](#soup-and-stew-stew)
+- [Vegetable :herb:](#vegetable-herb)
 - [Side Dish](#side-dish)
-- [Bread :bread:](#bread-:bread:)
+- [Bread :bread:](#bread-bread)
 - [Breakfast](#breakfast)
-- [Treats :cake:](#treats-:cake:)
+- [Treats :cake:](#treats-cake)
 - [Appetizers](#appetizers)
-- [Drinks :tropical_drink:](#drinks-:tropical_drink:)
+- [Drinks :tropical_drink:](#drinks-tropical_drink)
 - [Other](#other)
 
 Poultry :chicken:
@@ -95,6 +95,7 @@ Pork :pig2:
 - [Carne de Puerco (Shredded Pork)](r/carne_de_puerco) :cactus:
 - [Cashew Pork](r/cashew_pork) (Linda-8, Tom-8, Kyle-7, Skylar-7)
 - [Chile Crusted Pork](r/chile_crusted_pork) :cactus:
+- [Colorado Potato Green Chile](r/colorado_potato_green_chile) :cactus:
 - [Crock Pot Chili Pork Chops](r/crock_pot_chili_pork_chops) (Linda-?, Tom-8, Kyle-9, Skylar-8)
 - [Dutch Oven Pork Chops](r/dutch_oven_pork_chops) (Linda-7, Tom-7, Kyle-?, Skylar-?)
 - [Gingered Pork](r/gingered_pork)
@@ -148,7 +149,7 @@ Seafood :fish:
 Soup and Stew :stew:
 --------------------
 - [Beef, Beer, and Barley Stew](r/beef_beer_barley_stew) :cow2: (Linda-8, Tom-8, Kyle-8, Skylar-8)
-- [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Tom-9, Linda-8, Kyle-10, Skylar-8)
+- [Carrot Ginger Soup](r/carrot_ginger_soup) :herb: :star: (Tom-9, Linda-8, Kyle-10, Skylar-8)
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
 - [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
 - [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-?, Skylar-9)
@@ -192,7 +193,7 @@ Side Dish
 - [Grandma's Shrooms](r/grandmas_shrooms) :herb:
 - [Grilled Asparagus](r/grilled_asparagus) :herb: (Linda-9, Tom-X, Kyle-7, Skylar-8)
 - [Herb Roasted Potatoes](r/herb_roasted_potatoes) :herb:
-- [Hummus](r/hummus) :herb: :star: (Tom-9, Linda-8, Kyle-9, Skylar-6)
+- [Hummus](r/hummus) :star: :herb: (Tom-9, Linda-8, Kyle-9, Skylar-6)
 - [Janet's Broccoli Salad 2008](r/janets_broccoli_salad)
 - [Janet's Sweet Potatoes](r/janets_sweet_potatoes) :herb:
 - [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :star: :herb: (Linda-9, Tom-10, Kyle-?, Skylar-8)
