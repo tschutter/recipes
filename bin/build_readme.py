@@ -167,7 +167,8 @@ def write_file_body(readme, sections):
     # Table of contents.
     readme.write("\n")
     for name in sections.keys():
-        readme.write(f"- [{name}](#{name.lower().replace(' ', '-')})\n")
+        target = name.lower().replace(" ", "-").replace(":", "")
+        readme.write(f"- [{name}](#{target})\n")
 
     for section_name, recipes in sections.items():
         readme.write("\n")
