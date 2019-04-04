@@ -37,7 +37,7 @@ Whisk 3 tablespoons of flour into the fat in the pan and cook over
 medium heat on the stovetop until bubbly.  Slowly stir in pan juices
 and cook until gravy thickens, stirring constantly.
 
-Server over noodles, rice, or mashed potatoes.
+Serve over noodles, rice, or mashed potatoes.
 
 - source: Daily Camera
 - keywords: pork, slow cooker
