@@ -27,4 +27,4 @@ tender.
 Serve with flour tortillas.
 
 - source: Rocky Mountain News
-- keywords: pork, stew, southwest
+- keywords: stew, pork, southwest
