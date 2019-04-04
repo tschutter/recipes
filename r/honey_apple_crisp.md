@@ -10,9 +10,9 @@ Honey Apple Crisp
 - 1/4 teaspoon salt
 - 1/4 cup butter
 
-Grease oven and place apples in the bottom.  Sprinkle lemon juice over
-them and pour honey over them.  Mix other ingredients until they
-resemble coarse crumbs.  Sprinkle over apples.
+Grease dutch oven and place apples in the bottom.  Sprinkle lemon
+juice over them and pour honey over them.  Mix other ingredients until
+they resemble coarse crumbs.  Sprinkle over apples.
 
 Bake at 375 degrees F for about 30 minutes.  8 to 10 coals bottom and
 18 to 20 on top.
