@@ -56,7 +56,6 @@ Beef :cow2:
 - [Beef Pot Pie with Biscuits](r/beef_pot_pie_with_biscuits) (Linda-8, Tom-8, Kyle-7, Skylar-7)
 - [Beef Teriyaki](r/beef_teriyaki) (Linda-8, Tom-9, Kyle-?, Skylar-8)
 - [Best Steak Marinade in Existence](r/best_steak_marinade) :star: (Tom-9, Linda-9, Kyle-9, Skylar-9)
-- [Bison and Sausage Chili](r/bison_sausage_chili) (Linda-9, Tom-9, Kyle-?, Skylar-7)
 - [Braised Short Ribs](r/braised_short_ribs) (Linda-6, Tom-9, Kyle-6, Skylar-9, Benjamin-9)
 - [Dr Pepper Tenderloin](r/dr_pepper_tenderloin) (Linda-9, Tom-9, Kyle-8, Skylar-6)
 - [Easy Chuck Roast](r/easy_chuck_roast) (Linda-7, Tom-9, Kyle-7, Skylar-9)
@@ -73,14 +72,14 @@ Ground Beef :cow2:
 - [Beef With Peanuts](r/beef_with_peanuts) :star: (Linda-9, Tom-9, Kyle-8, Skylar-8)
 - [Bison Strogenoff](r/bison_strogenoff) (Linda-8, Tom-8, Kyle-7, Skylar-5)
 - [Empanadas](r/empanadas) :star: (Linda-9, Tom-9, Kyle-10, Skylar-3)
-- [Hamburger Wild Rice Casserole](r/hamburger_wild_rice_casserole)
+- [Hamburger Wild Rice Casserole](r/hamburger_wild_rice_casserole) (Linda-?, Tom-6, Kyle-6, Skylar-7)
 - [Hawaiian Stir-Fry Ground Beef](r/hawaiian_stir_fry_ground_beef) (Linda-8, Tom-8, Kyle-8, Skylar-8)
 - [Impossibly Easy Cheeseburger Pie](r/impossibly_easy_cheeseburger_pie)
 - [Individual Meat Loaves](r/individual_meat_loaves) (Linda-8, Tom-9, Kyle-9, Skylar-7)
 - [Maid-Rite Loose Meat Sandwiches](r/maid_rite_loose_meat_sandwiches) (Linda-1, Tom-5, Kyle-?, Skylar-6)
 - [Mexi Ground Beef Chili Macaroni Casserole](r/mexi_ground_beef_chili_macaroni_casserole) (Linda-7, Tom-8, Kyle-8, Skylar-6)
-- [Porcupine Balls](r/porcupine_balls) :star: (Linda-6, Tom-9, Kyle-7, Skylar-2)
-- [Ranch Hand Steak](r/ranch_hand_steak) (Linda-7, Tom-9, Kyle-7, Skylar-3)
+- [Porcupine Balls](r/porcupine_balls) :star: (Linda-6, Tom-9, Kyle-7, Skylar-4, Benjamin-8)
+- [Ranch Hand Steak](r/ranch_hand_steak) (Linda-7, Tom-9, Kyle-7, Skylar-8)
 - [Simple Macaroni & Cheese Beef Skillet Bake](r/simple_macaroni_cheese_beef_skillet_bake) (Linda-7, Tom-8, Kyle-8, Skylar-8)
 - [Spaghetti Meat Sauce](r/spaghetti_meat_sauce) (Linda-8, Tom-9, Kyle-9, Skylar-6)
 - [Stuffed Bison Peppers](r/stuffed_bison_peppers) (Linda-3, Tom-9, Kyle-?, Skylar-7, Benjamin-7)
@@ -95,12 +94,9 @@ Pork :pig2:
 - [Carne de Puerco (Shredded Pork)](r/carne_de_puerco) :cactus:
 - [Cashew Pork](r/cashew_pork) (Linda-8, Tom-8, Kyle-7, Skylar-7)
 - [Chile Crusted Pork](r/chile_crusted_pork) :cactus:
-- [Colorado Potato Green Chile](r/colorado_potato_green_chile) :cactus:
 - [Crock Pot Chili Pork Chops](r/crock_pot_chili_pork_chops) (Linda-?, Tom-8, Kyle-9, Skylar-8)
 - [Dutch Oven Pork Chops](r/dutch_oven_pork_chops) (Linda-7, Tom-7, Kyle-?, Skylar-?)
 - [Gingered Pork](r/gingered_pork)
-- [Green Chili](r/green_chili) :cactus:
-- [Green Chili Stew](r/green_chili_stew) :cactus:
 - [Hogback Pork Chops](r/hogback_pork_chops) (Linda-8, Tom-8)
 - [Jack Daniel's Glazed Ham](r/jack_daniels_glazed_ham) (Linda-8, Tom-9, Kyle-?, Skylar-8)
 - [Lasagne](r/lasagne) :star: (Linda-8, Tom-10, Kyle-10, Skylar-7)
@@ -108,7 +104,7 @@ Pork :pig2:
 - [Parmesan Sage Pork Chops](r/parmesan_sage_pork_chops) (Linda-8, Tom-8, Kyle-9, Skylar-8)
 - [Pineapple Pork Chops](r/pineapple_pork_chops) (Linda-8, Tom-7, Kyle-7, Skylar-8)
 - [Pizza Cobbler](r/pizza_cobbler) (Linda-8, Tom-8, Kyle-8, Skylar-8)
-- [Pork Chops Yum Yum](r/pork_chops_yum_yum) (Linda-9, Tom-9, Kyle-9, Skylar-9)
+- [Pork Chops Yum Yum](r/pork_chops_yum_yum) (Linda-5, Tom-9, Kyle-9, Skylar-9)
 - [Pulled Pork](r/pulled_pork) (Linda-8, Tom-10, Kyle-10, Skylar-8)
 - [Ray's BBQ Ribs](r/rays_bbq_ribs) (Linda-9, Tom-9, Kyle-9, Skylar-8)
 - [Sesame Pork Roast](r/sesame_pork_roast)
@@ -149,13 +145,17 @@ Seafood :fish:
 Soup and Stew :stew:
 --------------------
 - [Beef, Beer, and Barley Stew](r/beef_beer_barley_stew) :cow2: (Linda-8, Tom-8, Kyle-8, Skylar-8)
+- [Bison and Sausage Chili](r/bison_sausage_chili) :cow2: (Linda-9, Tom-9, Kyle-?, Skylar-7)
 - [Carrot Ginger Soup](r/carrot_ginger_soup) :herb: :star: (Tom-9, Linda-8, Kyle-10, Skylar-8)
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
 - [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
 - [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-?, Skylar-9)
+- [Colorado Potato Green Chile](r/colorado_potato_green_chile) :cactus: :pig2:
 - [Corn and Red Pepper Chowder](r/corn_and_red_pepper_chowder) :herb:
 - [Creamy Crab Chowder](r/creamy_crab_chowder) :fish:
 - [Gazpacho Soup](r/gazpacho_soup) :herb:
+- [Green Chili](r/green_chili) :cactus: :pig2:
+- [Green Chili Stew](r/green_chili_stew) :cactus: :pig2:
 - [Ham and Lentil Soup](r/ham_and_lentil_soup) :pig2: (Linda-9, Tom-9, Kyle-7, Skylar-3)
 - [Hearty Pork Stew](r/hearty_pork_stew) :pig2: (Linda-9, Tom-9, Kyle-9, Skylar-6)
 - [Homestyle Corn Chowder](r/homestyle_corn_chowder) :herb:
@@ -290,7 +290,7 @@ Treats :cake:
 - [Mint Chocolate Chip Cookies](r/mint_chocolate_chip_cookies)
 - [Mortal Sins](r/mortal_sins)
 - [Norwegian Crowns](r/norwegian_crowns) (Linda-?, Tom-9, Kyle-?, Skylar-?)
-- [Oatmeal Cookies](r/oatmeal_cookies)
+- [Oatmeal Cookies](r/oatmeal_cookies) (Linda-?, Tom-8, Kyle-?, Skylar-?)
 - [Peanut Butter Cookies](r/peanut_butter_cookies)
 - [Pear Crisp with Ginger Whipped Cream](r/pear_crisp) (Linda-?, Tom-8, Kyle-2, Skylar-?)
 - [Peppermint White Chocolate Bark](r/peppermint_white_chocolate_bark) :star: (Linda-10, Tom-9, Kyle-9, Skylar-10)
