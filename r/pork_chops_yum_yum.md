@@ -20,4 +20,4 @@ Bake, uncovered, at 350 degrees F for 20 minutes.
 
 - source: food.com/95222
 - keywords: pork
-- ratings: Linda-9, Tom-9, Kyle-9, Skylar-9
+- ratings: Linda-5, Tom-9, Kyle-9, Skylar-9
