@@ -35,4 +35,4 @@ open flame or under a broiler, turning frequently. Place in a covered
 bowl. When cool enough to handle, peel skins off.
 
 - source: Unknown
-- keywords: pork, stew, southwest
+- keywords: stew, pork, southwest
