@@ -3,8 +3,8 @@ Lazy Cobbler
 
 - 1 large can sliced peaches
 - 1/2 package white cake mix
-margarine
-cinnamon
+- margarine
+- cinnamon
 
 Optionally line dutch oven with aluminum foil.
 
