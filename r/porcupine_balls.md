@@ -5,7 +5,7 @@ Porcupine Balls
 - 1/2 cup raw rice (you can use instant)
 - 1/2 cup finely chopped onion
 - 1/2 cup finely chopped green pepper
-- 3/4 cup milk (1 cup if instant rice)
+- 1 cup milk
 - salt
 - pepper
 <!-- -->
@@ -23,5 +23,5 @@ soup and milk mixture.  Bake for another 30 minutes.
 
 - source: ?
 - keywords: ground beef, favorite
-- ratings: Linda-6, Tom-9, Kyle-7, Skylar-2
+- ratings: Linda-6, Tom-9, Kyle-7, Skylar-4, Benjamin-8
 - time: 90 minutes
