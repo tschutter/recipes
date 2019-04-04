@@ -9,7 +9,7 @@ Ranch Hand Steak
 - 1/4 teaspoon cayenne pepper
 <!-- -->
 - 1 can cream of mushroom soup
-- 1 cup water
+- 1/2 cup water
 - salt and pepper to taste
 
 Beat egg in large bowl.  Add bison, egg, onion, celery, crackers, and
@@ -23,5 +23,5 @@ bake for 30 minutes at 350 degrees F.
 
 - source: Great Range bison package
 - keywords: ground beef
-- ratings: Linda-7, Tom-9, Kyle-7, Skylar-3
+- ratings: Linda-7, Tom-9, Kyle-7, Skylar-8
 - time: 65 minutes
