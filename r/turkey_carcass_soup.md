@@ -37,4 +37,4 @@ taste.
 - source: Tom Schutter
 - keywords: soup, poultry, favorite
 - ratings: Linda-7, Tom-9, Kyle-?, Skylar-8
-- time: ? minutes
+- time: 90 minutes
