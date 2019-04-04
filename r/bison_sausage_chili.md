@@ -36,6 +36,6 @@ to add 1 to 2 cups of water to bring to the desired consistency.
 Simmer for an hour.
 
 - source: Rocky Mountain News
-- keywords: beef
+- keywords: stew, beef
 - ratings: Linda-9, Tom-9, Kyle-?, Skylar-7
 - time: 2 hours
