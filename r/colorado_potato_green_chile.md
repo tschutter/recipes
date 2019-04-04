@@ -40,6 +40,6 @@ Drain potatoes; add to soup along with cilantro.  Simmer 5 to 10
 minutes.
 
 - source: Chef George Carlberg, Buckhorn Exchange
-- keywords: pork, southwest, soup
+- keywords: stew, pork, southwest
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes
