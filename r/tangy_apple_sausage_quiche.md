@@ -10,8 +10,8 @@ Tangy Apple Sausage Quiche
 - 12 ounces pork sausage
 - 1/2 cup minced onion
 <!-- -->
-- 3 eggs
-- 1-1/2 cups half & half
+- 2 eggs
+- 1 cup half & half
 - 1/4 teaspoon salt
 - dash of black pepper
 <!-- -->
