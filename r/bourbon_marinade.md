@@ -19,7 +19,7 @@ Place meat in bag and refrigerate overnight.
 Preheat oven to 325 degrees F.  Bring the meat to room temperature
 before cooking and place in a baking dish.
 
-Bake for 1 hour if using chicken.  Bake for 1 hour if using pork
+Bake for 1 hour if using chicken.  Bake for 45 minutes if using pork
 chops.  Turn meat over halfway through the cooking time.
 
 Remove the meat from the baking dish and keep warm.
@@ -32,4 +32,3 @@ to make the sauce creamy.  Serve over the meat.
 - keywords: poultry, pork
 - ratings: Linda-9, Tom-9, Kyle-8, Skylar-7
 - time: 5 minutes + 70 minutes
-- todo: adjust baking times; orig recipe had 1.5 hours for pork
