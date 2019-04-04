@@ -1,18 +1,14 @@
 Almond Wild Rice
 ----------------
 
-- 1/2 cup chicken broth
+- 5-1/2 cups chicken broth
 - 1 cup golden raisins
 <!-- -->
-- 3 cups chicken broth
-- 2 tablespoons butter
+- 6 tablespoons butter, divided
 - 1 cup uncooked wild rice
 <!-- -->
-- 2 cups chicken broth
-- 2 tablespoons butter
 - 1 cup uncooked brown rice
 <!-- -->
-- 2 tablespoons butter
 - 1 cup sliced or slivered almonds
 <!-- -->
 - 1/2 cup minced fresh parsley
