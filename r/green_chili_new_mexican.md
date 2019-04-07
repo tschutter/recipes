@@ -46,6 +46,6 @@ color.
 Just before serving add fresh cilantro to chili.
 
 - source: Daily Camera
-- keywords: pork, stew, southwest
+- keywords: stew, pork, southwest
 - ratings: Linda-6, Tom-9, Kyle-8, Skylar-6
 - time: 210 minutes
