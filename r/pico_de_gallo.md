@@ -14,6 +14,6 @@ Mix onion, tomato, cilantro, and sugar.  Season to taste with salt and
 pepper.  Drizzle with lime juice and olive oil.  Mix before serving.
 
 - source: Food Network magazine
-- keywords: beef, southwest
+- keywords: vegetarian, southwest
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes
