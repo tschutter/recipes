@@ -25,6 +25,6 @@ About 10 minutes before serving, fold the cheese and pepper strips
 into the rice mixture.  Cover until ready to serve.
 
 - source: Maria Elena Rodriguez via Detroit Free Press
-- keywords: vegeterian, southwest
+- keywords: vegetarian, southwest
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes
