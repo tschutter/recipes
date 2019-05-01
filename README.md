@@ -149,19 +149,19 @@ Soup and Stew :stew:
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
 - [Chicken Peanut Soup](r/chicken_peanut_soup) :chicken: :star: (Linda-9, Tom-9, Kyle-9, Skylar-7)
 - [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-?, Skylar-9)
-- [Colorado Potato Green Chile](r/colorado_potato_green_chile) :cactus: :pig2:
+- [Colorado Potato Green Chile](r/colorado_potato_green_chile) :pig2: :cactus:
 - [Corn and Red Pepper Chowder](r/corn_and_red_pepper_chowder) :herb:
 - [Creamy Crab Chowder](r/creamy_crab_chowder) :fish:
 - [Gazpacho Soup](r/gazpacho_soup) :herb:
-- [Green Chili](r/green_chili) :cactus: :pig2:
-- [Green Chili Stew](r/green_chili_stew) :cactus: :pig2:
+- [Green Chili](r/green_chili) :pig2: :cactus:
+- [Green Chili Stew](r/green_chili_stew) :pig2: :cactus:
 - [Ham and Lentil Soup](r/ham_and_lentil_soup) :pig2: (Linda-9, Tom-9, Kyle-7, Skylar-3)
 - [Hearty Pork Stew](r/hearty_pork_stew) :pig2: (Linda-9, Tom-9, Kyle-9, Skylar-6)
 - [Homestyle Corn Chowder](r/homestyle_corn_chowder) :herb:
 - [Italian Sausage and Lentil Soup](r/italian_sausage_and_lentil_soup) :pig2: (Linda-7, Tom-8, Kyle-7, Skylar-9)
 - [Kale, Butternut Squash, White Bean Soup](r/kale_butternut_squash_white_bean_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-?)
 - [Lemon Chicken Tortellini Soup](r/lemon_chicken_tortellini_soup) :chicken: (Linda-9, Tom-9, Kyle-?, Skylar-?)
-- [New Mexican Green Chili](r/green_chili_new_mexican) :cactus: :pig2: (Linda-6, Tom-9, Kyle-8, Skylar-6)
+- [New Mexican Green Chili](r/green_chili_new_mexican) :pig2: :cactus: (Linda-6, Tom-9, Kyle-8, Skylar-6)
 - [Pizza Soup](r/pizza_soup) :pig2: (Linda-8, Tom-9, Kyle-8, Skylar-7)
 - [Porter Beef Stew](r/porter_beef_stew) :cow2: (Linda-7, Tom-8, Skylar-8)
 - [Potato Sausage Soup](r/potato_sausage_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-7)
@@ -177,6 +177,7 @@ Vegetable :herb:
 - [Pico de Gallo](r/pico_de_gallo) :cactus:
 - [Stuffed Red Peppers](r/stuffed_red_peppers) (Linda-8, Tom-9, Kyle-?, Skylar-?)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
+- [White Rice with Chili Strips, Corn, and Cheese](r/white_rice_with_chili_corn_cheese) :cactus:
 
 Side Dish
 ---------
@@ -195,7 +196,7 @@ Side Dish
 - [Grandma's Shrooms](r/grandmas_shrooms) :herb:
 - [Grilled Asparagus](r/grilled_asparagus) :herb: (Linda-9, Tom-X, Kyle-7, Skylar-8)
 - [Herb Roasted Potatoes](r/herb_roasted_potatoes) :herb:
-- [Hummus](r/hummus) :herb: :star: (Tom-9, Linda-8, Kyle-9, Skylar-6)
+- [Hummus](r/hummus) :star: :herb: (Tom-9, Linda-8, Kyle-9, Skylar-6)
 - [Janet's Broccoli Salad 2008](r/janets_broccoli_salad)
 - [Janet's Sweet Potatoes](r/janets_sweet_potatoes) :herb:
 - [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :herb: :star: (Linda-9, Tom-10, Kyle-?, Skylar-8)
@@ -337,7 +338,6 @@ Other
 - [Playdough](r/playdough)
 - [Rhumba Yam-Allspice Butter](r/rhumba_yam_allspice_butter)
 - [Roasted Garlic](r/roasted_garlic)
-- [White Rice with Chili Strips, Corn, and Cheese](r/white_rice_with_chili_corn_cheese) :cactus:
 
 Usage
 -----
