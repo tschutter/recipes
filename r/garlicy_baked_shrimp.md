@@ -22,5 +22,5 @@ minutes.
 
 - source: realsimple.com
 - keywords: shrimp
-- ratings: Linda-9, Tom-9, Kyle-?, Skylar-?
-- time: ? minutes
+- ratings: Linda-9, Tom-9, Kyle-8, Skylar-?
+- time: 60 minutes
