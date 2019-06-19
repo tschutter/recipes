@@ -126,7 +126,7 @@ Seafood :fish:
 - [Creamy Shrimp and Poblanos](r/creamy_shrimp_and_poblanos) (Linda-9, Tom-9, Kyle-7, Skylar-?)
 - [Garlic Lime Shrimp](r/garlic_lime_shrimp) :star: (Linda-9, Tom-9, Kyle-8, Skylar-9)
 - [Garlic Shrimp](r/garlic_shrimp) (Linda-7, Tom-6, Kyle-?, Skylar-?)
-- [Garlicky Baked Shrimp](r/garlicy_baked_shrimp) (Linda-9, Tom-9, Kyle-?, Skylar-?)
+- [Garlicky Baked Shrimp](r/garlicy_baked_shrimp) (Linda-9, Tom-9, Kyle-8, Skylar-?)
 - [Glazed Salmon](r/glazed_salmon) :star: (Linda-10, Tom-9, Kyle-?, Skylar-9)
 - [Grilled Salmon With Pineapple Salsa](r/grilled_salmon_pineapple_salsa)
 - [Grilled Tilipia With Cherry Salsa](r/grilled_tilipia_with_cherry_salsa) (Linda-8, Tom-9, Kyle-6, Skylar-9)
@@ -147,8 +147,8 @@ Soup and Stew :stew:
 - [Bison and Sausage Chili](r/bison_sausage_chili) :cow2: (Linda-9, Tom-9, Kyle-?, Skylar-7)
 - [Carrot Ginger Soup](r/carrot_ginger_soup) :herb: :star: (Tom-9, Linda-8, Kyle-10, Skylar-8)
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
-- [Chicken Peanut Soup](r/chicken_peanut_soup) :chicken: :star: (Linda-9, Tom-9, Kyle-9, Skylar-7)
-- [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-?, Skylar-9)
+- [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
+- [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-9, Skylar-9)
 - [Colorado Potato Green Chile](r/colorado_potato_green_chile) :pig2: :cactus:
 - [Corn and Red Pepper Chowder](r/corn_and_red_pepper_chowder) :herb:
 - [Creamy Crab Chowder](r/creamy_crab_chowder) :fish:
@@ -165,16 +165,18 @@ Soup and Stew :stew:
 - [Pizza Soup](r/pizza_soup) :pig2: (Linda-8, Tom-9, Kyle-8, Skylar-7)
 - [Porter Beef Stew](r/porter_beef_stew) :cow2: (Linda-7, Tom-8, Skylar-8)
 - [Potato Sausage Soup](r/potato_sausage_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-7)
-- [Texas Chili](r/texas_chili) :cow2: :star: (Linda-9, Tom-9, Kyle-7, Skylar-4)
-- [Turkey Carcass Soup](r/turkey_carcass_soup) :chicken: :star: (Linda-7, Tom-9, Kyle-?, Skylar-8)
+- [Texas Chili](r/texas_chili) :star: :cow2: (Linda-9, Tom-9, Kyle-7, Skylar-4)
+- [Turkey Carcass Soup](r/turkey_carcass_soup) :star: :chicken: (Linda-7, Tom-9, Kyle-?, Skylar-8)
 - [Victor's Gazpaucho Soup](r/victors_gazpaucho_soup) :herb:
 - [Wild Rice Soup](r/wild_rice_soup) :herb:
 
 Vegetable :herb:
 ----------------
 - [Cheesey Italian Spaghetti Squash](r/cheesey_italian_spaghetti_squash) (Linda-?, Tom-7, Kyle-?, Skylar-?)
+- [Mexican Corn Casserole](r/mexican_corn_casserole)
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
 - [Pico de Gallo](r/pico_de_gallo) :cactus:
+- [Shrimp and Pesto Calzones](r/shrimp_and_pesto_calzones) (Linda-9, Tom-9, Kyle-9, Skylar-?)
 - [Stuffed Red Peppers](r/stuffed_red_peppers) (Linda-8, Tom-9, Kyle-?, Skylar-?)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
 - [White Rice with Chili Strips, Corn, and Cheese](r/white_rice_with_chili_corn_cheese) :cactus:
@@ -196,19 +198,19 @@ Side Dish
 - [Grandma's Shrooms](r/grandmas_shrooms) :herb:
 - [Grilled Asparagus](r/grilled_asparagus) :herb: (Linda-9, Tom-X, Kyle-7, Skylar-8)
 - [Herb Roasted Potatoes](r/herb_roasted_potatoes) :herb:
-- [Hummus](r/hummus) :star: :herb: (Tom-9, Linda-8, Kyle-9, Skylar-6)
+- [Hummus](r/hummus) :herb: :star: (Tom-9, Linda-8, Kyle-9, Skylar-6)
 - [Janet's Broccoli Salad 2008](r/janets_broccoli_salad)
 - [Janet's Sweet Potatoes](r/janets_sweet_potatoes) :herb:
 - [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :herb: :star: (Linda-9, Tom-10, Kyle-?, Skylar-8)
 - [Leek Patties](r/leek_patties) :herb: (Linda-7, Tom-7, Kyle-9, Skylar-3)
-- [Mexican Rice](r/mexican_rice) :cactus: :herb: (Linda-3, Tom-8, Kyle-6, Skylar-?)
+- [Mexican Rice](r/mexican_rice) :herb: :cactus: (Linda-3, Tom-8, Kyle-6, Skylar-?)
 - [Mint Carrots](r/mint_carrots) :herb: (Linda-10, Tom-10, Kyle-7, Skylar-3)
 - [Noodle Kugel](r/noodle_kugel) :herb:
 - [Pat Sebesta's Cranberry Sauce](r/cranberry_sauce) :herb:
 - [Pineapple Rice](r/pineapple_rice) :herb:
 - [Portabello Mushrooms](r/portabello_mushrooms)
 - [Salade Canaille (Yummy Salad with Pears and Walnuts)](r/salade_canaille) :herb:
-- [Salsa Ranchera](r/salsa_ranchera) :cactus: :herb: (Linda-?, Tom-8, Kyle-8, Skylar-?)
+- [Salsa Ranchera](r/salsa_ranchera) :herb: :cactus: (Linda-?, Tom-8, Kyle-8, Skylar-?)
 - [Smashed Potatoes and Peas](r/smashed_potatoes_and_peas) :herb: (Linda-8, Tom-8, Kyle-9, Skylar-8)
 - [Sugar Peas Almondine](r/sugar_peas_almondine) :herb: (Linda-10, Tom-8, Kyle-5)
 - [Sweet Gingered Corn](r/sweet_gingered_corn) :herb: (Linda-7, Tom-9, Kyle-7, Skylar-7)
