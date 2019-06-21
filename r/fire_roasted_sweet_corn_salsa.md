@@ -21,4 +21,6 @@ ingredients. Cover and refrigerate 2 hours to blend flavors. Can be
 served cold or warm.
 
 - source: Daily Camera - Cadillac Ranch
-- keywords: side dish, vegetarian, condiment
+- keywords: appetizer, southwest, vegetarian
+- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- time: ? minutes

@@ -16,6 +16,6 @@ tomatoes.
 Mix in rest of ingredients.
 
 - source: unknown
-- keywords: side dish, southwest, vegetarian
+- keywords: appetizer, southwest, vegetarian
 - ratings: Linda-?, Tom-8, Kyle-8, Skylar-?
 - time: 25 minutes
