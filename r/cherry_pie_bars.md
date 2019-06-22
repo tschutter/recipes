@@ -18,7 +18,7 @@ Cherry Pie Bars
 - 3 cups oatmeal (quick oats)
 <!-- -->
 - 1/2 cup sliced almonds
-powdered sugar for dusting
+- powdered sugar for dusting
 
 In a small saucepan, combine dried cherries, water, sugar, and lemon
 juice.  Bring to a boil, turn down the heat and let simmer 8-10
@@ -49,3 +49,4 @@ Dust with powdered sugar.  Cut into 16 bars.
 - source: Dessert Diva, Boulder Weekly 2011-02-24
 - keywords: cookies
 - ratings: Linda-?, Tom-9, Kyle-?, Skylar-?
+- time: ?

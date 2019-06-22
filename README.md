@@ -69,6 +69,7 @@ Beef :cow2:
 
 Ground Beef :cow2:
 ------------------
+- [Bacon Sloppy Joes](r/bacon_sloppy_joes)
 - [Beef With Peanuts](r/beef_with_peanuts) :star: (Linda-9, Tom-9, Kyle-8, Skylar-8)
 - [Bison Strogenoff](r/bison_strogenoff) (Linda-8, Tom-8, Kyle-7, Skylar-5)
 - [Empanadas](r/empanadas) :star: (Linda-9, Tom-9, Kyle-10, Skylar-3)
@@ -143,25 +144,26 @@ Seafood :fish:
 
 Soup and Stew :stew:
 --------------------
+- [Beef Barley Soup](r/beef_barley_soup) :cow2: (Linda-9, Tom-?, Kyle-?, Skylar-?)
 - [Beef, Beer, and Barley Stew](r/beef_beer_barley_stew) :cow2: (Linda-8, Tom-8, Kyle-8, Skylar-8)
 - [Bison and Sausage Chili](r/bison_sausage_chili) :cow2: (Linda-9, Tom-9, Kyle-?, Skylar-7)
-- [Carrot Ginger Soup](r/carrot_ginger_soup) :herb: :star: (Tom-9, Linda-8, Kyle-10, Skylar-8)
+- [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Tom-9, Linda-8, Kyle-10, Skylar-8)
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
 - [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
 - [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-9, Skylar-9)
-- [Colorado Potato Green Chile](r/colorado_potato_green_chile) :cactus: :pig2:
+- [Colorado Potato Green Chile](r/colorado_potato_green_chile) :pig2: :cactus:
 - [Corn and Red Pepper Chowder](r/corn_and_red_pepper_chowder) :herb:
 - [Creamy Crab Chowder](r/creamy_crab_chowder) :fish:
 - [Gazpacho Soup](r/gazpacho_soup) :herb:
-- [Green Chili](r/green_chili) :cactus: :pig2:
-- [Green Chili Stew](r/green_chili_stew) :cactus: :pig2:
+- [Green Chili](r/green_chili) :pig2: :cactus:
+- [Green Chili Stew](r/green_chili_stew) :pig2: :cactus:
 - [Ham and Lentil Soup](r/ham_and_lentil_soup) :pig2: (Linda-9, Tom-9, Kyle-7, Skylar-3)
 - [Hearty Pork Stew](r/hearty_pork_stew) :pig2: (Linda-9, Tom-9, Kyle-9, Skylar-6)
 - [Homestyle Corn Chowder](r/homestyle_corn_chowder) :herb:
 - [Italian Sausage and Lentil Soup](r/italian_sausage_and_lentil_soup) :pig2: (Linda-7, Tom-8, Kyle-7, Skylar-9)
 - [Kale, Butternut Squash, White Bean Soup](r/kale_butternut_squash_white_bean_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-?)
 - [Lemon Chicken Tortellini Soup](r/lemon_chicken_tortellini_soup) :chicken: (Linda-9, Tom-9, Kyle-?, Skylar-?)
-- [New Mexican Green Chili](r/green_chili_new_mexican) :cactus: :pig2: (Linda-6, Tom-9, Kyle-8, Skylar-6)
+- [New Mexican Green Chili](r/green_chili_new_mexican) :pig2: :cactus: (Linda-6, Tom-9, Kyle-8, Skylar-6)
 - [Pizza Soup](r/pizza_soup) :pig2: (Linda-8, Tom-9, Kyle-8, Skylar-7)
 - [Porter Beef Stew](r/porter_beef_stew) :cow2: (Linda-7, Tom-8, Skylar-8)
 - [Potato Sausage Soup](r/potato_sausage_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-7)
@@ -185,7 +187,7 @@ Side Dish
 ---------
 - [Almond Wild Rice](r/almond_wild_rice) :herb:
 - [Asian Cabbage Salad](r/asian_cabbage_salad) :herb: (Linda-10, Tom-?, Skylar-?, Kyle-?)
-- [Carrots with Ginger and Honey](r/carrots_with_ginger_and_honey) :star: :herb: (Linda-9, Tom-9, Kyle-5, Skylar-9)
+- [Carrots with Ginger and Honey](r/carrots_with_ginger_and_honey) :herb: :star: (Linda-9, Tom-9, Kyle-5, Skylar-9)
 - [Chinese Cabbage Salad](r/chinese_cabbage_salad) :herb: (Linda-10, Tom-4, Skylar-?, Kyle-?)
 - [Corn Muffins](r/corn_muffins) :herb:
 - [Corn with Chipotle and Thyme](r/corn_with_chipotle_and_thyme) :herb:
@@ -200,7 +202,7 @@ Side Dish
 - [Hummus](r/hummus) :herb: :star: (Tom-9, Linda-8, Kyle-9, Skylar-6)
 - [Janet's Broccoli Salad 2008](r/janets_broccoli_salad)
 - [Janet's Sweet Potatoes](r/janets_sweet_potatoes) :herb:
-- [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :star: :herb: (Linda-9, Tom-10, Kyle-?, Skylar-8)
+- [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :herb: :star: (Linda-9, Tom-10, Kyle-?, Skylar-8)
 - [Leek Patties](r/leek_patties) :herb: (Linda-7, Tom-7, Kyle-9, Skylar-3)
 - [Mexican Rice](r/mexican_rice) :cactus: :herb: (Linda-3, Tom-8, Kyle-6, Skylar-?)
 - [Mint Carrots](r/mint_carrots) :herb: (Linda-10, Tom-10, Kyle-7, Skylar-3)
@@ -309,12 +311,12 @@ Treats :cake:
 Appetizers
 ----------
 - [Bacon Ricotta Crostini](r/bacon_ricotta_crostini) :pig2: (Linda-9, Tom-9, Kyle-9, Skylar-9)
-- [Fire Roasted Sweet Corn Salsa](r/fire_roasted_sweet_corn_salsa) :cactus: :herb:
-- [Jalapeno Bites](r/jalapeno_bites) :cactus: :herb: (Linda-?, Tom-9, Kyle-?, Skylar-?)
-- [Pepper Corn Salsa](r/pepper_corn_salsa) :cactus: :herb:
+- [Fire Roasted Sweet Corn Salsa](r/fire_roasted_sweet_corn_salsa) :herb: :cactus:
+- [Jalapeno Bites](r/jalapeno_bites) :herb: :cactus: (Linda-?, Tom-9, Kyle-?, Skylar-?)
+- [Pepper Corn Salsa](r/pepper_corn_salsa) :herb: :cactus:
 - [Pineapple Pickles](r/pineapple_pickles) :herb:
-- [Pineapple and Mango Salsa](r/pineapple_and_mango_salsa) :cactus: :herb:
-- [Salsa Ranchera](r/salsa_ranchera) :cactus: :herb: (Linda-?, Tom-8, Kyle-8, Skylar-?)
+- [Pineapple and Mango Salsa](r/pineapple_and_mango_salsa) :herb: :cactus:
+- [Salsa Ranchera](r/salsa_ranchera) :herb: :cactus: (Linda-?, Tom-8, Kyle-8, Skylar-?)
 - [Sweet and Spicy Pecans](r/sweet_and_spicy_pecans) :herb:
 
 Drinks :tropical_drink:
@@ -323,6 +325,7 @@ Drinks :tropical_drink:
 - [Chocolate-Mint Fizz](r/chocolate_mint_fizz)
 - [Classic 1944 Mai Tai](r/classic_1944_mai_tai)
 - [Dirty Gold](r/dirty_gold)
+- [Frozen Margaritas](r/frozen_margaritas)
 - [Hot Bourbon Cider](r/hot_bourbon_cider)
 - [Hot Spiced Cider](r/hot_spiced_cider)
 - [Lemonade](r/lemonade)
