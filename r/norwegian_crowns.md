@@ -5,10 +5,11 @@ Norwegian Crowns
 - 1/2 cup sugar
 - 2 eggs
 - 1 teaspoon almond extract
-- 2-1/2 cups flour
+- 2-1/2 cups flour (try 1/4 cup less)
+- green food coloring
 
 Cream the butter.  Gradually add the sugar, eggs, and almond extract.
-Add the flour.
+Add the flour.  Mix in the food coloring.
 
 Fill a cookie press.  Use the tree disk.  Form cookies on ungreased
 cookie sheet.  Sprinkle with colored sugar.
