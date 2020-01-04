@@ -2,17 +2,18 @@ Cajun BBQ Chicken Strips
 ------------------------
 
 - 4 boneless, skinless chicken breasts
+
 Cajun spice rub:
-  2 tablespoons paprika
-  1 tablespoon garlic powder
-  1 teaspoon oregano
-  1 teaspoon thyme
-  1 teaspoon salt
-  1 teaspoon cumin
-  1/2 teaspoon chrushed peppercorns
-  1/2 teaspoon nutmeg
-  1/4 teaspoon cayenne pepper
-  1/4 teaspoon dry mustard
+- 2 tablespoons paprika
+- 1 tablespoon garlic powder
+- 1 teaspoon oregano
+- 1 teaspoon thyme
+- 1 teaspoon salt
+- 1 teaspoon cumin
+- 1/2 teaspoon chrushed peppercorns
+- 1/2 teaspoon nutmeg
+- 1/4 teaspoon cayenne pepper
+- 1/4 teaspoon dry mustard
 
 Presoak 12, 8-inch bamboo skewers.
 
