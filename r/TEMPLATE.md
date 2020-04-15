@@ -10,5 +10,5 @@ Instructions.
 
 - source:
 - keywords:
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Tom-?, Patti-?
 - time: ? minutes
