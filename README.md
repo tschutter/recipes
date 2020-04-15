@@ -150,7 +150,7 @@ Soup and Stew :stew:
 - [Bison and Sausage Chili](r/bison_sausage_chili) :cow2: (Linda-9, Tom-9, Kyle-?, Skylar-7)
 - [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Tom-9, Linda-8, Kyle-10, Skylar-8)
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
-- [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
+- [Chicken Peanut Soup](r/chicken_peanut_soup) :chicken: :star: (Linda-9, Tom-9, Kyle-9, Skylar-7)
 - [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-9, Skylar-9)
 - [Colorado Potato Green Chile](r/colorado_potato_green_chile) :cactus: :pig2:
 - [Corn and Red Pepper Chowder](r/corn_and_red_pepper_chowder) :herb:
@@ -168,8 +168,8 @@ Soup and Stew :stew:
 - [Pizza Soup](r/pizza_soup) :pig2: (Linda-8, Tom-9, Kyle-8, Skylar-7)
 - [Porter Beef Stew](r/porter_beef_stew) :cow2: (Linda-7, Tom-8, Skylar-8)
 - [Potato Sausage Soup](r/potato_sausage_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-7)
-- [Texas Chili](r/texas_chili) :star: :cow2: (Linda-9, Tom-9, Kyle-7, Skylar-4)
-- [Turkey Carcass Soup](r/turkey_carcass_soup) :star: :chicken: (Linda-7, Tom-9, Kyle-?, Skylar-8)
+- [Texas Chili](r/texas_chili) :cow2: :star: (Linda-9, Tom-9, Kyle-7, Skylar-4)
+- [Turkey Carcass Soup](r/turkey_carcass_soup) :chicken: :star: (Linda-7, Tom-9, Kyle-?, Skylar-8)
 - [Victor's Gazpaucho Soup](r/victors_gazpaucho_soup) :herb:
 - [Wild Rice Soup](r/wild_rice_soup) :herb:
 
@@ -205,7 +205,7 @@ Side Dish
 - [Janet's Sweet Potatoes](r/janets_sweet_potatoes) :herb:
 - [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :star: :herb: (Linda-9, Tom-10, Kyle-?, Skylar-8)
 - [Leek Patties](r/leek_patties) :herb: (Linda-7, Tom-7, Kyle-9, Skylar-3)
-- [Mexican Rice](r/mexican_rice) :herb: :cactus: (Linda-3, Tom-8, Kyle-6, Skylar-?)
+- [Mexican Rice](r/mexican_rice) :cactus: :herb: (Linda-3, Tom-8, Kyle-6, Skylar-?)
 - [Mint Carrots](r/mint_carrots) :herb: (Linda-10, Tom-10, Kyle-7, Skylar-3)
 - [Noodle Kugel](r/noodle_kugel) :herb:
 - [Pat Sebesta's Cranberry Sauce](r/cranberry_sauce) :herb:
@@ -307,17 +307,18 @@ Treats :cake:
 - [Toffee Blondies](r/toffee_blondies) (Linda-10, Tom-9, Kyle-9, Skylar-9)
 - [Toll House Chocolate Chip Cookies](r/toll_house_cookies)
 - [Triple Chocolate Uglies](r/triple_chocolate_uglies)
+- [Ultimate Chocolate Chip Cookies](r/ultimate_chocolate_chip_cookies)
 - [Unbaked Chocolate Cookies](r/unbaked_chocolate_cookies)
 
 Appetizers
 ----------
 - [Bacon Ricotta Crostini](r/bacon_ricotta_crostini) :pig2: (Linda-9, Tom-9, Kyle-9, Skylar-9)
-- [Fire Roasted Sweet Corn Salsa](r/fire_roasted_sweet_corn_salsa) :herb: :cactus:
-- [Jalapeno Bites](r/jalapeno_bites) :herb: :cactus: (Linda-?, Tom-9, Kyle-?, Skylar-?)
-- [Pepper Corn Salsa](r/pepper_corn_salsa) :herb: :cactus:
+- [Fire Roasted Sweet Corn Salsa](r/fire_roasted_sweet_corn_salsa) :cactus: :herb:
+- [Jalapeno Bites](r/jalapeno_bites) :cactus: :herb: (Linda-?, Tom-9, Kyle-?, Skylar-?)
+- [Pepper Corn Salsa](r/pepper_corn_salsa) :cactus: :herb:
 - [Pineapple Pickles](r/pineapple_pickles) :herb:
-- [Pineapple and Mango Salsa](r/pineapple_and_mango_salsa) :herb: :cactus:
-- [Salsa Ranchera](r/salsa_ranchera) :herb: :cactus: (Linda-?, Tom-8, Kyle-8, Skylar-?)
+- [Pineapple and Mango Salsa](r/pineapple_and_mango_salsa) :cactus: :herb:
+- [Salsa Ranchera](r/salsa_ranchera) :cactus: :herb: (Linda-?, Tom-8, Kyle-8, Skylar-?)
 - [Sweet and Spicy Pecans](r/sweet_and_spicy_pecans) :herb:
 
 Drinks :tropical_drink:
