@@ -28,6 +28,8 @@ over the filling like a turnover, and crimp the edges with a fork.
 Place on lightly greased cookie sheet and bake at 375 degrees F until
 lightly browned, about 12 minutes.
 
+Pre-baked empanadas cannot be refrigerated for more than 1 or 2 days.
+
 - source: food.com/133297
 - keywords: ground beef, favorite
 - ratings: Linda-9, Tom-9, Kyle-10, Skylar-3
