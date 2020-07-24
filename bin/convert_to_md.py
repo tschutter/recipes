@@ -3,6 +3,9 @@
 """
 Convert .txt recipe files to .md files.
 
+This is a tool that was used for the initial batch conversion. Now
+that all recipes are stored in .md files, this tool is no longer used.
+
 Adjacent lists must be separated by <!-- --> comment lines otherwise
 most Markdown parsers will combine them into a single list.
 """
