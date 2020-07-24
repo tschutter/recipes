@@ -7,7 +7,7 @@ Hummus
 - 1 clove garlic, minced
 - 1 teaspoon cumin
 - 1 teaspoon salt
-- pepper
+- 2 teaspoons chili paste
 
 Drain chick peas, reserving 1/4 cup of juice.  Blend all in food
 processor or blender, adding reserved juice.
