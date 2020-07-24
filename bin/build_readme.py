@@ -215,6 +215,7 @@ def write_file_footer(readme):
             - Emojis for the primary keyword are not displayed in the
               recipe list; if the recipe is in the pork section, it is
               not displayed with a pig emoji.
+
             See Also
             --------
             - [kschutter Culinary Recipes](http://github.com/kschutter/recipes)
