@@ -1,8 +1,5 @@
 tschutter Culinary Recipes
 ==========================
-{% comment %}
-Links on this page do not work, use http://tschutter.github.io/recipes/ instead.
-{% endcomment %}
 
 - [Poultry :chicken:](#poultry-chicken)
 - [Beef :cow2:](#beef-cow2)
@@ -148,9 +145,9 @@ Soup and Stew :stew:
 - [Beef Barley Soup](r/beef_barley_soup) :cow2: (Linda-9, Tom-?, Kyle-?, Skylar-?)
 - [Beef, Beer, and Barley Stew](r/beef_beer_barley_stew) :cow2: (Linda-8, Tom-8, Kyle-8, Skylar-8)
 - [Bison and Sausage Chili](r/bison_sausage_chili) :cow2: (Linda-9, Tom-9, Kyle-?, Skylar-7)
-- [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Tom-9, Linda-8, Kyle-10, Skylar-8)
+- [Carrot Ginger Soup](r/carrot_ginger_soup) :herb: :star: (Tom-9, Linda-8, Kyle-10, Skylar-8)
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
-- [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
+- [Chicken Peanut Soup](r/chicken_peanut_soup) :chicken: :star: (Linda-9, Tom-9, Kyle-9, Skylar-7)
 - [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-9, Skylar-9)
 - [Colorado Potato Green Chile](r/colorado_potato_green_chile) :cactus: :pig2:
 - [Corn and Red Pepper Chowder](r/corn_and_red_pepper_chowder) :herb:
@@ -169,7 +166,7 @@ Soup and Stew :stew:
 - [Porter Beef Stew](r/porter_beef_stew) :cow2: (Linda-7, Tom-8, Skylar-8)
 - [Potato Sausage Soup](r/potato_sausage_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-7)
 - [Texas Chili](r/texas_chili) :cow2: :star: (Linda-9, Tom-9, Kyle-7, Skylar-4)
-- [Turkey Carcass Soup](r/turkey_carcass_soup) :star: :chicken: (Linda-7, Tom-9, Kyle-?, Skylar-8)
+- [Turkey Carcass Soup](r/turkey_carcass_soup) :chicken: :star: (Linda-7, Tom-9, Kyle-?, Skylar-8)
 - [Victor's Gazpaucho Soup](r/victors_gazpaucho_soup) :herb:
 - [Wild Rice Soup](r/wild_rice_soup) :herb:
 
@@ -188,7 +185,7 @@ Side Dish
 ---------
 - [Almond Wild Rice](r/almond_wild_rice) :herb:
 - [Asian Cabbage Salad](r/asian_cabbage_salad) :herb: (Linda-10, Tom-?, Skylar-?, Kyle-?)
-- [Carrots with Ginger and Honey](r/carrots_with_ginger_and_honey) :star: :herb: (Linda-9, Tom-9, Kyle-5, Skylar-9)
+- [Carrots with Ginger and Honey](r/carrots_with_ginger_and_honey) :herb: :star: (Linda-9, Tom-9, Kyle-5, Skylar-9)
 - [Chinese Cabbage Salad](r/chinese_cabbage_salad) :herb: (Linda-10, Tom-4, Skylar-?, Kyle-?)
 - [Corn Muffins](r/corn_muffins) :herb:
 - [Corn with Chipotle and Thyme](r/corn_with_chipotle_and_thyme) :herb:
@@ -200,12 +197,12 @@ Side Dish
 - [Grandma's Shrooms](r/grandmas_shrooms) :herb:
 - [Grilled Asparagus](r/grilled_asparagus) :herb: (Linda-9, Tom-X, Kyle-7, Skylar-8)
 - [Herb Roasted Potatoes](r/herb_roasted_potatoes) :herb:
-- [Hummus](r/hummus) :star: :herb: (Tom-9, Linda-8, Kyle-9, Skylar-6)
+- [Hummus](r/hummus) :herb: :star: (Tom-9, Linda-8, Kyle-9, Skylar-6)
 - [Janet's Broccoli Salad 2008](r/janets_broccoli_salad)
 - [Janet's Sweet Potatoes](r/janets_sweet_potatoes) :herb:
-- [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :star: :herb: (Linda-9, Tom-10, Kyle-?, Skylar-8)
+- [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :herb: :star: (Linda-9, Tom-10, Kyle-?, Skylar-8)
 - [Leek Patties](r/leek_patties) :herb: (Linda-7, Tom-7, Kyle-9, Skylar-3)
-- [Mexican Rice](r/mexican_rice) :cactus: :herb: (Linda-3, Tom-8, Kyle-6, Skylar-?)
+- [Mexican Rice](r/mexican_rice) :herb: :cactus: (Linda-3, Tom-8, Kyle-6, Skylar-?)
 - [Mint Carrots](r/mint_carrots) :herb: (Linda-10, Tom-10, Kyle-7, Skylar-3)
 - [Noodle Kugel](r/noodle_kugel) :herb:
 - [Pat Sebesta's Cranberry Sauce](r/cranberry_sauce) :herb:
@@ -314,12 +311,12 @@ Treats :cake:
 Appetizers
 ----------
 - [Bacon Ricotta Crostini](r/bacon_ricotta_crostini) :pig2: (Linda-9, Tom-9, Kyle-9, Skylar-9)
-- [Fire Roasted Sweet Corn Salsa](r/fire_roasted_sweet_corn_salsa) :cactus: :herb:
-- [Jalapeno Bites](r/jalapeno_bites) :cactus: :herb: (Linda-?, Tom-9, Kyle-?, Skylar-?)
-- [Pepper Corn Salsa](r/pepper_corn_salsa) :cactus: :herb:
+- [Fire Roasted Sweet Corn Salsa](r/fire_roasted_sweet_corn_salsa) :herb: :cactus:
+- [Jalapeno Bites](r/jalapeno_bites) :herb: :cactus: (Linda-?, Tom-9, Kyle-?, Skylar-?)
+- [Pepper Corn Salsa](r/pepper_corn_salsa) :herb: :cactus:
 - [Pineapple Pickles](r/pineapple_pickles) :herb:
-- [Pineapple and Mango Salsa](r/pineapple_and_mango_salsa) :cactus: :herb:
-- [Salsa Ranchera](r/salsa_ranchera) :cactus: :herb: (Linda-?, Tom-8, Kyle-8, Skylar-?)
+- [Pineapple and Mango Salsa](r/pineapple_and_mango_salsa) :herb: :cactus:
+- [Salsa Ranchera](r/salsa_ranchera) :herb: :cactus: (Linda-?, Tom-8, Kyle-8, Skylar-?)
 - [Sweet and Spicy Pecans](r/sweet_and_spicy_pecans) :herb:
 
 Drinks :tropical_drink:
@@ -375,6 +372,7 @@ Keywords
 - Emojis for the primary keyword are not displayed in the
   recipe list; if the recipe is in the pork section, it is
   not displayed with a pig emoji.
+
 See Also
 --------
 - [kschutter Culinary Recipes](http://github.com/kschutter/recipes)
