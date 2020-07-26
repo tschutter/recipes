@@ -12,7 +12,7 @@ Citrus-Ginger Chicken
 - 4 boneless, skinless chicken breast halves (about 1 1/4 pounds)
 - 1 tablespoon butter
 - 1 medium seedless orange, peeled and cut into slices
-  additional fresh thyme leaves, if desired
+- additional fresh thyme leaves
 
 Mix orange juice, lime juice, honey, ginger root and 1 teaspoon thyme
 in a medium bowl.
@@ -27,9 +27,9 @@ centers of thickest pieces are cut.  Remove chicken from skillet.
 Heat sauce in skillet to boiling.  Add butter.  Cook, stirring
 constantly, until butter is melted and sauce is slightly thickened.
 Serve sauce over chicken and orange slices.  Sprinkle with additional
-thyme, if desired.
+thyme, if fresh.
 
 - source: Betty Crocker's Quick & Easy Cookbook, via Daily Camera
 - keywords: poultry
 - servings: 4
-- ratings: Linda-9 Tom-9
+- ratings: Molly-9, Tom-9
