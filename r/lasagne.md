@@ -29,8 +29,10 @@ salt and cook until meat is brown.
 Add tomato puree, tomato paste, water, oregano, basil, sugar, salt,
 black pepper, and red pepper.  Cover and simmer 2 hours until thick.
 
-Cook noodles.  Drain, rinse, and dry on towel.  Mix ricotta and
-cottage cheeses in a bowl. Layer meat sauce, noodles, cheeses.
+Cook noodles.  Drain, rinse, and dry on towel.  Mix ricotta cheese,
+cottage cheese, and 2/3s of the mozzarrela cheese in a bowl. Layer
+meat sauce, noodles, cheeses.  Use the remaining mozzarella cheese on
+the top.
 
 Cook at 375 degrees F for 30 minutes.  Cool for 15 minutes before
 serving.
