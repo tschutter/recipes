@@ -144,11 +144,12 @@ def list_files(args, root_dir):
         if section_name == "Other" and args.print_other:
             print(f"{filename:45}: {keywords}")
 
-        # Build list of applicable emojis.
+        # Build list of applicable emojis.  Order is determined by
+        # order of keys in EMOJIS.
         emojis = []
-        for keyword in emoji_keywords:
-            if keyword in EMOJIS:
-                emojis.append(EMOJIS[keyword])
+        for emoji in EMOJIS:
+            if emoji in emoji_keywords:
+                emojis.append(EMOJIS[emoji])
 
         # Add the recipe to the section.
         recipe = (title, filename, keywords, emojis, ratings)
