@@ -54,5 +54,5 @@ Stir in nuts into each serving.  The nuts do not reheat well.
 
 - source: Sunset Chinese Cookbook
 - keywords: poultry, chinese
-- ratings: Linda-8, Tom-8, Kyle-5, Skylar-8
+- ratings: Molly-7, Tom-8, Kyle-5, Skylar-8
 - time: 90 minutes
