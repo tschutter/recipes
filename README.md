@@ -28,7 +28,7 @@ Poultry :chicken:
 - [Cajun BBQ Chicken Strips](r/cajun_bbq_chicken_strips)
 - [Carrot Chicken Salad](r/carrot_chicken_salad) (Linda-6, Tom-7, Kyle-?, Skylar-?)
 - [Cashew Butter Chicken](r/cashew_butter_chicken) :star: (Linda-9, Tom-9, Kyle-9, Skylar-9)
-- [Cashew Chicken](r/cashew_chicken) (Linda-8, Tom-8, Kyle-5, Skylar-8)
+- [Cashew Chicken](r/cashew_chicken) (Molly-7, Tom-8, Kyle-5, Skylar-8)
 - [Cheddar Bacon Chicken Tenders](r/cheddar_bacon_chicken_tenders)
 - [Chicken Cheese Enchiladas](r/chicken_cheese_enchiladas) :cactus: (Linda-8, Tom-8, Kyle-8, Skylar-6)
 - [Chicken Marsala](r/chicken_marsala) :star: (Linda-10, Tom-9, Kyle-9, Skylar-10, Benjamin-10)
@@ -71,7 +71,7 @@ Ground Beef :cow2:
 ------------------
 - [Bacon Sloppy Joes](r/bacon_sloppy_joes)
 - [Beef With Peanuts](r/beef_with_peanuts) :star: (Linda-9, Tom-9, Kyle-8, Skylar-8)
-- [Bison Strogenoff](r/bison_strogenoff) (Linda-8, Tom-8, Kyle-7, Skylar-5)
+- [Bison Strogenoff](r/bison_strogenoff) (Molly-7, Tom-8, Kyle-7, Skylar-5)
 - [Empanadas](r/empanadas) :star: (Linda-9, Tom-9, Kyle-10, Skylar-3)
 - [Hamburger Wild Rice Casserole](r/hamburger_wild_rice_casserole) (Linda-?, Tom-6, Kyle-6, Skylar-7)
 - [Hawaiian Stir-Fry Ground Beef](r/hawaiian_stir_fry_ground_beef) (Linda-8, Tom-8, Kyle-8, Skylar-8)
@@ -379,3 +379,4 @@ Keywords
 See Also
 --------
 - [kschutter Culinary Recipes](http://github.com/kschutter/recipes)
+- [sschutter Culinary Recipes](https://github.com/sschutter/recipes/tree/master/r)
