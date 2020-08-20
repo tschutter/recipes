@@ -220,6 +220,7 @@ def write_file_footer(readme):
             See Also
             --------
             - [kschutter Culinary Recipes](http://github.com/kschutter/recipes)
+            - [sschutter Culinary Recipes](https://github.com/sschutter/recipes/tree/master/r)
             """
         )
     )
