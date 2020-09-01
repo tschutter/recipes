@@ -11,7 +11,7 @@ Pineapple Rice
 - salt
 - freshly ground black pepper
 
-Heat canola ooil over high heat in large skillet or wok.  Add
+Heat canola oil over high heat in large skillet or wok.  Add
 pineapple and scallions and  stir 1 minute.
 
 Reduce heat, gradually and nuts and rice and stir about 3 minutes.
