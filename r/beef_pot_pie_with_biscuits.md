@@ -13,7 +13,7 @@ Beef Pot Pie with Biscuits
 - 1 1/2 cups Bisquick
 - 1/3 cup cold water
 
-This recipe fits in a 10" Dutch oven.
+This recipe fits in a 12 inch Dutch oven.
 
 Cut the meat into bite-size cubes.  Salt, pepper, and season to
 taste.  Add the oil to the dutch oven, and brown the meat all over.
@@ -31,4 +31,5 @@ biscuits are brown and the vegetables are done.
 - source: Let's Cook Dutch
 - keywords: beef, dutch oven, cabin
 - time: 2 hours
-- ratings: Linda-8, Tom-8, Kyle-7, Skylar-7
+- ratings: Molly-5, Tom-8, Kyle-7, Skylar-7
+- notes: Molly says +mushrooms, more sauce, better def of seasoning
