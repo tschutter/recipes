@@ -53,7 +53,7 @@ Beef :cow2:
 -----------
 - [BBQ Bison](r/bbq_bison) (Linda-8, Tom-8.5, Kyle-8.5, Skylar-?)
 - [Bacon Blue Cheese Brisket](r/bacon_blue_cheese_brisket) (Linda-9, Tom-10, Benjamin-10)
-- [Beef Pot Pie with Biscuits](r/beef_pot_pie_with_biscuits) (Linda-8, Tom-8, Kyle-7, Skylar-7)
+- [Beef Pot Pie with Biscuits](r/beef_pot_pie_with_biscuits) (Molly-5, Tom-8, Kyle-7, Skylar-7)
 - [Beef Teriyaki](r/beef_teriyaki) (Linda-8, Tom-9, Kyle-?, Skylar-8)
 - [Best Steak Marinade in Existence](r/best_steak_marinade) :star: (Tom-9, Linda-9, Kyle-9, Skylar-9)
 - [Braised Short Ribs](r/braised_short_ribs) (Linda-6, Tom-9, Kyle-6, Skylar-9, Benjamin-9)
@@ -122,7 +122,7 @@ Lamb :sheep:
 Seafood :fish:
 --------------
 - [Ahi Tataki](r/ahi_tataki) :star: (Linda-10, Tom-10, Kyle-?, Skylar-?)
-- [Blackened Salmon](r/blackened_salmon) (Linda-6, Tom-8, Kyle-7, Skylar-7)
+- [Blackened Salmon](r/blackened_salmon) (Molly-10, Tom-8, Kyle-7, Skylar-7, Alexander-9)
 - [Brown Sugar and Bourbon Salmon](r/brown_sugar_bourbon_salmon) (Linda-10, Tom-10, Kyle-8, Skylar-10)
 - [Cashew Crusted Salmon](r/cashew_crusted_salmon) (Linda-8, Tom-8, Kyle-8, Skylar-9)
 - [Creamy Shrimp and Poblanos](r/creamy_shrimp_and_poblanos) (Linda-9, Tom-9, Kyle-7, Skylar-?)
