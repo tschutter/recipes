@@ -30,4 +30,4 @@ Serve hot or cooled with cucumber salad.
 
 - source: Cheap Thrills Cuisine
 - keywords: seafood
-- ratings: Linda-6, Tom-8, Kyle-7, Skylar-7
+- ratings: Molly-10, Tom-8, Kyle-7, Skylar-7, Alexander-9
