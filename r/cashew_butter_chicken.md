@@ -27,5 +27,5 @@ When the pasta is done, drain and add the chicken and cashew butter.
 
 - source: Cecile Schutter
 - keywords: poultry, pasta, favorite
-- ratings: Linda-9, Tom-9, Kyle-9, Skylar-9
+- ratings: Molly-7, Tom-9, Kyle-9, Skylar-9, Alexander-7
 - time: 45 minutes
