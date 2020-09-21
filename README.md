@@ -27,7 +27,7 @@ Poultry :chicken:
 - [Bourbon Marinade](r/bourbon_marinade) :pig2: (Linda-9, Tom-9, Kyle-8, Skylar-7)
 - [Cajun BBQ Chicken Strips](r/cajun_bbq_chicken_strips)
 - [Carrot Chicken Salad](r/carrot_chicken_salad) (Linda-6, Tom-7, Kyle-?, Skylar-?)
-- [Cashew Butter Chicken](r/cashew_butter_chicken) :star: (Linda-9, Tom-9, Kyle-9, Skylar-9)
+- [Cashew Butter Chicken](r/cashew_butter_chicken) :star: (Molly-7, Tom-9, Kyle-9, Skylar-9, Alexander-7)
 - [Cashew Chicken](r/cashew_chicken) (Molly-7, Tom-8, Kyle-5, Skylar-8)
 - [Cheddar Bacon Chicken Tenders](r/cheddar_bacon_chicken_tenders)
 - [Chicken Cheese Enchiladas](r/chicken_cheese_enchiladas) :cactus: (Linda-8, Tom-8, Kyle-8, Skylar-6)
@@ -148,7 +148,7 @@ Soup and Stew :stew:
 - [Beef Barley Soup](r/beef_barley_soup) :cow2: (Linda-9, Tom-?, Kyle-?, Skylar-?)
 - [Beef, Beer, and Barley Stew](r/beef_beer_barley_stew) :cow2: (Linda-8, Tom-8, Kyle-8, Skylar-8)
 - [Bison and Sausage Chili](r/bison_sausage_chili) :cow2: (Linda-9, Tom-9, Kyle-?, Skylar-7)
-- [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Tom-9, Linda-8, Kyle-10, Skylar-8)
+- [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Molly-7, Linda-8, Kyle-10, Skylar-8, Alexander-7)
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
 - [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
 - [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-9, Skylar-9)
