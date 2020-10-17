@@ -150,6 +150,7 @@ Soup and Stew :stew:
 - [Bison and Sausage Chili](r/bison_sausage_chili) :cow2: (Linda-9, Tom-9, Kyle-?, Skylar-7)
 - [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Molly-7, Linda-8, Kyle-10, Skylar-8, Alexander-7)
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
+- [Chicken And Seafood Gumbo](r/chicken_and_seafood_gumbo) :chicken: :pig2: :fish: (Molly-?, Tom-9, Alexander-?)
 - [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
 - [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Linda-8, Tom-9, Kyle-9, Skylar-9)
 - [Colorado Potato Green Chile](r/colorado_potato_green_chile) :pig2: :cactus:
