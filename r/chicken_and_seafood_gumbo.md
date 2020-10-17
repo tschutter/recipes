@@ -56,10 +56,10 @@ and tomatoes.  Simmer for 2 hours.
 
 5 minutes before serving, add shrimp and crab meat.
 
-Remove from heat.  Add file powder and stir.
+Remove from heat.  Add file powder and stir.  Serve with rice.
 
 - source: various
 - keywords: stew, chicken, pork, seafood
-- ratings: Molly-?, Tom-9, Alexander-?
+- ratings: Molly-10, Tom-9, Alexander-8
 - time: ? minutes
 - references: [11 Gumbo Cooking Mistakes You May Be Making](https://www.allrecipes.com/article/gumbo-tips/)
