@@ -52,7 +52,7 @@ occasionally, for 5 minutes.
 Add cajun spice mix, thyme, sage, oregano, basil, hot sauce, broth,
 and tomatoes.  Simmer for 2 hours.
 
-15 minutes before serving, add orka, parsley, and green onions.
+15 minutes before serving, add okra, parsley, and green onions.
 
 5 minutes before serving, add shrimp and crab meat.
 
