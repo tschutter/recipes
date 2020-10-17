@@ -62,3 +62,4 @@ Remove from heat.  Add file powder and stir.
 - keywords: stew, chicken, pork, seafood
 - ratings: Molly-?, Tom-9, Alexander-?
 - time: ? minutes
+- references: [11 Gumbo Cooking Mistakes You May Be Making](https://www.allrecipes.com/article/gumbo-tips/)
