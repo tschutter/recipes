@@ -16,7 +16,7 @@ Chicken And Seafood Gumbo
 - 6 celery stalks
 - 2 tablespoons olive oil
 <!-- -->
-- 2 tablespoons cajun spice mix
+- 2 tablespoons cajun/creole spice mix
 - 1 teaspoon thyme
 - 1/2 teaspoon sage
 - 1/2 teaspoon oregano
