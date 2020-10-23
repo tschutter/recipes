@@ -35,5 +35,5 @@ tender and heated through.
 
 - source: Post Brewing
 - keywords: vegetarian
-- ratings: Linda-8, Tom-9, Kyle-?, Skylar-?
+- ratings: Molly-9, Tom-9
 - time: 8 hours + 2 hours
