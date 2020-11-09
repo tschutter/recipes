@@ -148,6 +148,7 @@ Soup and Stew :stew:
 - [Beef Barley Soup](r/beef_barley_soup) :cow2: (Linda-9, Tom-?, Kyle-?, Skylar-?)
 - [Beef, Beer, and Barley Stew](r/beef_beer_barley_stew) :cow2: (Linda-8, Tom-8, Kyle-8, Skylar-8)
 - [Bison and Sausage Chili](r/bison_sausage_chili) :cow2: (Linda-9, Tom-9, Kyle-?, Skylar-7)
+- [Black Bean And Sweet Potato Stew](r/black_bean_and_sweet_potato_stew) :herb: (Molly-10, Tom-9)
 - [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Molly-7, Linda-8, Kyle-10, Skylar-8, Alexander-7)
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
 - [Chicken And Seafood Gumbo](r/chicken_and_seafood_gumbo) :chicken: :pig2: :fish: (Molly-10, Tom-9, Alexander-8)
