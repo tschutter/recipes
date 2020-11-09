@@ -6,7 +6,7 @@ Hot Bourbon Cider
 - 2-1/4 cups bourbon whiskey
 - 1/4 cup orange liqueur
 - lemon wedges
-- garnish: small sprigs of thyme, apple or orange slices, cinnamon sticks
+- small sprigs of thyme, apple or orange slices, cinnamon sticks (garnish)
 
 In a large pot or tea kettle, eat cider and thyme.  Remove thyme.
 
