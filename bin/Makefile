@@ -1,10 +1,11 @@
 KEYWORDS:=../KEYWORDS.txt
+METAKEYS:=../METAKEYS.txt
 README:=../README.md
 
-all: $(KEYWORDS) $(README)
+all: $(KEYWORDS) $(METAKEYS) $(README)
 
 clean:
-	rm $(KEYWORDS) $(README)
+	rm $(KEYWORDS) $(METAKEYS) $(README)
 
 $(KEYWORDS): ../r/*.md
 	grep --no-filename keywords: ../r/*.md\
@@ -15,6 +16,12 @@ $(KEYWORDS): ../r/*.md
 	| sort\
 	| uniq -c\
 	> $(KEYWORDS)
+
+$(METAKEYS): ../r/*.md
+	grep --no-filename --only-matching "^- [^:]*:" ../r/*.md\
+	| sort\
+	| uniq -c\
+	> $(METAKEYS)
 
 $(README): ../r/*.md
 	./build_readme.py
