@@ -11,7 +11,7 @@ Mexican Rice
 <!-- -->
 - 2 cups chicken broth
 - 1 tomato, finely chopped
-- 1/2 teaspoon cumin
+- 1/2 teaspoon ground cumin
 - 1/2 teaspoon salt
 
 Heat oil in a saucepan.  Saute onion, carrot, green pepper and garlic

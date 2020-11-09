@@ -2,7 +2,7 @@ Carne de Puerco (Shredded Pork)
 -------------------------------
 
 - 1/3 pound pork tenderloin
-- 1/4 teaspoon cumin
+- 1/4 teaspoon ground cumin
 - 1/4 teaspoon nutmeg
 - 1/4 teaspoon oregano
 - 1/4 teaspoon chili powder

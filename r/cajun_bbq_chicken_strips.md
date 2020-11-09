@@ -9,7 +9,7 @@ Cajun spice rub:
 - 1 teaspoon oregano
 - 1 teaspoon thyme
 - 1 teaspoon salt
-- 1 teaspoon cumin
+- 1 teaspoon ground cumin
 - 1/2 teaspoon chrushed peppercorns
 - 1/2 teaspoon nutmeg
 - 1/4 teaspoon cayenne pepper

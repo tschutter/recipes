@@ -9,7 +9,7 @@ Carrot Chicken Salad
 - 15 ounce can chickpeas
 - 1 tablespoon olive oil
 - 1/2 teaspoon sea salt
-- 1/4 teaspoon cumin
+- 1/4 teaspoon ground cumin
 <!-- -->
 - 1/4 cup lemon juice
 - 3 tablespoons tahini

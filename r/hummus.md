@@ -5,7 +5,7 @@ Hummus
 - 1/4 cup tahini
 - 2 tablespoons lemon juice
 - 1 clove garlic, minced
-- 1 teaspoon cumin
+- 1 teaspoon ground cumin
 - 1 teaspoon salt
 - 2 teaspoons chili paste
 

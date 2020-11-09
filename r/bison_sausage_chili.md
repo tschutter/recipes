@@ -12,7 +12,7 @@ Bison and Sausage Chili
 - 1 4 ounce can diced green chili
 - 1 tablespoon sugar
 - 4 tablespoons red chili powder
-- 2 tablespoons cumin
+- 2 tablespoons ground cumin
 - 1 tablespoon white pepper
 - 2 teaspoons salt
 <!-- -->

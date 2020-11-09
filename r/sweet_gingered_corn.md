@@ -2,7 +2,7 @@ Sweet Gingered Corn
 -------------------
 
 - 2 tablespoons oil
-- 1/2 teaspoon cumin
+- 1/2 teaspoon ground cumin
 - 1-1/2 teaspoons grated fresh ginger
 - 2 medium tomatoes, coarsely chopped
 - 1/2 teaspoon salt
