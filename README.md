@@ -181,7 +181,7 @@ Vegetable :herb:
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
 - [Pico de Gallo](r/pico_de_gallo) :cactus:
 - [Shrimp and Pesto Calzones](r/shrimp_and_pesto_calzones) (Linda-9, Tom-9, Kyle-9, Skylar-?)
-- [Stuffed Red Peppers](r/stuffed_red_peppers) (Linda-8, Tom-9, Kyle-?, Skylar-?)
+- [Stuffed Red Peppers](r/stuffed_red_peppers) (Molly-9, Tom-9)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
 - [White Rice with Chili Strips, Corn, and Cheese](r/white_rice_with_chili_corn_cheese) :cactus:
 
@@ -238,6 +238,7 @@ Bread :bread:
 - [Ginger Thin Crust Dough](r/ginger_thin_crust_dough)
 - [Gingerbread Scones](r/gingerbread_scones)
 - [Gluten Free Soft Sandwich Bread](r/gluten_free_soft_sandwich_bread)
+- [High Altitude Sourdough Bread](r/high_altitude_sourdough_bread)
 - [Italian Herb Thin Crust Dough](r/italian_herb_thin_crust_dough)
 - [Janet's Apricot Bread](r/janets_apricot_bread)
 - [Monkey Bread](r/monkey_bread)
