@@ -39,4 +39,7 @@ Flour | 1 cup | 125 g
 Other
 -----
 
-- Popcorn: 1/2 cup popcorn, 1 tablespoon oil, 1-1/2 tablespoons sugar
+- Popcorn
+  - 1/2 cup popcorn
+  - 1 tablespoon oil
+  - 1-1/2 tablespoons sugar
