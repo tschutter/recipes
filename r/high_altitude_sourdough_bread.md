@@ -5,7 +5,7 @@ High Altitude Sourdough Bread
 - 100 grams warm water
 - 100 grams bread flour
 <!-- -->
-- 700 grams warm water (750?)
+- 700 grams warm water
 - 900 grams bread flour
 - 100 grams whole wheat flour
 <!-- -->
@@ -60,7 +60,7 @@ bubbles on the surface, and a slightly shiny appearance.
 
 For the final two hours, just let the dough rest.
 
-*Pre-shape (10 minutes)*
+*Divide and Pre-shape (10 minutes)*
 
 Take the dough out of the container onto your unfloured work surface.
 Sprinkle some flour on top of your dough and divide in two equal
@@ -144,7 +144,9 @@ zippered plastic bag.
 - time: all day
 - see-also: https://www.kingarthurbaking.com/learn/guides/sourdough
 - see-also: https://butterandair.com/high-altitude-sourdough-bread/
+- see-also: https://www.theperfectloaf.com/beginners-sourdough-bread/
 - see-also: https://bit.ly/2Inek5n (leavenly.com)
 - see-also: https://bit.ly/3n1jIKC (theperfectloaf.com)
 - see-also: https://bit.ly/3nccgfF (theperfectloaf.com)
 - see-also: https://bit.ly/3paNmyY (kingarthurbaking.com)
+- notes: 750 grams water resulted in floppy dough
