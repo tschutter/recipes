@@ -322,6 +322,7 @@ Appetizers
 - [Pepper Corn Salsa](r/pepper_corn_salsa) :cactus: :herb:
 - [Pineapple Pickles](r/pineapple_pickles) :herb:
 - [Pineapple and Mango Salsa](r/pineapple_and_mango_salsa) :cactus: :herb:
+- [Salsa Cruda](r/salsa_cruda) :cactus: :herb:
 - [Salsa Ranchera](r/salsa_ranchera) :cactus: :herb: (Linda-?, Tom-8, Kyle-8, Skylar-?)
 - [Sweet and Spicy Pecans](r/sweet_and_spicy_pecans) :herb:
 
