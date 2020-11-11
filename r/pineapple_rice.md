@@ -2,7 +2,7 @@ Pineapple Rice
 --------------
 
 - 3 tablespoons canola oil
-- 2 cups 1/2" diced pineapple (cut pieced in half)
+- 2 cups 1/2 inch diced pineapple (cut pieces in half)
 - 1/2 cup chopped scallions
 - 1 cup cashew pieces
 - 4 cups cooked rice
