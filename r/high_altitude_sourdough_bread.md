@@ -5,8 +5,8 @@ High Altitude Sourdough Bread
 - 100 grams warm water
 - 100 grams bread flour
 <!-- -->
-- 700 grams warm water
-- 900 grams bread flour
+- 650 grams warm water
+- 800 grams bread flour
 - 100 grams whole wheat flour
 <!-- -->
 - 20 grams salt
@@ -19,11 +19,11 @@ of bread flour.  Cover and leave on the counter overnight.
 
 *Make Dough (10 minutes)*
 
-In a large bowl, combine the preferment with 700 grams of warm water.
+In a large pot, combine the preferment with 600 grams of warm water.
 Using your hand, incorporate the preferment a bit by squeezing it
 through your fingers.
 
-Add 900 grams of bread flour and 100 grams of whole wheat flour.  Mix
+Add 800 grams of bread flour and 100 grams of whole wheat flour.  Mix
 just until all the flour has been hydrated. Cover with plastic.
 
 *Autolyse (30 minutes)*
@@ -44,12 +44,12 @@ microwave with a small bowl of hot water.
 
 *Bulk Fermentation (~4 hours)*
 
-During the first two hours stretch-and-fold the dough every 20 minutes
-for a total of 6 times.  For each stretch-and-fold, first wet your
-hand to prevent excessive sticking.  Then reach under the dough, grab
-the bottom and pull up the dough up as far as possible, and then turn
-it back on top of itself.  Rotate the bowl 90 degrees and repeat 3
-more times.  Recover the bowl.
+During the first two hours stretch-and-fold the dough every 20
+minutes.  For each stretch-and-fold, first wet your hand to prevent
+excessive sticking.  Then reach under the dough, grab the bottom and
+pull up the dough up as far as possible, and then turn it back on top
+of itself.  Rotate the bowl 90 degrees and repeat 3 more times.
+Recover the bowl.
 
 If your dough does not seem very elastic, you can repeat the
 stretch-and-fold process two more times, with a thirty-minute rest in
@@ -58,7 +58,8 @@ want to bounce back, let it rest.  You will know the dough is properly
 fermented when it has grown by about 30 percent, has a few nice big
 bubbles on the surface, and a slightly shiny appearance.
 
-For the final two hours, just let the dough rest.
+For the final two hours, just let the dough rest.  Bulk fermentation
+is complete when the dough has doubled in size.
 
 *Divide and Pre-shape (10 minutes)*
 
