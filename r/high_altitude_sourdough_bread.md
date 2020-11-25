@@ -15,7 +15,8 @@ High Altitude Sourdough Bread
 *Activate Preferment (overnight)*
 
 Mix the sourdough starter with 100 grams of warm water and 100 grams
-of bread flour.  Cover and leave on the counter overnight.
+of bread flour to create the the preferment (levain).  Cover and leave
+on the counter overnight.
 
 *Make Dough (10 minutes)*
 
@@ -28,10 +29,10 @@ just until all the flour has been hydrated. Cover with plastic.
 
 *Autolyse (30 minutes)*
 
-Let the dough rest 30 minutes.  This rest is called the autolyse,
-which allows the flours to absorb the water, activating the enzymes
-which begins the gluten development. This step is critical and cannot
-be rushed.
+Let the dough rest 30 minutes.  This rest is called the autolyse
+("auto-lease"), which allows the flours to absorb the water,
+activating the enzymes which begins the gluten development. This step
+is critical and cannot be rushed.
 
 *Incorporate Salt (5 minutes)*
 
@@ -150,4 +151,5 @@ zippered plastic bag.
 - see-also: https://bit.ly/3n1jIKC (theperfectloaf.com)
 - see-also: https://bit.ly/3nccgfF (theperfectloaf.com)
 - see-also: https://bit.ly/3paNmyY (kingarthurbaking.com)
+- see-also: [Using the autolyse method](www.kingarthurbaking.com/blog/2017/09/29/using-the-autolyse-method)
 - notes: 750 grams water resulted in floppy dough
