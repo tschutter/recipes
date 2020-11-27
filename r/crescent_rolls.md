@@ -24,10 +24,11 @@ Add yeast mixture, egg, and 2/3 of flour.  Beat until smooth.  Add
 remaining flour.  Cover with wax paper and refrigerate 2 hours to 3
 days.
 
-Divide dough into 3 parts (6 if doubling batch).  Roll each part into
-a 12" circle.  Spread melted butter on top.  Cut into 10 pie pieces.
-Roll up loosely from wide end to tip.  Place on greased cookie sheet.
-Cover and let rise in warm place until double in size.
+Divide dough into 3 parts (6 if doubling batch).  Flour a countertop.
+Roll each part into a 15 inch circle.  Spread melted butter on top.
+Cut into 10 pie pieces.  Roll up loosely from wide end to tip.  Place
+on greased cookie sheet.  Cover and let rise in warm place until
+double in size.
 
 Bake at 400 degrees F for 10 to 12 minutes.
 
