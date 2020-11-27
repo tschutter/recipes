@@ -14,7 +14,7 @@ Turkey Beer Brine
 - 2 sprigs fresh rosemary
 - 1/2 cinnamon stick
 <!-- -->
-- 8 cups brown ale (1 64 ounce growler)
+- 8 cups brown ale or stout (1 64 ounce growler)
 
 This will yield 1 gallon of brine; scale the recipe up or down to
 accommodate the size of your turkey.
