@@ -142,16 +142,21 @@ cooled, about an hour.  The loaf can be left out at room temperature
 for one day; after that, wrap it in plastic and place inside a
 zippered plastic bag.
 
+*Notes*
+
+This recipe contains 1000 g of flour and 800 g of water (not including
+the starter) which results in 80% hydration.
+
+- [Sourdough baking guide (kingarthurbaking.com)](https://bit.ly/2Lbigrq)
+- [High Altitude Sourdough (butterandair.com)](https://bit.ly/2VVXfDc)
+- [Beginner's Sourdough Bread (theperfectloaf.com)](https://bit.ly/2IvIcx6)
+- [How to Make High-Altitude Sourdough Bread (leavenly.com)](https://bit.ly/2Inek5n)
+- [Tartine Sourdough Recipe] (theperfectloaf.com)](https://bit.ly/3n1jIKC)
+- [Country Sourdough (theperfectloaf.com](https://bit.ly/3nccgfF)
+- [Bulk fermentation, explained (kingarthurbaking.com)](https://bit.ly/3paNmyY)
+- [Using the autolyse method (kingarthurbaking.com)](https://bit.ly/3lYqZtU)
+
 - source: leavenly.com
 - keywords: bread
 - ratings: Molly-?, Tom-?
 - time: all day
-- see-also: https://www.kingarthurbaking.com/learn/guides/sourdough
-- see-also: https://butterandair.com/high-altitude-sourdough-bread/
-- see-also: https://www.theperfectloaf.com/beginners-sourdough-bread/
-- see-also: https://bit.ly/2Inek5n (leavenly.com)
-- see-also: https://bit.ly/3n1jIKC (theperfectloaf.com)
-- see-also: https://bit.ly/3nccgfF (theperfectloaf.com)
-- see-also: https://bit.ly/3paNmyY (kingarthurbaking.com)
-- see-also: [Using the autolyse method](www.kingarthurbaking.com/blog/2017/09/29/using-the-autolyse-method)
-- notes: 750 grams water resulted in floppy dough
