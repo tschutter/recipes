@@ -16,7 +16,9 @@ High Altitude Sourdough Bread
 
 Mix the sourdough starter with 100 grams of warm water and 100 grams
 of bread flour to create the the preferment (levain).  Cover and leave
-on the counter overnight.
+on the counter overnight.  If the environment is cold and/or dry, then
+keep the preferment in the microwave with a small bowl of boiled
+water.
 
 *Make Dough (10 minutes)*
 
@@ -41,7 +43,7 @@ water.  Poke your fingers into the dough to press some salt deep
 inside, then fold over itself about a dozen times or so to incorporate
 the salt. Cover the bowl again; the bulk fermentation has begun.  If
 the environment is cold and/or dry, then keep the bowl in the
-microwave with a small bowl of hot water.
+microwave with a small bowl of boiled water.
 
 *Bulk Fermentation (~4 hours)*
 
@@ -50,7 +52,8 @@ minutes.  For each stretch-and-fold, first wet your hand to prevent
 excessive sticking.  Then reach under the dough, grab the bottom and
 pull up the dough up as far as possible, and then turn it back on top
 of itself.  Rotate the bowl 90 degrees and repeat 3 more times.
-Recover the bowl.
+Recover the bowl.  If the environment is cold and/or dry, re-boil the
+water before putting the dough back in the microwave.
 
 If your dough does not seem very elastic, you can repeat the
 stretch-and-fold process two more times, with a thirty-minute rest in
@@ -122,16 +125,16 @@ expand while baking so it does not split.
 
 *Bake (1 hour)*
 
-Transfer the dough, still on its parchment, into the dutch oven or
-onto the pizza stone.  Spritz or sprinkle the dough with water to help
-create steam for a crisp, crackly crust.
+Spritz or sprinkle the dough with water to help create steam for a
+crisp, crackly crust.
 
-Replace the dutch oven lid, return to the oven, and bake for 25
-minutes.
+If using a dutch oven, transfer the dough still on its parchment into
+the dutch oven.  Replace the dutch oven lid, return to the oven, and
+bake for 25 minutes.  Then remove the lid, and bake 20-25 minutes
+more until loaf is deep brown.
 
-If using a dutch oven, remove the lid, and bake 25-30 minutes more,
-until loaf is deep brown.  If baking on a stone or sheet, continue to
-bake uncovered until the crust is deep and dark.
+If baking on a sheet or pizza stone, bake uncovered for 40 minutes
+until the crust is deep and dark.
 
 *Cool (1 hour)*
 
