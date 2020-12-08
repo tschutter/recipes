@@ -58,12 +58,11 @@ water before putting the dough back in the microwave.
 If your dough does not seem very elastic, you can repeat the
 stretch-and-fold process two more times, with a thirty-minute rest in
 between each. If the dough becomes difficult to stretch and does not
-want to bounce back, let it rest.  You will know the dough is properly
-fermented when it has grown by about 30 percent, has a few nice big
-bubbles on the surface, and a slightly shiny appearance.
+want to bounce back, let it rest.
 
 For the final two hours, just let the dough rest.  Bulk fermentation
-is complete when the dough has doubled in size.
+is complete when the dough has doubled in size, has a few nice big
+bubbles on the surface, and a slightly shiny appearance.
 
 *Divide and Pre-shape (10 minutes)*
 
