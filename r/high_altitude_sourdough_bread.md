@@ -151,7 +151,7 @@ the starter) which results in 80% hydration.
 - [High Altitude Sourdough (butterandair.com)](https://bit.ly/2VVXfDc)
 - [Beginner's Sourdough Bread (theperfectloaf.com)](https://bit.ly/2IvIcx6)
 - [How to Make High-Altitude Sourdough Bread (leavenly.com)](https://bit.ly/2Inek5n)
-- [Tartine Sourdough Recipe] (theperfectloaf.com)](https://bit.ly/3n1jIKC)
+- [Tartine Sourdough Recipe (theperfectloaf.com)](https://bit.ly/3n1jIKC)
 - [Country Sourdough (theperfectloaf.com](https://bit.ly/3nccgfF)
 - [Bulk fermentation, explained (kingarthurbaking.com)](https://bit.ly/3paNmyY)
 - [Using the autolyse method (kingarthurbaking.com)](https://bit.ly/3lYqZtU)
