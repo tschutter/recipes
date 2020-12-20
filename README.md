@@ -259,6 +259,7 @@ Breakfast
 - [Belgian Waffles](r/belgian_waffles)
 - [High-Protein Oatmeal](r/high_protein_oatmeal) :star: (Linda-9, Tom-9, Kyle-8, Skylar-9)
 - [Stuffed Cinnamon Toast](r/stuffed_cinnamon_toast)
+- [Yogurt Sheet Pan Pancakes With Berries](r/yogurt_sheet_pan_pancakes_with_berries) :herb: (Molly-?, Tom-9)
 
 Treats :cake:
 -------------
