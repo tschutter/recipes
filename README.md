@@ -134,6 +134,7 @@ Seafood :fish:
 - [Grilled Tilipia With Cherry Salsa](r/grilled_tilipia_with_cherry_salsa) (Linda-8, Tom-9, Kyle-6, Skylar-9)
 - [Honey Ginger Grilled Salmon](r/honey_ginger_grilled_salmon) (Linda-8, Tom-8, Kyle-8, Skylar-9)
 - [Potlatch Salmon](r/potlatch_salmon) (Linda-?, Tom-8, Kyle-4)
+- [Roasted Salmon With Jalapeno, Honey, and Lime](r/roasted_salmon_with_jalapeno_honey_lime)
 - [Salmon With Baked New Potatoes](r/salmon_with_baked_new_potatoes) (Linda-8, Tom-9, Kyle-?, Skylar-?)
 - [Saucy Salmon](r/saucy_salmon) (Linda-8, Tom-9, Kyle-7, Skylar-10)
 - [Shrimp Scampi](r/shrimp_scampi) (Linda-8, Tom-9, Kyle-?, Skylar-9)
