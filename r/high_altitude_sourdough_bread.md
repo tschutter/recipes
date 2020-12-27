@@ -22,7 +22,7 @@ water.
 
 *Make Dough (10 minutes)*
 
-In a large pot, combine the preferment with 600 grams of warm water.
+In a large pot, combine the preferment with 650 grams of warm water.
 Using your hand, incorporate the preferment a bit by squeezing it
 through your fingers.
 
