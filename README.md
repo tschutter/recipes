@@ -167,6 +167,7 @@ Soup and Stew :stew:
 - [Italian Sausage and Lentil Soup](r/italian_sausage_and_lentil_soup) :pig2: (Linda-7, Tom-8, Kyle-7, Skylar-9)
 - [Kale, Butternut Squash, White Bean Soup](r/kale_butternut_squash_white_bean_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-?)
 - [Lemon Chicken Tortellini Soup](r/lemon_chicken_tortellini_soup) :chicken: (Linda-9, Tom-9, Kyle-?, Skylar-?)
+- [Lentil Soup with Smoked Sausage and Apple](r/lentil_soup_with_smoked_sausage_and_apple) :pig2: (Molly-9, Tom-9)
 - [New Mexican Green Chili](r/green_chili_new_mexican) :pig2: :cactus: (Linda-6, Tom-9, Kyle-8, Skylar-6)
 - [Pizza Soup](r/pizza_soup) :pig2: (Linda-8, Tom-9, Kyle-8, Skylar-7)
 - [Porter Beef Stew](r/porter_beef_stew) :cow2: (Linda-7, Tom-8, Skylar-8)
@@ -182,6 +183,7 @@ Vegetable :herb:
 - [Mexican Corn Casserole](r/mexican_corn_casserole)
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
 - [Pico de Gallo](r/pico_de_gallo) :cactus:
+- [Quinoa Salad](r/quinoa_salad) (Molly-10, Tom-?)
 - [Shrimp and Pesto Calzones](r/shrimp_and_pesto_calzones) (Linda-9, Tom-9, Kyle-9, Skylar-?)
 - [Stuffed Red Peppers](r/stuffed_red_peppers) (Molly-9, Tom-9)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
