@@ -174,6 +174,7 @@ Soup and Stew :stew:
 - [Potato Sausage Soup](r/potato_sausage_soup) :pig2: (Linda-9, Tom-8, Kyle-8, Skylar-7)
 - [Texas Chili](r/texas_chili) :cow2: :star: (Linda-9, Tom-9, Kyle-7, Skylar-4)
 - [Turkey Carcass Soup](r/turkey_carcass_soup) :star: :chicken: (Linda-7, Tom-9, Kyle-?, Skylar-8)
+- [Turkey and Black Bean Chili](r/turkey_and_black_bean_chili) :chicken: (Molly-10, Tom-?)
 - [Victor's Gazpaucho Soup](r/victors_gazpaucho_soup) :herb:
 - [Wild Rice Soup](r/wild_rice_soup) :herb:
 
@@ -353,6 +354,7 @@ Other
 - [Basic Pizza Sauce](r/basic_pizza_sauce)
 - [Bubble Solution](r/bubble_solution)
 - [Cajun/Creole Spice Mix](r/cajun_creole_spice_mix) (Molly-10, Tom-10)
+- [Chicken Tikka Masala](r/chicken_tikka_masala)
 - [Kitchen Notes](r/kitchen_notes)
 - [Meat and Pear Open Ravioli](r/meat_and_pear_open_ravioli)
 - [Playdough](r/playdough)
