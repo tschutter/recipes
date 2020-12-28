@@ -51,7 +51,7 @@ During the first two hours stretch-and-fold the dough every 20
 minutes.  For each stretch-and-fold, first wet your hand to prevent
 excessive sticking.  Then reach under the dough, grab the bottom and
 pull up the dough up as far as possible, and then turn it back on top
-of itself.  Rotate the bowl 90 degrees and repeat 3 more times.
+of itself.  Rotate the bowl 90 degrees and repeat 7 more times.
 Recover the bowl.  If the environment is cold and/or dry, re-boil the
 water before putting the dough back in the microwave.
 
