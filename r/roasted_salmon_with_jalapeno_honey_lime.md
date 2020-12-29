@@ -14,7 +14,9 @@ Roasted Salmon With Jalapeno, Honey, and Lime
 - chopped fresh cilantro
 - steamed rice
 
-Heat the oven to 400 degrees F.
+*note: try doubling sauce*
+
+Heat the oven to 425 degrees F.
 
 Combine the honey, jalapeños, vinegar and soy sauce in a small
 saucepan.  Bring to a boil, then turn the heat to low and simmer for
@@ -39,5 +41,5 @@ the rice.
 
 - source: cooking.nytimes.com
 - keywords: seafood
-- ratings: Molly-?, Tom-?
-- time: ? minutes
+- ratings: Molly-10, Tom-9, Alexander-7
+- time: 30 minutes
