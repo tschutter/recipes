@@ -12,18 +12,18 @@ High Altitude Sourdough Bread
 - 20 grams salt
 - 50 grams warm water
 
-*Activate Preferment (overnight)*
+*Activate Pre-ferment (overnight)*
 
 Mix the sourdough starter with 100 grams of warm water and 100 grams
-of bread flour to create the the preferment (levain).  Cover and leave
-on the counter overnight.  If the environment is cold and/or dry, then
-keep the preferment in the microwave with a small bowl of boiled
-water.
+of bread flour to create the the pre-ferment (levain).  Cover and
+leave on the counter overnight.  If the environment is cold and/or
+dry, then keep the pre-ferment in the microwave with a small bowl of
+boiled water.
 
 *Make Dough (10 minutes)*
 
-In a large pot, combine the preferment with 650 grams of warm water.
-Using your hand, incorporate the preferment a bit by squeezing it
+In a large pot, combine the pre-ferment with 650 grams of warm water.
+Using your hand, incorporate the pre-ferment a bit by squeezing it
 through your fingers.
 
 Add 800 grams of bread flour and 100 grams of whole wheat flour.  Mix
@@ -155,6 +155,7 @@ the starter) which results in 80% hydration.
 - [Country Sourdough (theperfectloaf.com)](https://bit.ly/3nccgfF)
 - [Bulk fermentation, explained (kingarthurbaking.com)](https://bit.ly/3paNmyY)
 - [Using the autolyse method (kingarthurbaking.com)](https://bit.ly/3lYqZtU)
+- [Sourdough Autolyse: Is it Needed? If so, How Long?](https://bit.ly/2WXOIjA)
 
 - source: leavenly.com
 - keywords: bread
