@@ -13,5 +13,5 @@ for 35 minutes.
 
 - source: Marilyn Targgart Peterson
 - keywords: seafood
-- ratings: Linda-8, Tom-9, Kyle-7, Skylar-10
+- ratings: Molly-1, Tom-9, Kyle-7, Skylar-10, Alexander-8
 - time: 55 minutes
