@@ -18,6 +18,8 @@ Cheesey Italian Spaghetti Squash
 - 1 cup grated mozzarella
 - 1 cup fine corn flakes
 - grated parmesan cheese
+<!-- -->
+- pork sausage such as Cajun, sliced (optional)
 
 Slice the squash in half lengthwise and scoop out the seeds.  Place
 the squash facedown on a buttered tray.  Bake at 375 degrees F for
@@ -35,7 +37,9 @@ cheese.
 
 Bake uncovered at 375 degrees F for 40 minutes.
 
+Optionally top with sliced pork sausage.
+
 - source: Alane Wolner
-- keywords: vegetarian
-- ratings: Linda-?, Tom-7, Kyle-?, Skylar-?
+- keywords: vegetarian, pork
+- ratings: Molly-8, Tom-7, Kyle-8, Skylar-8
 - time: ?

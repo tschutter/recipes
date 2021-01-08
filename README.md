@@ -135,9 +135,9 @@ Seafood :fish:
 - [Grilled Tilipia With Cherry Salsa](r/grilled_tilipia_with_cherry_salsa) (Linda-8, Tom-9, Kyle-6, Skylar-9)
 - [Honey Ginger Grilled Salmon](r/honey_ginger_grilled_salmon) (Linda-8, Tom-8, Kyle-8, Skylar-9)
 - [Potlatch Salmon](r/potlatch_salmon) (Linda-?, Tom-8, Kyle-4)
-- [Roasted Salmon With Jalapeno, Honey, and Lime](r/roasted_salmon_with_jalapeno_honey_lime)
+- [Roasted Salmon With Jalapeno, Honey, and Lime](r/roasted_salmon_with_jalapeno_honey_lime) (Molly-10, Tom-9, Alexander-7)
 - [Salmon With Baked New Potatoes](r/salmon_with_baked_new_potatoes) (Linda-8, Tom-9, Kyle-?, Skylar-?)
-- [Saucy Salmon](r/saucy_salmon) (Linda-8, Tom-9, Kyle-7, Skylar-10)
+- [Saucy Salmon](r/saucy_salmon) (Molly-1, Tom-9, Kyle-7, Skylar-10, Alexander-8)
 - [Shrimp Scampi](r/shrimp_scampi) (Linda-8, Tom-9, Kyle-?, Skylar-9)
 - [Shrimp Skimpy Scampi](r/shrimp_skimpy_scampi) (Linda-9, Tom-8, Kyle-?, Skylar-9)
 - [Shrimp and Sausage Paella](r/shrimp_and_sausage_paella)
@@ -181,11 +181,11 @@ Soup and Stew :stew:
 
 Vegetable :herb:
 ----------------
-- [Cheesey Italian Spaghetti Squash](r/cheesey_italian_spaghetti_squash) (Linda-?, Tom-7, Kyle-?, Skylar-?)
+- [Cheesey Italian Spaghetti Squash](r/cheesey_italian_spaghetti_squash) :pig2: (Molly-8, Tom-7, Kyle-8, Skylar-8)
 - [Mexican Corn Casserole](r/mexican_corn_casserole)
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
 - [Pico de Gallo](r/pico_de_gallo) :cactus:
-- [Quinoa Salad](r/quinoa_salad) (Molly-10, Tom-?)
+- [Quinoa Salad](r/quinoa_salad) (Molly-10, Tom-3)
 - [Shrimp and Pesto Calzones](r/shrimp_and_pesto_calzones) (Linda-9, Tom-9, Kyle-9, Skylar-?)
 - [Stuffed Red Peppers](r/stuffed_red_peppers) (Molly-9, Tom-9)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
