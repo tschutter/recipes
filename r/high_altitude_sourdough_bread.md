@@ -5,9 +5,9 @@ High Altitude Sourdough Bread
 - 100 grams warm water
 - 100 grams bread flour
 <!-- -->
-- 800 grams bread flour
+- 775 grams bread flour
 - 100 grams whole wheat flour
-- 650 grams warm water
+- 675 grams warm water
 <!-- -->
 - 20 grams salt
 - 50 grams warm water
@@ -143,8 +143,17 @@ zippered plastic bag.
 
 *Notes*
 
-This recipe contains 1000 g of flour and 800 g of water (not including
-the starter) which results in 80% hydration.
+This recipe contains 1000 g of flour and 800 g of water which results
+in 80% hydration.  This assumes that the starter is at 100% hydration.
+
+Given that the amount of fermented flour (flour in the pre-ferment) is
+125g, then the inoculation rate is 12.5%.  The less the inoculation
+rate, the more time is needed to bulk ferment and proof the dough,
+thus the more time for the lactic acid bacteria to produce flavor
+compounds such as acids.  Generally speaking, the higher the
+inoculation rate, the less tangy the bread will be.  Other factors
+such as adding more whole grain flours to your dough will increase its
+tang.
 
 - [Sourdough baking guide (kingarthurbaking.com)](https://bit.ly/2Lbigrq)
 - [High Altitude Sourdough (butterandair.com)](https://bit.ly/2VVXfDc)
