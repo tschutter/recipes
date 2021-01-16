@@ -15,28 +15,27 @@ High Altitude Sourdough Bread
 *Activate Pre-ferment (overnight)*
 
 Mix the sourdough starter with 100 grams of warm water and 100 grams
-of bread flour to create the the pre-ferment (levain).  Cover and
+of bread flour to create the the pre-ferment.  The pre-ferment
+(a.k.a. levain) is an off-shoot of the sourdough starter.  Cover and
 leave on the counter overnight.  If the environment is cold and/or
 dry, then keep the pre-ferment in the microwave with a small bowl of
 boiled water.
 
-*Make Dough (10 minutes)*
+*Autolyse (60 minutes)*
 
-In a large pot, combine the pre-ferment with 650 grams of warm water.
-Using your hand, incorporate the pre-ferment a bit by squeezing it
-through your fingers.
+In a large pot, combine 650 grams of warm water with 800 grams of
+bread flour and 100 grams of whole wheat flour.  Mix just until all
+the flour has been hydrated. Cover with plastic.
 
-Add 800 grams of bread flour and 100 grams of whole wheat flour.  Mix
-just until all the flour has been hydrated. Cover with plastic.
-
-*Autolyse (30 minutes)*
-
-Let the dough rest 30 minutes.  This rest is called the autolyse
-("auto-lease"), which allows the flours to absorb the water,
+Let the flours rest at least 60 minutes.  This rest is called the
+autolyse ("auto-lease"), which allows the flours to absorb the water,
 activating the enzymes which begins the gluten development. This step
 is critical and cannot be rushed.
 
-*Incorporate Salt (5 minutes)*
+*Make Dough (10 minutes)*
+
+Add the pre-ferment to the dough.  Incorporate the pre-ferment by
+squeezing it through your fingers.
 
 Sprinkle 20 grams of salt over the dough and then add 50 grams of warm
 water.  Poke your fingers into the dough to press some salt deep
