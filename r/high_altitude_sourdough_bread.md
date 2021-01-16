@@ -5,9 +5,9 @@ High Altitude Sourdough Bread
 - 100 grams warm water
 - 100 grams bread flour
 <!-- -->
-- 650 grams warm water
 - 800 grams bread flour
 - 100 grams whole wheat flour
+- 650 grams warm water
 <!-- -->
 - 20 grams salt
 - 50 grams warm water
@@ -23,9 +23,9 @@ boiled water.
 
 *Autolyse (60 minutes)*
 
-In a large pot, combine 650 grams of warm water with 800 grams of
-bread flour and 100 grams of whole wheat flour.  Mix just until all
-the flour has been hydrated. Cover with plastic.
+In a large pot, combine 800 grams of bread flour and 100 grams of
+whole wheat flour with 650 grams of warm water.  Mix just until all
+the flour has been hydrated. Cover.
 
 Let the flours rest at least 60 minutes.  This rest is called the
 autolyse ("auto-lease"), which allows the flours to absorb the water,
