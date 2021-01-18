@@ -1,13 +1,13 @@
 High Altitude Sourdough Bread
 -----------------------------
 
-- 50 grams sourdough starter
+- 50 grams sourdough starter (100% hydration)
 - 100 grams warm water
 - 100 grams bread flour
 <!-- -->
 - 775 grams bread flour
 - 100 grams whole wheat flour
-- 675 grams warm water
+- 625 grams warm water
 <!-- -->
 - 20 grams salt
 - 50 grams warm water
