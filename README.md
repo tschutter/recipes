@@ -119,6 +119,7 @@ Pork :pig2:
 Lamb :sheep:
 ------------
 - [Lemon-Pepper Lamb Marinade](r/lemon_pepper_lamb_marinade) (Linda-10, Tom-10, Kyle-9, Skylar-9)
+- [Mint And Feta Lamb Burgers](r/mint_and_feta_lamb_burgers) (Molly-8, Tom-9)
 
 Seafood :fish:
 --------------
@@ -200,6 +201,7 @@ Side Dish
 - [Corn Muffins](r/corn_muffins) :herb:
 - [Corn with Chipotle and Thyme](r/corn_with_chipotle_and_thyme) :herb:
 - [Cornbread & Sausage Stuffing](r/cornbread_sausage_stuffing) :pig2: (Linda-?, Tom-8, Kyle-9, Skylar-6)
+- [Cucumber Tomato Salad](r/cucumber_tomato_salad) :herb: (Molly-8, Tom-3)
 - [Deluxe Potatoes and Onions](r/deluxe_potatoes_and_onions) :pig2:
 - [Fettucine with Pine Nuts](r/fettucine_with_pine_nuts) :herb:
 - [Garlic Rice](r/garlic_rice) :herb: (Linda-8, Tom-9, Kyle-9, Skylar-?)
