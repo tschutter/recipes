@@ -35,7 +35,7 @@ SECTIONS = collections.OrderedDict(
         ("Soup and Stew :stew:", ("soup", "stew")),
         ("Vegetable :herb:", ("casserole", "vegetarian")),
         ("Side Dish", ("rice", "salad", "side dish")),
-        ("Salad :salad:", ("salad",)),
+        ("Salad :rabbit:", ("salad",)),
         ("Bread :bread:", ("bread",)),
         ("Breakfast", ("breakfast",)),
         ("Treats :cake:", ("chocolate", "cookie press", "cookies", "dessert")),
