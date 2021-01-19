@@ -43,9 +43,9 @@ should be lively, elastic and airy. If the dough is still sluggish
 give it another hour or two at room temperature.  Optionally cover the
 bowl tightly and refrigerate overnight (see note).
 
-If the dough was refrigerated, rRemove the bowl from the refrigerator
+If the dough was refrigerated, Remove the bowl from the refrigerator
 in the morning and allow the dough to come to room temperature.
-Preheat the oven to 450 degrees F.  If you have a baking stone place
+Preheat the oven to 500 degrees F.  If you have a baking stone place
 it in the oven. If you don’t have a baking stone, place a dark colored
 baking sheet in the middle rack of the oven to preheat.
 
