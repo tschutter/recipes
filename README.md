@@ -254,6 +254,7 @@ Bread :bread:
 - [Rhumba Cornbread](r/rhumba_cornbread) (Linda-8, Tom-9, Kyle-9, Skylar-8)
 - [Salt and Pepper Biscuits](r/salt_and_pepper_biscuits) (Linda-8, Tom-9, Kyle-9, Skylar-8)
 - [Scott's Fruit Bread](r/scotts_fruit_bread)
+- [Sourdough Pita Bread](r/sourdough_pita_bread)
 - [Spicy Bacon and Brew Muffins](r/spicy_bacon_and_brew_muffins) (Linda-?, Tom-10, Kyle-?, Skylar-?)
 - [Sugar Cookies](r/sugar_cookies)
 - [Whole Wheat Jalapeno Cheddar Scones](r/whole_wheat_jalapeno_cheddar_scones)
