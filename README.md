@@ -13,7 +13,7 @@ Links on this page do not work, use http://tschutter.github.io/recipes/ instead.
 - [Soup and Stew :stew:](#soup-and-stew-stew)
 - [Vegetable :herb:](#vegetable-herb)
 - [Side Dish](#side-dish)
-- [Salad :salad:](#salad-salad)
+- [Salad :rabbit:](#salad-rabbit)
 - [Bread :bread:](#bread-bread)
 - [Breakfast](#breakfast)
 - [Treats :cake:](#treats-cake)
@@ -225,8 +225,8 @@ Side Dish
 - [Unfried Pickles](r/unfried_pickles) :herb: (Linda-5, Tom-7, Kyle-8, Skylar-7)
 - [Wild Rice with Mushrooms and Almonds](r/wild_rice_with_mushrooms_and_almonds) :herb:
 
-Salad :salad:
--------------
+Salad :rabbit:
+--------------
 - [Asian Cabbage Salad](r/asian_cabbage_salad) :herb: (Linda-10, Tom-?, Skylar-?, Kyle-?)
 - [Chinese Cabbage Salad](r/chinese_cabbage_salad) :herb: (Linda-10, Tom-4, Skylar-?, Kyle-?)
 - [Cucumber Tomato Salad](r/cucumber_tomato_salad) :herb: (Molly-8, Tom-3)
