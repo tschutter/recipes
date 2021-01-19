@@ -37,6 +37,6 @@ parsley to taste. Season with salt and pepper.
 Serve pasta topped with a sprinkling of amaretti crumbs.
 
 - source: Adapted from "Pasta Modern" by Francine Segan
-- keywords: meat
+- keywords: pork
 - ratings: Molly-?, Tom-?
 - time: ? minutes

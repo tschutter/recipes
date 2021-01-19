@@ -104,6 +104,7 @@ Pork :pig2:
 - [Hogback Pork Chops](r/hogback_pork_chops) (Linda-8, Tom-8)
 - [Jack Daniel's Glazed Ham](r/jack_daniels_glazed_ham) (Linda-8, Tom-9, Kyle-?, Skylar-8)
 - [Lasagne](r/lasagne) :star: (Linda-8, Tom-10, Kyle-10, Skylar-7)
+- [Meat and Pear Open Ravioli](r/meat_and_pear_open_ravioli)
 - [Parmesan Sage Pork Chops](r/parmesan_sage_pork_chops) (Linda-8, Tom-8, Kyle-9, Skylar-8)
 - [Pineapple Pork Chops](r/pineapple_pork_chops) (Linda-8, Tom-7, Kyle-7, Skylar-8)
 - [Pizza Cobbler](r/pizza_cobbler) (Linda-8, Tom-8, Kyle-8, Skylar-8)
@@ -362,7 +363,6 @@ Other
 - [Basic Pizza Sauce](r/basic_pizza_sauce)
 - [Cajun/Creole Spice Mix](r/cajun_creole_spice_mix) (Molly-10, Tom-10)
 - [Kitchen Notes](r/kitchen_notes)
-- [Meat and Pear Open Ravioli](r/meat_and_pear_open_ravioli)
 - [Rhumba Yam-Allspice Butter](r/rhumba_yam_allspice_butter)
 - [Roasted Garlic](r/roasted_garlic)
 
