@@ -19,6 +19,6 @@ seeds on top.
 Double if taking to a potluck.
 
 - source: Janet VanEps
-- keywords: salad
+- keywords: salad, vegetarian
 - ratings: Tom-?, Linda-?, Kyle-?, Skylar-?
 - time: ?

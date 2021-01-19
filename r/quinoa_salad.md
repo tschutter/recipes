@@ -34,6 +34,6 @@ Stir in rest of ingredients.  Better if left overnight to marinate
 before serving.
 
 - source: Mary Klingbeil / Debbie Pink
-- keywords: vegetarian, salad
+- keywords: salad, vegetarian
 - ratings: Molly-10, Tom-3
 - time: 30 minutes plus overnight

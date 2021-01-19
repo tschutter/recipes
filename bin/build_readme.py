@@ -12,9 +12,10 @@ Should be run when:
 # pylint: disable=invalid-name
 
 from __future__ import print_function
+import argparse
 import collections
 import glob
-import argparse
+#import json
 import os
 import re
 import textwrap
@@ -34,6 +35,7 @@ SECTIONS = collections.OrderedDict(
         ("Soup and Stew :stew:", ("soup", "stew")),
         ("Vegetable :herb:", ("casserole", "vegetarian")),
         ("Side Dish", ("rice", "salad", "side dish")),
+        ("Salad :salad:", ("salad",)),
         ("Bread :bread:", ("bread",)),
         ("Breakfast", ("breakfast",)),
         ("Treats :cake:", ("chocolate", "cookie press", "cookies", "dessert")),
@@ -54,6 +56,7 @@ EMOJIS = {
     "lamb": ":sheep:",
     "pork": ":pig2:",
     "poultry": ":chicken:",
+    "salad": ":rabbit:",
     "seafood": ":fish:",
     "shrimp": ":fish:",
     "southwest": ":cactus:",
@@ -105,6 +108,9 @@ def list_files(args, root_dir):
 
     # Create a map of keyword to section name.
     keyword_to_section_name = create_keyword_to_section_name()
+
+    # Debug print to diagnose section problems.
+    # print(json.dumps(keyword_to_section_name, indent=2))
 
     # Initialize the ordered dictionary of sections.
     recipies = collections.OrderedDict()
@@ -175,7 +181,7 @@ def write_file_body(readme, sections):
         readme.write("\n")
         write_header(readme, section_name, "-")
         for recipe in recipes:
-            title, filename, keywords, emojis, ratings = recipe
+            title, filename, _keywords, emojis, ratings = recipe
             item = f"- [{title}]({filename[:-3]})"
             if emojis:
                 item += " " + " ".join(emojis)

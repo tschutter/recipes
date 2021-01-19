@@ -13,6 +13,7 @@ Links on this page do not work, use http://tschutter.github.io/recipes/ instead.
 - [Soup and Stew :stew:](#soup-and-stew-stew)
 - [Vegetable :herb:](#vegetable-herb)
 - [Side Dish](#side-dish)
+- [Salad :salad:](#salad-salad)
 - [Bread :bread:](#bread-bread)
 - [Breakfast](#breakfast)
 - [Treats :cake:](#treats-cake)
@@ -186,7 +187,6 @@ Vegetable :herb:
 - [Mexican Corn Casserole](r/mexican_corn_casserole)
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
 - [Pico de Gallo](r/pico_de_gallo) :cactus:
-- [Quinoa Salad](r/quinoa_salad) (Molly-10, Tom-3)
 - [Shrimp and Pesto Calzones](r/shrimp_and_pesto_calzones) (Linda-9, Tom-9, Kyle-9, Skylar-?)
 - [Stuffed Red Peppers](r/stuffed_red_peppers) (Molly-9, Tom-9)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
@@ -195,13 +195,10 @@ Vegetable :herb:
 Side Dish
 ---------
 - [Almond Wild Rice](r/almond_wild_rice) :herb:
-- [Asian Cabbage Salad](r/asian_cabbage_salad) :herb: (Linda-10, Tom-?, Skylar-?, Kyle-?)
 - [Carrots with Ginger and Honey](r/carrots_with_ginger_and_honey) :star: :herb: (Linda-9, Tom-9, Kyle-5, Skylar-9)
-- [Chinese Cabbage Salad](r/chinese_cabbage_salad) :herb: (Linda-10, Tom-4, Skylar-?, Kyle-?)
 - [Corn Muffins](r/corn_muffins) :herb:
 - [Corn with Chipotle and Thyme](r/corn_with_chipotle_and_thyme) :herb:
 - [Cornbread & Sausage Stuffing](r/cornbread_sausage_stuffing) :pig2: (Linda-?, Tom-8, Kyle-9, Skylar-6)
-- [Cucumber Tomato Salad](r/cucumber_tomato_salad) :herb: (Molly-8, Tom-3)
 - [Deluxe Potatoes and Onions](r/deluxe_potatoes_and_onions) :pig2:
 - [Fettucine with Pine Nuts](r/fettucine_with_pine_nuts) :herb:
 - [Garlic Rice](r/garlic_rice) :herb: (Linda-8, Tom-9, Kyle-9, Skylar-?)
@@ -210,7 +207,6 @@ Side Dish
 - [Grilled Asparagus](r/grilled_asparagus) :herb: (Linda-9, Tom-X, Kyle-7, Skylar-8)
 - [Herb Roasted Potatoes](r/herb_roasted_potatoes) :herb:
 - [Hummus](r/hummus) :star: :herb: (Tom-9, Linda-8, Kyle-9, Skylar-6)
-- [Janet's Broccoli Salad 2008](r/janets_broccoli_salad)
 - [Janet's Sweet Potatoes](r/janets_sweet_potatoes) :herb:
 - [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :star: :herb: (Linda-9, Tom-10, Kyle-?, Skylar-8)
 - [Leek Patties](r/leek_patties) :herb: (Linda-7, Tom-7, Kyle-9, Skylar-3)
@@ -220,7 +216,6 @@ Side Dish
 - [Pat Sebesta's Cranberry Sauce](r/cranberry_sauce) :herb:
 - [Pineapple Rice](r/pineapple_rice) :herb:
 - [Portabello Mushrooms](r/portabello_mushrooms)
-- [Salade Canaille (Yummy Salad with Pears and Walnuts)](r/salade_canaille) :herb:
 - [Smashed Potatoes and Peas](r/smashed_potatoes_and_peas) :herb: (Linda-8, Tom-8, Kyle-9, Skylar-8)
 - [Sugar Peas Almondine](r/sugar_peas_almondine) :herb: (Linda-10, Tom-8, Kyle-5)
 - [Sweet Gingered Corn](r/sweet_gingered_corn) :herb: (Linda-7, Tom-9, Kyle-7, Skylar-7)
@@ -228,6 +223,15 @@ Side Dish
 - [Two-Seed Rice](r/two_seed_rice) :herb:
 - [Unfried Pickles](r/unfried_pickles) :herb: (Linda-5, Tom-7, Kyle-8, Skylar-7)
 - [Wild Rice with Mushrooms and Almonds](r/wild_rice_with_mushrooms_and_almonds) :herb:
+
+Salad :salad:
+-------------
+- [Asian Cabbage Salad](r/asian_cabbage_salad) :herb: (Linda-10, Tom-?, Skylar-?, Kyle-?)
+- [Chinese Cabbage Salad](r/chinese_cabbage_salad) :herb: (Linda-10, Tom-4, Skylar-?, Kyle-?)
+- [Cucumber Tomato Salad](r/cucumber_tomato_salad) :herb: (Molly-8, Tom-3)
+- [Janet's Broccoli Salad 2008](r/janets_broccoli_salad) :herb:
+- [Quinoa Salad](r/quinoa_salad) :herb: (Molly-10, Tom-3)
+- [Salade Canaille (Yummy Salad with Pears and Walnuts)](r/salade_canaille) :herb:
 
 Bread :bread:
 -------------
