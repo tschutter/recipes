@@ -360,11 +360,9 @@ Drinks :tropical_drink:
 Other
 -----
 - [Basic Pizza Sauce](r/basic_pizza_sauce)
-- [Bubble Solution](r/bubble_solution)
 - [Cajun/Creole Spice Mix](r/cajun_creole_spice_mix) (Molly-10, Tom-10)
 - [Kitchen Notes](r/kitchen_notes)
 - [Meat and Pear Open Ravioli](r/meat_and_pear_open_ravioli)
-- [Playdough](r/playdough)
 - [Rhumba Yam-Allspice Butter](r/rhumba_yam_allspice_butter)
 - [Roasted Garlic](r/roasted_garlic)
 
