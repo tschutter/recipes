@@ -97,6 +97,7 @@ Pork :pig2:
 - [Caribbean Pork Roast](r/caribbean_pork_roast) (Linda-9, Tom-9, Kyle-9, Skylar-?)
 - [Carne de Puerco (Shredded Pork)](r/carne_de_puerco) :cactus:
 - [Cashew Pork](r/cashew_pork) (Linda-8, Tom-8, Kyle-7, Skylar-7)
+- [Chalupa Soup](r/chalupa_soup) :cactus:
 - [Chile Crusted Pork](r/chile_crusted_pork) :cactus:
 - [Crock Pot Chili Pork Chops](r/crock_pot_chili_pork_chops) (Linda-?, Tom-8, Kyle-9, Skylar-8)
 - [Dutch Oven Pork Chops](r/dutch_oven_pork_chops) (Linda-7, Tom-7, Kyle-?, Skylar-?)
