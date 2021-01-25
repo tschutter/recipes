@@ -97,7 +97,6 @@ Pork :pig2:
 - [Caribbean Pork Roast](r/caribbean_pork_roast) (Linda-9, Tom-9, Kyle-9, Skylar-?)
 - [Carne de Puerco (Shredded Pork)](r/carne_de_puerco) :cactus:
 - [Cashew Pork](r/cashew_pork) (Linda-8, Tom-8, Kyle-7, Skylar-7)
-- [Chalupa Soup](r/chalupa_soup) :cactus:
 - [Chile Crusted Pork](r/chile_crusted_pork) :cactus:
 - [Crock Pot Chili Pork Chops](r/crock_pot_chili_pork_chops) (Linda-?, Tom-8, Kyle-9, Skylar-8)
 - [Dutch Oven Pork Chops](r/dutch_oven_pork_chops) (Linda-7, Tom-7, Kyle-?, Skylar-?)
@@ -156,6 +155,7 @@ Soup and Stew :stew:
 - [Bison and Sausage Chili](r/bison_sausage_chili) :cow2: (Linda-9, Tom-9, Kyle-?, Skylar-7)
 - [Black Bean And Sweet Potato Stew](r/black_bean_and_sweet_potato_stew) :herb: (Molly-10, Tom-9)
 - [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Molly-7, Linda-8, Kyle-10, Skylar-8, Alexander-7)
+- [Chalupa Soup](r/chalupa_soup) :pig2: :cactus:
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
 - [Chicken And Seafood Gumbo](r/chicken_and_seafood_gumbo) :chicken: :pig2: :fish: (Molly-10, Tom-9, Alexander-8)
 - [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Linda-9, Tom-9, Kyle-9, Skylar-7)
