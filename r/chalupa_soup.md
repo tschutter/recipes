@@ -30,6 +30,6 @@ lime juice.
 Serve immediately.
 
 - source: perfectionpending.net
-- keywords: pork, southwest
+- keywords: soup, pork, southwest
 - ratings: Molly-?, Tom-?
 - time: ? minutes
