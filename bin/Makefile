@@ -18,7 +18,7 @@ $(KEYWORDS): ../r/*.md
 	> $(KEYWORDS)
 
 $(METAKEYS): ../r/*.md
-	grep --no-filename --only-matching "^- [^:]*:" ../r/*.md\
+	grep --no-filename --only-matching "^- [^(:|\[)]*:" ../r/*.md\
 	| sort\
 	| uniq -c\
 	> $(METAKEYS)
