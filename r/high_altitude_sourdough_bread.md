@@ -166,6 +166,6 @@ tang.
 - [Sourdough Autolyse: Is it Needed? If so, How Long?](https://bit.ly/2WXOIjA)
 
 - source: leavenly.com
-- keywords: bread
+- keywords: bread, favorite
 - ratings: Molly-?, Tom-?
 - time: all day
