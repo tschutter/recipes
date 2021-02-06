@@ -13,9 +13,9 @@ Add flour to eggs in 4 additions, beating after each until just
 smooth.  Add milk in 2 additions, beating slightly after each.
 Lightly beat in 2 tablespoons melted butter.  Butter 9 or 10 inch
 heavy skillet with 2 tablespoons softened butter.  Pour in batter.
-Bake at 450 degrees F for 20 minutes.
 
-Slip onto heated platter and serve immediately.
+Bake at 450 degrees F for 20 minutes.  Slip onto heated platter and
+serve immediately.
 
 Serve with melted butter, squeeze of lemon, and dusting of powdered
 sugar.  Or cooked apples and cinnamon.  Or:
@@ -32,9 +32,12 @@ oven for last 5 minutes.
 *Swiss Honey Butter*
 
 - 1/2 cup soft butter
-- 1 teaspoon vanilla.
+- 1 teaspoon vanilla
+- 1/2 cup honey
+- 1/2 cup whipping cream
 
-Cream butter and honey.  Serve with pancake.
+Cream butter and honey.  Slowly add cream, beating constantly until
+fluffy.  Add vanilla.  Spoon over pancake.
 
 - source: Janet Van Eps
 - keywords: breakfast
