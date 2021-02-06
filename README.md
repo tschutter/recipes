@@ -242,6 +242,7 @@ Bread :bread:
 - [Butter Dips](r/butter_dips) :star: (Linda-6, Tom-9, Kyle-9, Skylar-9)
 - [Challah](r/challah) :star: (Linda-9, Tom-9, Kyle-9, Skylar-9)
 - [Cheese Garlic Biscuits](r/cheese_garlic_biscuits) (Linda-10, Tom-9, Kyle-9, Skylar-9)
+- [Cherry Quick Bread](r/cherry_quick_bread) (Molly-?, Tom-9)
 - [Chocolate Chip Scones](r/chocolate_chip_scones)
 - [Club Med White Chocolate Bread](r/club_med_white_chocolate_bread) :star: (Linda-10, Tom-10, Kyle-10, Skylar-10)
 - [Cracked Wheat Thin Crust Dough](r/cracked_wheat_thin_crust_dough)
