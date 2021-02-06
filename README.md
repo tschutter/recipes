@@ -208,7 +208,7 @@ Side Dish
 - [Grandma's Shrooms](r/grandmas_shrooms) :herb:
 - [Grilled Asparagus](r/grilled_asparagus) :herb: (Linda-9, Tom-X, Kyle-7, Skylar-8)
 - [Herb Roasted Potatoes](r/herb_roasted_potatoes) :herb:
-- [Hummus](r/hummus) :star: :herb: (Tom-9, Linda-8, Kyle-9, Skylar-6)
+- [Hummus](r/hummus) :star: :herb: (Molly-10, Tom-9, Kyle-9, Skylar-6)
 - [Janet's Sweet Potatoes](r/janets_sweet_potatoes) :herb:
 - [KT's Real Mashed Potatoes](r/kts_mashed_potatoes) :star: :herb: (Linda-9, Tom-10, Kyle-?, Skylar-8)
 - [Leek Patties](r/leek_patties) :herb: (Linda-7, Tom-7, Kyle-9, Skylar-3)
@@ -252,7 +252,7 @@ Bread :bread:
 - [Ginger Thin Crust Dough](r/ginger_thin_crust_dough)
 - [Gingerbread Scones](r/gingerbread_scones)
 - [Gluten Free Soft Sandwich Bread](r/gluten_free_soft_sandwich_bread)
-- [High Altitude Sourdough Bread](r/high_altitude_sourdough_bread)
+- [High Altitude Sourdough Bread](r/high_altitude_sourdough_bread) :star:
 - [Italian Herb Thin Crust Dough](r/italian_herb_thin_crust_dough)
 - [Janet's Apricot Bread](r/janets_apricot_bread)
 - [Monkey Bread](r/monkey_bread)
@@ -270,6 +270,7 @@ Bread :bread:
 Breakfast
 ---------
 - [Apple Pancakes](r/apple_pancakes)
+- [Baked German Pancake](r/baked_german_pancake)
 - [Belgian Waffles](r/belgian_waffles)
 - [High-Protein Oatmeal](r/high_protein_oatmeal) :star: (Linda-9, Tom-9, Kyle-8, Skylar-9)
 - [Stuffed Cinnamon Toast](r/stuffed_cinnamon_toast)
