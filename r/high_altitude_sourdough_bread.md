@@ -143,8 +143,9 @@ zippered plastic bag.
 
 *Notes*
 
-This recipe contains 1000 g of flour and 800 g of water which results
-in 80% hydration.  This assumes that the starter is at 100% hydration.
+This recipe contains 1000 grams of flour and 800 grams of water which
+results in 80% hydration.  This assumes that the starter is at 100%
+hydration.
 
 Given that the amount of fermented flour (flour in the pre-ferment) is
 125g, then the inoculation rate is 12.5%.  The less the inoculation
