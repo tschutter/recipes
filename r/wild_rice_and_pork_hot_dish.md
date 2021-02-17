@@ -23,5 +23,5 @@ hour or longer.  Add a little water if necessary.
 
 - source: unknown
 - keywords: pork, rice
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

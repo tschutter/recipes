@@ -25,4 +25,4 @@ cookie sheets.  Bake at 300 degrees F for 15 to 18 minutes.
 
 - source: Pillsbury Recipe Book
 - keywords: cookies, favorite
-- ratings: Linda-8, Tom-10, Kyle-10, Skylar-9
+- ratings: Molly-?, Tom-10, Kyle-10, Skylar-9

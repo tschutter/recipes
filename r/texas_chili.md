@@ -27,4 +27,4 @@ Add rest.  Simmer till meat is tender - about 2 hours.
 
 - source: Lady Byrd Johnson
 - keywords: stew, beef, favorite
-- ratings: Linda-9, Tom-9, Kyle-7, Skylar-4
+- ratings: Molly-?, Tom-9, Kyle-7, Skylar-4

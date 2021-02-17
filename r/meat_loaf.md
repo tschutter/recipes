@@ -21,5 +21,5 @@ the top.  Return to oven for about 15 minutes more.
 
 - source: Real Simple, April 2006
 - keywords: ground beef
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

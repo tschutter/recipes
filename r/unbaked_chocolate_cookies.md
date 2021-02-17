@@ -19,5 +19,5 @@ Drop by teaspoonful onto waxed paper.
 
 - source: Delores Chada
 - keywords: cookies
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

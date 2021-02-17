@@ -20,4 +20,4 @@ F.  Be careful not to heat the bottom too much or they will burn.
 
 - source: Championship Dutch Oven Cookbook
 - keywords: ground beef, dutch oven, cabin
-- ratings: Linda-8, Tom-9, Kyle-9, Skylar-7
+- ratings: Molly-?, Tom-9, Kyle-9, Skylar-7

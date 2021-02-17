@@ -49,5 +49,5 @@ of stew into each of 6 bowls.  Top each serving with 3 beet wedges,
 
 - source: food.com/348728
 - keywords: stew, beef
-- ratings: Linda-8, Tom-8, Kyle-8, Skylar-8
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-8
 - time: ?

@@ -26,5 +26,5 @@ into the rice mixture.  Cover until ready to serve.
 
 - source: Maria Elena Rodriguez via Detroit Free Press
 - keywords: vegetarian, southwest
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

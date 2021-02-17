@@ -34,5 +34,5 @@ Per serving:
 
 - source: Parade Magazine
 - keywords: soup, vegetarian, favorite
-- ratings: Molly-7, Linda-8, Kyle-10, Skylar-8, Alexander-7
+- ratings: Molly-7, Molly-?, Kyle-10, Skylar-8, Alexander-7
 - time: ?

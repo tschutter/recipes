@@ -26,5 +26,5 @@ minutes.  Slice the beef and drizzle with the Dr Pepper sauce.
 
 - source: Everyday with Rachel Ray mag
 - keywords: beef
-- ratings: Linda-9, Tom-9, Kyle-8, Skylar-6
+- ratings: Molly-?, Tom-9, Kyle-8, Skylar-6
 - time: 10 minutes + 60 minutes

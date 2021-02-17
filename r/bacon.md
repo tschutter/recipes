@@ -6,5 +6,5 @@ degrees F.  After the oven reaches temperature, check every 3 minutes.
 
 - source: Alton Brown
 - keywords: pork, favorite
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

@@ -25,5 +25,5 @@ Bake for 25 to 30 minutes.
 
 - source: unknown
 - keywords: dessert
-- ratings: Tom-?, Linda-?, Kyle-?, Skylar-?
+- ratings: Tom-?, Molly-?, Kyle-?, Skylar-?
 - time: ?

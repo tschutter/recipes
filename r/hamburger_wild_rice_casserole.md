@@ -22,6 +22,6 @@ Bake in covered 2-quart greased casserole for 1 hour at 325 degrees F.
 
 - source: unknown
 - keywords: ground beef, rice
-- ratings: Linda-?, Tom-6, Kyle-6, Skylar-7
+- ratings: Molly-?, Tom-6, Kyle-6, Skylar-7
 - time: ? minutes
 - notes: needs salt

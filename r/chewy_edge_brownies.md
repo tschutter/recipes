@@ -27,5 +27,5 @@ brownie comes out with moist crumbs.
 
 - source: Edge brownie pan cookbook
 - keywords: cookies
-- ratings: Linda-10, Tom-9, Kyle-?, Skylar-9
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-9
 - time: 85 minutes

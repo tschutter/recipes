@@ -28,5 +28,5 @@ the remaining ingredients.  Cook until heated through.
 
 - source: Beta Sigma Phi cookbook
 - keywords: soup, vegetarian
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

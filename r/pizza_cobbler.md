@@ -29,5 +29,5 @@ minutes.  Let cool about 5 minutes before serving.
 
 - source: Everyday with Rachel Ray mag
 - keywords: pork
-- ratings: Linda-8, Tom-8, Kyle-8, Skylar-8
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-8
 - time: 35 minutes

@@ -26,5 +26,5 @@ and return to the oven.
 
 - source: http://southernfood.about.com/od/bakedhamrecipes/r/bln161.htm
 - keywords: pork
-- ratings: Linda-8, Tom-9, Kyle-?, Skylar-8
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-8
 - time: 2 hours

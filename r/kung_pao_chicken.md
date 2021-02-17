@@ -53,5 +53,5 @@ and serve with peanuts.
 
 - source: various
 - keywords: poultry, chinese
-- ratings: Linda-9, Tom-8, Kyle-8, Skylar-7
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-7
 - time: 75 minutes

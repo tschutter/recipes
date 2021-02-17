@@ -28,5 +28,5 @@ Salt to taste.  Serve with crusty bread.
 
 - source: Cheap Thrills Cuisine
 - keywords: soup, ground beef
-- ratings: Linda-9, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ?

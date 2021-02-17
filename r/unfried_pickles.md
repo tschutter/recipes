@@ -31,5 +31,5 @@ Return to oven and broil 3-4 minutes on each side.
 
 - source: Parade Magazine, 2015-06-07, Trisha Yearwood
 - keywords: side dish, vegetarian
-- ratings: Linda-5, Tom-7, Kyle-8, Skylar-7
+- ratings: Molly-?, Tom-7, Kyle-8, Skylar-7
 - time: ? minutes

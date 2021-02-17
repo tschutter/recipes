@@ -32,5 +32,5 @@ comes out clean.  Cool in pan on a wire rack before cutting.
 
 - source: food.com/70466
 - keywords: cookies
-- ratings: Linda-10, Tom-9, Kyle-9, Skylar-9
+- ratings: Molly-?, Tom-9, Kyle-9, Skylar-9
 - time: 55 minutes

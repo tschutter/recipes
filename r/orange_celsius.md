@@ -11,5 +11,5 @@ Add to blender and blend until smooth.  Makes 1 cup.
 
 - source: Kyle Schutter via 6th grade cooking class
 - keywords: drink
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: 5 minutes

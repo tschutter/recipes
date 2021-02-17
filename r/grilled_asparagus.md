@@ -19,5 +19,5 @@ Grill for 10 minutes.
 
 - source: Skylar Schutter
 - keywords: side dish, vegetarian
-- ratings: Linda-9, Tom-X, Kyle-7, Skylar-8
+- ratings: Molly-?, Tom-X, Kyle-7, Skylar-8
 - time: 40 minutes

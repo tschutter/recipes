@@ -37,5 +37,5 @@ Bake scones for 15 to 18 minutes when using fresh blueberries or about
 
 - source: unknown
 - keywords: bread, dessert
-- ratings: Linda-6, Tom-10, Kyle-?, Skylar-10
+- ratings: Molly-?, Tom-10, Kyle-?, Skylar-10
 - time: ? minutes

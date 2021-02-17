@@ -28,5 +28,5 @@ Toss together 20 minutes before serving.
 
 - source: Janet Van-Eps
 - keywords: salad, vegetarian
-- ratings: Linda-10, Tom-4, Skylar-?, Kyle-?
+- ratings: Molly-?, Tom-4, Skylar-?, Kyle-?
 - time: ?

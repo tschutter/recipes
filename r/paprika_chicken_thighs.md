@@ -40,5 +40,5 @@ Serve the chicken over the egg noodles.
 
 - source: http://www.rachaelraymag.com
 - keywords: poultry
-- ratings: Linda-8, Tom-8, Kyle-8, Skylar-7
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-7
 - time: 55 minutes

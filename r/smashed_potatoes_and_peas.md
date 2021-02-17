@@ -18,4 +18,4 @@ teaspoon pepper.
 
 - source: Real Simple, May 2009
 - keywords: side dish, vegetarian
-- ratings: Linda-8, Tom-8, Kyle-9, Skylar-8
+- ratings: Molly-?, Tom-8, Kyle-9, Skylar-8

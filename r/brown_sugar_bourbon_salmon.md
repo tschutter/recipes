@@ -24,5 +24,5 @@ Serve over rice, spooning the marinade over the salmon.
 
 - source: Lady Byrd Johnson
 - keywords: seafood
-- ratings: Linda-10, Tom-10, Kyle-8, Skylar-10
+- ratings: Molly-?, Tom-10, Kyle-8, Skylar-10
 - time: ?

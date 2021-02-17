@@ -41,5 +41,5 @@ minutes.
 
 - source: Chef George Carlberg, Buckhorn Exchange
 - keywords: stew, pork, southwest
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

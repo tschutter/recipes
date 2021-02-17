@@ -13,5 +13,5 @@ brandy.  Pour over and ignite.  Serve over ice cream.
 
 - source: unknown
 - keywords: dessert
-- ratings: Tom-?, Linda-?, Kyle-?, Skylar-?
+- ratings: Tom-?, Molly-?, Kyle-?, Skylar-?
 - time: ?

@@ -22,5 +22,5 @@ slices.
 
 - source: Texas Cooking Online
 - keywords: drink
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ?

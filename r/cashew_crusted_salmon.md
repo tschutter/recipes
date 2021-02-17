@@ -25,5 +25,5 @@ minutes more, until crust is golden brown.
 
 - source: http://recipes.sparkpeople.com/recipe-detail.asp?recipe=117232
 - keywords: seafood
-- ratings: Linda-8, Tom-8, Kyle-8, Skylar-9
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-9
 - time: 30 minutes

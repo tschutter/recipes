@@ -31,5 +31,5 @@ for 20 minutes or until the vegetables are tender.
 
 - source: Carrabas, dvo.com
 - keywords: soup, pork
-- ratings: Linda-7, Tom-8, Kyle-7, Skylar-9
+- ratings: Molly-?, Tom-8, Kyle-7, Skylar-9
 - time: ?

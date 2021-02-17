@@ -34,5 +34,5 @@ Serve with Parmesan cheese.
 
 - source: Kimberly Teter
 - keywords: soup, pork
-- ratings: Linda-9, Tom-8, Kyle-8, Skylar-?
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-?
 - time: 75 minutes

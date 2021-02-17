@@ -22,5 +22,5 @@ oil.  Fry until golden on each side.  Drain.
 
 - source: food.com/153845
 - keywords: side dish, vegetarian
-- ratings: Linda-7, Tom-7, Kyle-9, Skylar-3
+- ratings: Molly-?, Tom-7, Kyle-9, Skylar-3
 - time: ? minutes

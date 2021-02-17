@@ -21,5 +21,5 @@ are glazed.
 
 - source: marthastewart.com
 - keywords: side dish, vegetarian, favorite
-- ratings: Linda-9, Tom-9, Kyle-5, Skylar-9
+- ratings: Molly-?, Tom-9, Kyle-5, Skylar-9
 - time: 16 minutes

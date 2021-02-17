@@ -42,5 +42,5 @@ guacamole and pico de gallo.
 
 - source: Food Network magazine
 - keywords: beef, southwest
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

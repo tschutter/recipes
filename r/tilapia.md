@@ -22,4 +22,4 @@ fish.
 
 - source: food.com/257931
 - keywords: seafood
-- ratings: Linda-8, Tom-8, Kyle-7, Skylar-8
+- ratings: Molly-?, Tom-8, Kyle-7, Skylar-8

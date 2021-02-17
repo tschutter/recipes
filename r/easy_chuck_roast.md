@@ -34,5 +34,5 @@ Let sit 10 minutes before cutting. Slice against the grain.
 
 - source: wellnessmama.com
 - keywords: beef
-- ratings: Linda-7, Tom-9, Kyle-7, Skylar-9
+- ratings: Molly-?, Tom-9, Kyle-7, Skylar-9
 - time: ? minutes + all day

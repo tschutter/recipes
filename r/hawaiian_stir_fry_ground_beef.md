@@ -30,5 +30,5 @@ Serve over rice.
 
 - source: unknown
 - keywords: ground beef, chinese, wok
-- ratings: Linda-8, Tom-8, Kyle-8, Skylar-8
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-8
 - time: ? minutes

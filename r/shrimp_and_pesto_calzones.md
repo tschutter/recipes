@@ -24,5 +24,5 @@ Baked on a greased baking sheet with a lip in a 375 degree F oven for
 
 - source: Mary Cousins, Mt. View Preschool 1994 Cookbook
 - keywords: vegetarian
-- ratings: Linda-9, Tom-9, Kyle-9, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-9, Skylar-?
 - time: 35 minutes

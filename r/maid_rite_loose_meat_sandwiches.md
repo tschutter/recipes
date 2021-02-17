@@ -28,5 +28,5 @@ pickles.
 
 - source: http://www.theslowroasteditalian.com
 - keywords: ground beef
-- ratings: Linda-1, Tom-5, Kyle-?, Skylar-6
+- ratings: Molly-?, Tom-5, Kyle-?, Skylar-6
 - time: 4 hours

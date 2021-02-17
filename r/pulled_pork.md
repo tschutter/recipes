@@ -32,5 +32,5 @@ with salt as needed.
 
 - source: various
 - keywords: pork, slow cooker
-- ratings: Linda-8, Tom-10, Kyle-10, Skylar-8
+- ratings: Molly-?, Tom-10, Kyle-10, Skylar-8
 - time: ? minutes

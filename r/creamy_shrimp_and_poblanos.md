@@ -18,5 +18,5 @@ Season with salt and pepper.  Serve over rice.
 
 - source: realsimple.com
 - keywords: shrimp
-- ratings: Linda-9, Tom-9, Kyle-7, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-7, Skylar-?
 - time: 20 minutes

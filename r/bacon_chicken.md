@@ -35,5 +35,5 @@ degrees F and cheese is melted.
 
 - source: http://busycooks.about.com
 - keywords: poultry
-- ratings: Linda-?, Tom-8, Kyle-10, Skylar-8
+- ratings: Molly-?, Tom-8, Kyle-10, Skylar-8
 - time: 60 minutes

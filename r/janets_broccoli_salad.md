@@ -20,5 +20,5 @@ Double if taking to a potluck.
 
 - source: Janet VanEps
 - keywords: salad, vegetarian
-- ratings: Tom-?, Linda-?, Kyle-?, Skylar-?
+- ratings: Tom-?, Molly-?, Kyle-?, Skylar-?
 - time: ?

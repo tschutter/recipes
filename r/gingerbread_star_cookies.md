@@ -37,4 +37,4 @@ starting to brown.  Take out and place on cooling rack.
 
 - source: Danette Randall, Dessert Diva
 - keywords: cookies
-- ratings: Linda-1, Tom-10, Kyle-2, Skylar-7
+- ratings: Molly-?, Tom-10, Kyle-2, Skylar-7

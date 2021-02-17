@@ -35,5 +35,5 @@ liquid is absorbed and shrimp are pink and opaque.
 
 - source: seafood, rice
 - keywords: shrimp, rice, side dish
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

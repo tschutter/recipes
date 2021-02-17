@@ -23,5 +23,5 @@ Stir in the crab meat and veggies.  Serve warm.
 
 - source: Beta Sigma Phi cookbook
 - keywords: soup, seafood
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

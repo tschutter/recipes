@@ -18,5 +18,5 @@ minutes.
 
 - source: Tom Schutter
 - keywords: ground beef, pasta
-- ratings: Linda-8, Tom-9, Kyle-9, Skylar-6
+- ratings: Molly-?, Tom-9, Kyle-9, Skylar-6
 - time: 20 minutes

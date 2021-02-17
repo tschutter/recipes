@@ -11,5 +11,5 @@ ice cream.  Fill with club soda.
 
 - source: unknown
 - keywords: drink
-- ratings: Tom-?, Linda-?, Kyle-?, Skylar-?
+- ratings: Tom-?, Molly-?, Kyle-?, Skylar-?
 - time: ?

@@ -18,4 +18,4 @@ Bake for 8 minutes at 375 degrees F.
 
 - source: Mirro Cooky and Pastry Recipes booklet
 - keywords: cookie press
-- ratings: Linda-?, Tom-9, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-?

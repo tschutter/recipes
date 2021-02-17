@@ -23,5 +23,5 @@ Pour into two 9 x 5 well greased loaf pans.  Bake at 325 degrees F for
 
 - source: Kristin Willis (Victor friend?)
 - keywords: bread
-- ratings: Linda-8, Tom-8, Skylar-9, Kyle-?
+- ratings: Molly-?, Tom-8, Skylar-9, Kyle-?
 - time: ?

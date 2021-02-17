@@ -20,5 +20,5 @@ Remove bay leaf and stir in the parsley.
 
 - source: food.com/71739
 - keywords: rice, vegetarian
-- ratings: Linda-8, Tom-9, Kyle-9, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-9, Skylar-?
 - time: 35 minutes

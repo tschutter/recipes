@@ -20,5 +20,5 @@ Mix all and serve.
 
 - source: Ed Victor
 - keywords: soup, vegetarian
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ?

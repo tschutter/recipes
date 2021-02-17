@@ -47,5 +47,5 @@ Just before serving add fresh cilantro to chili.
 
 - source: Daily Camera
 - keywords: stew, pork, southwest
-- ratings: Linda-6, Tom-9, Kyle-8, Skylar-6
+- ratings: Molly-?, Tom-9, Kyle-8, Skylar-6
 - time: 210 minutes

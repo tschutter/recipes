@@ -21,5 +21,5 @@ desired, and serve at once.
 
 - source: http://www.epicurious.com/recipes/member/views/SAUTEED-CORN-WITH-CHIPOLTE-CHILES-AND-THYME-1249882
 - keywords: side dish, vegetarian
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

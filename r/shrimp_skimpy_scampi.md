@@ -59,5 +59,5 @@ Bake for 10 to 15 minutes, just until bubbling a little at the edges.
 
 - source: Washington Post
 - keywords: shrimp
-- ratings: Linda-9, Tom-8, Kyle-?, Skylar-9
+- ratings: Molly-?, Tom-8, Kyle-?, Skylar-9
 - time: ? minutes

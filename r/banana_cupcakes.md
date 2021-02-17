@@ -34,5 +34,5 @@ frosting of your choice.
 
 - source: Sarah Victor, Cupcake Wars
 - keywords: dessert
-- ratings: Linda-?, Tom-?, Kyle-9, Skylar-9
+- ratings: Molly-?, Tom-?, Kyle-9, Skylar-9
 - time: ? minutes

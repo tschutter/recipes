@@ -44,5 +44,5 @@ juices.
 
 - source: Daily Camera
 - keywords: pork, slow cooker, southwest
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

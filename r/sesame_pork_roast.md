@@ -41,5 +41,5 @@ Serve over noodles, rice, or mashed potatoes.
 
 - source: Daily Camera
 - keywords: pork, slow cooker
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: 15 minutes + all day (fixme)

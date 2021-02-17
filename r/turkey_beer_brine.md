@@ -49,4 +49,4 @@ foil or a large mixing bowl for 15 minutes before carving.
 
 - source: http://www.karlstrauss.com/blog/turkey-beer-brine/
 - keywords: poultry
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?

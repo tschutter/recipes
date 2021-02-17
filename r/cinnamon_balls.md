@@ -27,5 +27,5 @@ balls in sugar and store in an airtight container or in the freezer.
 
 - source: The Jewish Cookbook
 - keywords: cookies
-- ratings: Linda-?, Tom-9, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-?
 - time: ?

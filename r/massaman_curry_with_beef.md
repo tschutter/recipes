@@ -36,5 +36,5 @@ cilantro, if desired and serve over rice.
 
 - source: 365daysofcrockpot.com
 - keywords: beef
-- ratings: Linda-7, Tom-7, Kyle-?, Skylar-8 (rated without coriander & water)
+- ratings: Molly-?, Tom-7, Kyle-?, Skylar-8 (rated without coriander & water)
 - time: 30 minutes + all day

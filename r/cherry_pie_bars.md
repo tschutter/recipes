@@ -48,5 +48,5 @@ Dust with powdered sugar.  Cut into 16 bars.
 
 - source: Dessert Diva, Boulder Weekly 2011-02-24
 - keywords: cookies
-- ratings: Linda-?, Tom-9, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-?
 - time: ?

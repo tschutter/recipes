@@ -40,5 +40,5 @@ flavors will improve as it sits.
 
 - source: Barefoot Contessa Parties!
 - keywords: poultry
-- ratings: Linda-7, Tom-7, Kyle-7, Skylar-8
+- ratings: Molly-?, Tom-7, Kyle-7, Skylar-8
 - time: ? minutes

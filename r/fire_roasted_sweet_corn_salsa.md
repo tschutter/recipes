@@ -22,5 +22,5 @@ served cold or warm.
 
 - source: Daily Camera - Cadillac Ranch
 - keywords: appetizer, southwest, vegetarian
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

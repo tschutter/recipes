@@ -28,5 +28,5 @@ Bake at 425 degrees F for 30 minutes.
 - source: Longmont Dairy
 - servings: 6
 - keywords: pork, favorite
-- ratings: Linda-7, Tom-8, Kyle-10, Skylar-8
+- ratings: Molly-?, Tom-8, Kyle-10, Skylar-8
 - time: 45 minutes

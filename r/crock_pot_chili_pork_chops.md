@@ -26,4 +26,4 @@ and cook on low heat for 4-5 hours.
 
 - source: food.com/110078
 - keywords: pork, slow cooker
-- ratings: Linda-?, Tom-8, Kyle-9, Skylar-8
+- ratings: Molly-?, Tom-8, Kyle-9, Skylar-8

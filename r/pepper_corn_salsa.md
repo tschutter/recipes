@@ -32,5 +32,5 @@ pepper.
 
 - source: Jean-Pierre Peiny, executive chef of L.A. Farm restaurant
 - keywords: appetizer, southwest, vegetarian
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

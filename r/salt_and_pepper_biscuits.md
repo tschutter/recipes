@@ -35,5 +35,5 @@ cool slightly.
 
 - source: Daily Camera
 - servings: 6
-- ratings: Linda-8, Tom-9, Kyle-9, Skylar-8
+- ratings: Molly-?, Tom-9, Kyle-9, Skylar-8
 - keywords: bread

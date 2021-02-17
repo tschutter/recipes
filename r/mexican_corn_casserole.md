@@ -17,5 +17,5 @@ make a complete meal.
 
 - source: Judy Schineller, Mt. View Preschool 1994 Cookbook
 - keywords: vegetarian, casserole, side dish
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: 60 minutes

@@ -27,5 +27,5 @@ Bake at 400 degrees F for 20-25 minutes or until golden brown.
 
 - source: www.mirandabee.com/2012/09/corn-bread-muffins-with-real-corn-no.html
 - keywords: side dish, vegetarian
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ?

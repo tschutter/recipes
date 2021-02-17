@@ -37,5 +37,5 @@ Simmer for an hour.
 
 - source: Rocky Mountain News
 - keywords: stew, beef
-- ratings: Linda-9, Tom-9, Kyle-?, Skylar-7
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-7
 - time: 2 hours

@@ -20,5 +20,5 @@ used within a week or two.
 
 - source: The Best Pizza is Made at Home Cookbook
 - keywords: pizza
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

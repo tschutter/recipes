@@ -26,5 +26,5 @@ Cool in pan for 10 minutes.  Remove from pan and cool on rack.
 
 - source: Janet VanEps
 - keywords: bread
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ?

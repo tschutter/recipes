@@ -33,5 +33,5 @@ in oven and bake for 40-50 minutes.
 
 - source: http://31daysofbison.com/day-12-stuffed-bison-peppers/
 - keywords: ground beef
-- ratings: Linda-3, Tom-9, Kyle-?, Skylar-7, Benjamin-7
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-7, Benjamin-7
 - time: ? minutes

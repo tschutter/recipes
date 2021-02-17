@@ -29,5 +29,5 @@ potatoes for another 15 minutes.
 
 - source: Wood Fired Oven Cookbook
 - keywords: seafood
-- ratings: Linda-8, Tom-9, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-?
 - time: 50 minutes

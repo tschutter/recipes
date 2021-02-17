@@ -36,5 +36,5 @@ Bake scones for 18 to 20 minutes or until golden brown.  Serve warm.
 
 - source: unknown
 - keywords: bread, dessert
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

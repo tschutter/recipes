@@ -19,4 +19,4 @@ Bake at 375 degrees F for about 30 minutes.  8 to 10 coals bottom and
 
 - source: Championship Dutch Oven Cookbook
 - keywords: dessert, dutch oven
-- ratings: Linda-7, Tom-7, Kyle-?, Skylar-7
+- ratings: Molly-?, Tom-7, Kyle-?, Skylar-7

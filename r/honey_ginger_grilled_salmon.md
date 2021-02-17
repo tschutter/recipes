@@ -21,5 +21,5 @@ marinade.
 
 - source: food.com/13982
 - keywords: seafood
-- ratings: Linda-8, Tom-8, Kyle-8, Skylar-9
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-9
 - time: 50 minutes

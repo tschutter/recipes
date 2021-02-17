@@ -35,4 +35,4 @@ until rolls are golden brown.
 
 - source: World Championship Dutch Oven Cookbook
 - keywords: bread, dutch oven
-- ratings: Linda-5, Tom-8, Kyle-8, Skylar-9
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-9

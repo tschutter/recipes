@@ -27,4 +27,4 @@ minutes, or until golden brown.
 
 - source: food.com/14200
 - keywords: side dish, pork
-- ratings: Linda-?, Tom-8, Kyle-9, Skylar-6
+- ratings: Molly-?, Tom-8, Kyle-9, Skylar-6

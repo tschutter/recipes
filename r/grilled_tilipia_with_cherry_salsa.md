@@ -31,4 +31,4 @@ Serve tilapia topped with cherry salsa.
 
 - source: www.marthastewart.com/337282/grilled-tilapia-with-cherry-salsa
 - keywords: seafood
-- ratings: Linda-8, Tom-9, Kyle-6, Skylar-9
+- ratings: Molly-?, Tom-9, Kyle-6, Skylar-9

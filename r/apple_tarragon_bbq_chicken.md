@@ -31,4 +31,4 @@ a sauce.
 
 - source: 365 Ways to Cook Chicken, #289
 - keywords: poultry
-- ratings: Linda-8, Tom-8, Kyle-8, Skylar-8
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-8

@@ -38,5 +38,5 @@ casserole.   Cover with foil.  Bake for 20 minutes.  Uncover and bake
 
 - source: 365 Ways to Cook Chicken, #331
 - keywords: poultry
-- ratings: Linda-7, Tom-8, Kyle-8, Skylar-7
+- ratings: Molly-?, Tom-8, Kyle-8, Skylar-7
 - time: 75 minutes

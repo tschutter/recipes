@@ -42,5 +42,5 @@ Serve with crusty bread to dip in the broth.
 
 - source: The Food Charlatan
 - keywords: beef, slow cooker
-- ratings: Linda-9, Tom-10, Benjamin-10
+- ratings: Molly-?, Tom-10, Benjamin-10
 - time: ? minutes

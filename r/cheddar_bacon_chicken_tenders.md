@@ -29,5 +29,5 @@ the coating is golden brown.
 
 - source: www.thesaucysoutherner.com
 - keywords: chicken
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: 60 minutes

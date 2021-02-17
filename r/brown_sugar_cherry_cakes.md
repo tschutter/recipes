@@ -33,5 +33,5 @@ ice cream, if desired.
 
 - source: www.marthastewart.com/313665/brown-sugar-cherry-cakes
 - keywords: dessert
-- ratings: Linda-?, Tom-9, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-?
 - time: ? minutes

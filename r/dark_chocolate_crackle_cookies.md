@@ -32,4 +32,4 @@ parchment paper.
 
 - source: Dessert Diva, Boulder Weekly 2011-05-12
 - keywords: cookies
-- ratings: Linda-9, Tom-10, Kyle-10, Skylar-9
+- ratings: Molly-?, Tom-10, Kyle-10, Skylar-9

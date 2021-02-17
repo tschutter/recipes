@@ -24,5 +24,5 @@ walnuts individually.
 
 - source: Mostly Mediterranean, Paula Wolfert; Ed Victor
 - keywords: salad, vegetarian
-- ratings: Tom-?, Linda-?, Kyle-?, Skylar-?
+- ratings: Tom-?, Molly-?, Kyle-?, Skylar-?
 - time: ?

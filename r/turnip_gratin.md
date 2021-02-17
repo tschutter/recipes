@@ -24,5 +24,5 @@ is thickened, sprinkle the Parmesan evenly over the top.  Serve hot.
 
 - source: Red Wagon Organic Farm, CSA Newsletter 2009-06-22
 - keywords: side dish, vegetarian
-- ratings: Linda-9, Tom-9, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-?
 - time: 45 minutes

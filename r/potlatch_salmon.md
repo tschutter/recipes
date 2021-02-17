@@ -21,4 +21,4 @@ Place foil with fish on barbecue grill over low heat, cover.  Bake for
 
 - source: Alaskan Ulu Cookbook
 - keywords: seafood
-- ratings: Linda-?, Tom-8, Kyle-4
+- ratings: Molly-?, Tom-8, Kyle-4

@@ -33,5 +33,5 @@ completely before storing in an airthight container up to 1 week.
 
 - source: The China Moon Cookbook
 - keywords: cookies
-- ratings: Linda-?, Tom-8, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-8, Kyle-?, Skylar-?
 - time: ? minutes

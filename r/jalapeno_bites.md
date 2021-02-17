@@ -20,5 +20,5 @@ Bake for 15 to 20 minutes, or until lightly golden brown.
 
 - source: realhousemoms.com
 - keywords: appetizer, southwest, vegetarian
-- ratings: Linda-?, Tom-9, Kyle-?, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-?, Skylar-?
 - time: ? minutes

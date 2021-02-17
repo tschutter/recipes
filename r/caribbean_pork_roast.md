@@ -29,5 +29,5 @@ hours.
 
 - source: unknown
 - keywords: pork, slow cooker
-- ratings: Linda-9, Tom-9, Kyle-9, Skylar-?
+- ratings: Molly-?, Tom-9, Kyle-9, Skylar-?
 - time: 30 minutes + one day

@@ -18,5 +18,5 @@ Pierce steaks with a fork.  Put and bag and massage to coat.
 
 - source: allrecipes.com
 - keywords: beef, favorite
-- ratings: Tom-9, Linda-9, Kyle-9, Skylar-9
+- ratings: Tom-9, Molly-?, Kyle-9, Skylar-9
 - time: ?
