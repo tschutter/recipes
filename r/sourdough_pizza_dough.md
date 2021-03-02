@@ -63,7 +63,8 @@ develop further and results in much better flavor.
 
 *Preheat*
 
-Preheat oven (and pizza stone if using) to 500 degrees F for 1 hour.
+Preheat oven to 500 degrees F.  If using pizza stone, preheat it for 1
+hour.
 
 *Divide and Shape (10 minutes)*
 
