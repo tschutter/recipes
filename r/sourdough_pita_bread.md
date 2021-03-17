@@ -32,10 +32,11 @@ the dough into a smooth ball.  Put the dough into the oiled bowl,
 turning once to coat the dough. Cover the bowl and set it aside at
 room temperature.
 
-After 30 minutes uncover the bowl, lift one side of the dough and fold
-it into the middle of the dough. Repeat with the other three sides of
-the dough then flip the dough over. You're basically turning the dough
-inside-out to redistribute the yeast and develop the gluten.
+After 30 minutes uncover the bowl, wet your hands, lift one side of
+the dough and fold it into the middle of the dough. Repeat with the
+other three sides of the dough then flip the dough over. You're
+basically turning the dough inside-out to redistribute the yeast and
+develop the gluten.
 
 Cover the bowl and after 30 minutes repeat the procedure. Cover the
 bowl and after 60 minutes repeat the procedure again. Cover the bowl
