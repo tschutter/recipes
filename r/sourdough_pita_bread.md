@@ -8,8 +8,8 @@ Sourdough Pita Bread
 - 225 grams warm water
 - 225 grams bread flour
 <!-- -->
-- 2 tablespoons olive oil
 - 1 tablespoon sugar
+- 2 tablespoons olive oil
 - 1-1/2 teaspoons salt
 - 150 grams bread flour
 
@@ -20,14 +20,15 @@ leave on the counter overnight.  If the environment is cold and/or
 dry, then keep the pre-ferment in the microwave with a small bowl of
 boiled water.
 
-Combine the starter, 225 grams of water, and 225 grams of flour. Mix
-until it forms a thick batter. Cover the bowl and set aside for 30-60
-minutes.
+Combine the starter, 225 grams of water, and 225 grams of bread
+flour. Mix until it forms a thick batter. Cover the bowl and set aside
+for 30-60 minutes.
 
-Add the olive oil, sugar, and salt then mix to combine. Add the
-remaining flour until you can no longer stir, then turn the dough out
-onto a floured surface to finish by hand.  Knead 5 minutes. Form the
-dough into a smooth ball.  Put the dough into a lightly oiled bowl,
+Lightly oil a separate large bowl.  Add the sugar, olive oil, and salt
+to the sourdough mix and then mix to combine.  Add the remaining 150
+grams of bread flour until you can no longer stir, then turn the dough
+out onto a floured surface to finish by hand.  Knead 5 minutes. Form
+the dough into a smooth ball.  Put the dough into the oiled bowl,
 turning once to coat the dough. Cover the bowl and set it aside at
 room temperature.
 
