@@ -61,6 +61,12 @@ browned, about 3-5 minutes. You don’t need to flip the bread. Remove
 the baked breads and wrap in a clean kitchen towel while you continue
 rolling and baking the pitas.
 
+*Notes*
+
+This recipe contains 500 grams of flour and 350 grams of water which
+results in 70% hydration.  This assumes that the starter is at 100%
+hydration.
+
 The pitas are best the day they are made, but they also freeze very
 well.
 
