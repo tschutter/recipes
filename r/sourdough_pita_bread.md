@@ -51,10 +51,10 @@ Preheat the oven to 500 degrees F.  If you have a baking stone place
 it in the oven. If you don’t have a baking stone, place a dark colored
 baking sheet in the middle rack of the oven to preheat.
 
-Divide the dough into 8 equal pieces and roll each piece into a
-ball. Use a rolling pin to roll two pitas to 1/4 inch thick and 7 to 8
-inches around. If the dough springs back too much let it rest for 5
-minutes and continue rolling.
+Divide the dough into 8 equal pieces and roll each piece into a ball.
+Stretch each ball into a flat pita 1/4 inch thick and 7 to 8 inches
+around. If the dough springs back too much let it rest for 5 minutes
+and continue rolling.
 
 Immediately place the rounds on the preheated baking stone or baking
 sheet in the oven. Bake until they are puffed and the bottom is nicely
