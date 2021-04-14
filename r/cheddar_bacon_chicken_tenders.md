@@ -28,6 +28,6 @@ Bake for 15-25 minutes until the chicken is no longer pink inside and
 the coating is golden brown.
 
 - source: www.thesaucysoutherner.com
-- keywords: chicken
+- keywords: poultry
 - ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
 - time: 60 minutes

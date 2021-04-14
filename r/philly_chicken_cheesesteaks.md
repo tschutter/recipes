@@ -26,6 +26,6 @@ provolone, and place on a rimmed baking sheet.  Broil until the
 provolone has melted, 2 to 3 minutes.  Serve with french fries.
 
 - source: realsimple.com
-- keywords: chicken
+- keywords: poultry
 - ratings: Molly-?, Tom-8, Kyle-7, Skylar-9
 - time: 50 minutes

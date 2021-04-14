@@ -158,7 +158,7 @@ Soup and Stew :stew:
 - [Carrot Ginger Soup](r/carrot_ginger_soup) :star: :herb: (Molly-7, Molly-?, Kyle-10, Skylar-8, Alexander-7)
 - [Chalupa Soup](r/chalupa_soup) :pig2: :cactus:
 - [Cheddar Potato Soup](r/cheddar_potato_soup) :herb:
-- [Chicken And Seafood Gumbo](r/chicken_and_seafood_gumbo) :chicken: :pig2: :fish: (Molly-10, Tom-9, Alexander-8)
+- [Chicken And Seafood Gumbo](r/chicken_and_seafood_gumbo) :pig2: :chicken: :fish: (Molly-10, Tom-9, Alexander-8)
 - [Chicken Peanut Soup](r/chicken_peanut_soup) :star: :chicken: (Molly-?, Tom-9, Kyle-9, Skylar-7)
 - [Chicken Tortilla Soup](r/chicken_tortilla_soup) :chicken: (Molly-?, Tom-9, Kyle-9, Skylar-9)
 - [Colorado Potato Green Chile](r/colorado_potato_green_chile) :pig2: :cactus:

@@ -47,6 +47,6 @@ Sprinkle with chickpeas and pistachios.  Serve with remaining dressing
 on the side.
 
 - source: Parade Magazine, 2017-10-01
-- keywords: chicken
+- keywords: poultry
 - ratings: Molly-?, Tom-7, Kyle-?, Skylar-?
 - time: 40 minutes
