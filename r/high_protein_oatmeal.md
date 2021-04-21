@@ -16,8 +16,6 @@ High-Protein Oatmeal
 - 2 tablespoons real maple syrup or organic or local honey
 <!-- -->
 - 2 large apples, cored and chopped
-<!-- -->
-- 1 teaspoons vanilla extract
 
 Grease a slow cooker with coconut oil, butter, or an oil spray.
 
@@ -31,8 +29,6 @@ hour.
 
 Add chopped apple to the cooker.  Cook on low for another 2 hours,
 stirring every 20 minutes.
-
-Add vanilla before serving.
 
 - source: http://www.apexnutritionllc.com
 - keywords: breakfast, favorite
