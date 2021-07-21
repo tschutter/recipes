@@ -187,6 +187,7 @@ Soup and Stew :stew:
 Vegetable :herb:
 ----------------
 - [Cheesey Italian Spaghetti Squash](r/cheesey_italian_spaghetti_squash) :pig2: (Molly-8, Tom-7, Kyle-8, Skylar-8)
+- [Creamy Zucchini Pasta](r/creamy_zucchini_pasta)
 - [Mexican Corn Casserole](r/mexican_corn_casserole)
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
 - [Pico de Gallo](r/pico_de_gallo) :cactus:
