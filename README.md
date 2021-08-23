@@ -249,6 +249,7 @@ Bread :bread:
 - [Club Med White Chocolate Bread](r/club_med_white_chocolate_bread) :star: (Molly-?, Tom-10, Kyle-10, Skylar-10)
 - [Cracked Wheat Thin Crust Dough](r/cracked_wheat_thin_crust_dough)
 - [Crescent Rolls (Rich Sweet Dough)](r/crescent_rolls)
+- [Double Chocolate Zucchini Bread](r/double_chocolate_zucchini_bread) (Molly-?, Tom-9)
 - [Dutch Oven Rolls](r/dutch_oven_rolls) (Molly-?, Tom-8, Kyle-8, Skylar-9)
 - [English Muffin Loaf](r/english_muffin_loaf) (Molly-?, Tom-9, Kyle-?, Skylar-7)
 - [Garlic Herb Thin Crust Dough](r/garlic_herb_thin_crust_dough)
