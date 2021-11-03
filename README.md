@@ -26,7 +26,7 @@ Poultry :chicken:
 - [Apple Tarragon Barbecue Chicken](r/apple_tarragon_bbq_chicken) (Molly-?, Tom-8, Kyle-8, Skylar-8)
 - [Bacon Chicken](r/bacon_chicken) (Molly-?, Tom-8, Kyle-10, Skylar-8)
 - [Bourbon Marinade](r/bourbon_marinade) :pig2: (Molly-?, Tom-9, Kyle-8, Skylar-7)
-- [Cajun BBQ Chicken Strips](r/cajun_bbq_chicken_strips)
+- [Cajun BBQ Chicken Strips](r/cajun_bbq_chicken_strips) (Molly-?, Tom-9)
 - [Carrot Chicken Salad](r/carrot_chicken_salad) (Molly-?, Tom-7, Kyle-?, Skylar-?)
 - [Cashew Butter Chicken](r/cashew_butter_chicken) :star: (Molly-7, Tom-9, Kyle-9, Skylar-9, Alexander-7)
 - [Cashew Chicken](r/cashew_chicken) (Molly-7, Tom-8, Kyle-5, Skylar-8)
@@ -194,6 +194,7 @@ Vegetable :herb:
 - [Shrimp and Pesto Calzones](r/shrimp_and_pesto_calzones) (Molly-?, Tom-9, Kyle-9, Skylar-?)
 - [Stuffed Red Peppers](r/stuffed_red_peppers) (Molly-9, Tom-9)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
+- [Vegetarian Stuffed Acorn Squash](r/vegetarian_stuffed_acorn_squash) (Molly-?, Tom-9)
 - [White Rice with Chili Strips, Corn, and Cheese](r/white_rice_with_chili_corn_cheese) :cactus:
 
 Side Dish
