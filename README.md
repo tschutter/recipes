@@ -47,6 +47,7 @@ Poultry :chicken:
 - [Rigatoni With Pistachio Pesto](r/rigatoni_with_pistachio_pesto) (Molly-8, Tom-8)
 - [Roast Brined Turkey](r/roast_brined_turkey) (Molly-?, Tom-9, Kyle-9, Skylar-9)
 - [Savory Molasses Chicken Breasts](r/savory_molasses_chicken_breasts) (Molly-?, Tom-8, Kyle-9, Skylar-8)
+- [Spatchcocked Turkey](r/spatchcocked_turkey) (Tom-10)
 - [Spicy Bolivian Chicken](r/spicy_bolivian_chicken) (Molly-?, Tom-8, Kyle-8, Skylar-8)
 - [Tray-Baked Chicken](r/tray_baked_chicken) (Molly-?, Tom-9, Kyle-9, Skylar-9)
 - [Turkey Beer Brine](r/turkey_beer_brine)
