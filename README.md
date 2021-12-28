@@ -38,6 +38,7 @@ Poultry :chicken:
 - [Chicken and Vegetable Scallop](r/chicken_and_vegetable_scallop) (Molly-?, Tom-8, Kyle-8, Skylar-7)
 - [Chicken with Tabbouleh](r/chicken_with_tabbouleh) (Molly-?, Tom-7, Kyle-7, Skylar-8)
 - [Citrus-Ginger Chicken](r/citrus_ginger_chicken) (Molly-9, Tom-9)
+- [Curried Cashew Chicken Salad](r/curried_cashew_chicken_salad) :rabbit:
 - [Dutch Oven Chicken](r/dutch_oven_chicken) (Molly-?, Tom-8, Kyle-8, Skylar-?)
 - [Easy Turkey Tetrazzini](r/easy_turkey_tetrazzini)
 - [Janet's Barbecue Chicken](r/janets_barbecue_chicken) (Molly-?, Tom-9, Kyle-5, Skylar-8)
