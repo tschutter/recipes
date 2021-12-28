@@ -145,6 +145,7 @@ Seafood :fish:
 - [Saucy Salmon](r/saucy_salmon) (Molly-1, Tom-9, Kyle-7, Skylar-10, Alexander-8)
 - [Shrimp Scampi](r/shrimp_scampi) (Molly-?, Tom-9, Kyle-?, Skylar-9)
 - [Shrimp Skimpy Scampi](r/shrimp_skimpy_scampi) (Molly-?, Tom-8, Kyle-?, Skylar-9)
+- [Shrimp and Pesto Calzones](r/shrimp_and_pesto_calzones) (Tom-9, Kyle-9)
 - [Shrimp and Sausage Paella](r/shrimp_and_sausage_paella)
 - [Snappy Salmon](r/snappy_salmon) (Molly-?, Tom-8, Kyle-7, Skylar-9)
 - [Sweet 'n Spicy Shrimp](r/sweet_n_spicy_shrimp) (Molly-?, Tom-9, Kyle-?, Skylar-9)
@@ -192,7 +193,6 @@ Vegetable :herb:
 - [Mexican Corn Casserole](r/mexican_corn_casserole)
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
 - [Pico de Gallo](r/pico_de_gallo) :cactus:
-- [Shrimp and Pesto Calzones](r/shrimp_and_pesto_calzones) (Molly-?, Tom-9, Kyle-9, Skylar-?)
 - [Stuffed Red Peppers](r/stuffed_red_peppers) (Molly-9, Tom-9)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
 - [Vegetarian Stuffed Acorn Squash](r/vegetarian_stuffed_acorn_squash) (Molly-?, Tom-9)

@@ -23,6 +23,6 @@ Baked on a greased baking sheet with a lip in a 375 degree F oven for
 20-25 minutes or until golden.
 
 - source: Mary Cousins, Mt. View Preschool 1994 Cookbook
-- keywords: vegetarian
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-?
+- keywords: shrimp
+- ratings: Tom-9, Kyle-9
 - time: 35 minutes
