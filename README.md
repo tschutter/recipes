@@ -197,6 +197,7 @@ Vegetable :herb:
 - [Stuffed Red Peppers](r/stuffed_red_peppers) (Molly-9, Tom-9)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
 - [Vegetarian Stuffed Acorn Squash](r/vegetarian_stuffed_acorn_squash) (Molly-?, Tom-9)
+- [West African Peanut Stew](r/west_african_peanut_stew) (Tom-9, Skylar-9)
 - [White Rice with Chili Strips, Corn, and Cheese](r/white_rice_with_chili_corn_cheese) :cactus:
 
 Side Dish
