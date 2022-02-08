@@ -92,6 +92,7 @@ Ground Beef :cow2:
 - [Stuffed Bison Peppers](r/stuffed_bison_peppers) (Molly-?, Tom-9, Kyle-?, Skylar-7, Benjamin-7)
 - [Stuffed Green Peppers](r/stuffed_green_peppers)
 - [Sweet and Sour Meatballs](r/sweet_and_sour_meatballs) (Molly-?, Tom-8, Kyle-5, Skylar-8)
+- [Turkish Goulash](r/turkish_goulash)
 
 Pork :pig2:
 -----------
