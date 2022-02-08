@@ -10,5 +10,5 @@ Instructions.
 
 - source:
 - keywords:
-- ratings: Molly-?, Tom-?
+- ratings: Tom-?
 - time: ? minutes
