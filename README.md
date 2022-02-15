@@ -223,6 +223,7 @@ Side Dish
 - [Mint Carrots](r/mint_carrots) :herb: (Molly-?, Tom-10, Kyle-7, Skylar-3)
 - [Noodle Kugel](r/noodle_kugel) :herb:
 - [Pat Sebesta's Cranberry Sauce](r/cranberry_sauce) :herb:
+- [Pickled Ginger](r/pickled_ginger) :herb:
 - [Pineapple Rice](r/pineapple_rice) :herb:
 - [Portabello Mushrooms](r/portabello_mushrooms)
 - [Smashed Potatoes and Peas](r/smashed_potatoes_and_peas) :herb: (Molly-?, Tom-8, Kyle-9, Skylar-8)
