@@ -134,6 +134,7 @@ Seafood :fish:
 - [Brown Sugar and Bourbon Salmon](r/brown_sugar_bourbon_salmon) (Molly-?, Tom-10, Kyle-8, Skylar-10)
 - [Cashew Crusted Salmon](r/cashew_crusted_salmon) (Molly-?, Tom-8, Kyle-8, Skylar-9)
 - [Creamy Shrimp and Poblanos](r/creamy_shrimp_and_poblanos) (Molly-?, Tom-9, Kyle-7, Skylar-?)
+- [Crunchy Oven-Fried Fish](r/crunchy_oven_fried_fish)
 - [Garlic Lime Shrimp](r/garlic_lime_shrimp) :star: (Molly-?, Tom-9, Kyle-8, Skylar-9)
 - [Garlic Shrimp](r/garlic_shrimp) (Molly-?, Tom-6, Kyle-?, Skylar-?)
 - [Garlicky Baked Shrimp](r/garlicy_baked_shrimp) (Molly-?, Tom-9, Kyle-8, Skylar-?)
