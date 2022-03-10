@@ -32,6 +32,7 @@ Poultry :chicken:
 - [Cashew Chicken](r/cashew_chicken) (Molly-7, Tom-8, Kyle-5, Skylar-8)
 - [Cheddar Bacon Chicken Tenders](r/cheddar_bacon_chicken_tenders)
 - [Chicken Cheese Enchiladas](r/chicken_cheese_enchiladas) :cactus: (Molly-?, Tom-8, Kyle-8, Skylar-6)
+- [Chicken Egg Roll Filling](r/chicken_egg_roll_filling)
 - [Chicken Marsala](r/chicken_marsala) :star: (Molly-?, Tom-9, Kyle-9, Skylar-10, Benjamin-10)
 - [Chicken Tikka Masala](r/chicken_tikka_masala) (Molly-8, Tom-8)
 - [Chicken With Mushroom Sauce](r/chicken_with_mushroom_sauce) (Molly-?, Tom-8, Kyle-?, Skylar-7)
