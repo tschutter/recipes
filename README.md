@@ -377,6 +377,7 @@ Other
 -----
 - [Basic Pizza Sauce](r/basic_pizza_sauce)
 - [Cajun/Creole Spice Mix](r/cajun_creole_spice_mix) (Molly-10, Tom-10)
+- [Creamy Mushroom Sausage Pasta](r/creamy_mushroom_sausage_pasta) (Tom-8)
 - [Kitchen Notes](r/kitchen_notes)
 - [Rhumba Yam-Allspice Butter](r/rhumba_yam_allspice_butter)
 - [Roasted Garlic](r/roasted_garlic)
