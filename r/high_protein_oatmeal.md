@@ -6,6 +6,7 @@ High-Protein Oatmeal
 - 1 cup steel-cut oats
 - 1/4 cup hemp seeds
 - 1/4 cup chia seeds
+- 1/4 cup flaxseed meal
 - 2 teaspoons cinnamon
 <!-- -->
 - 1-3/4 cups unsweetened non-dairy milk
