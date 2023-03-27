@@ -196,6 +196,7 @@ Vegetable :herb:
 - [Creamy Zucchini Pasta](r/creamy_zucchini_pasta)
 - [Mexican Corn Casserole](r/mexican_corn_casserole)
 - [Mr. Dell's Potato Casserole](r/mr_dells_potato_casserole)
+- [One Pot Spicy Thai Noodles](r/one_pot_spicy_thai_noodles)
 - [Pico de Gallo](r/pico_de_gallo) :cactus:
 - [Stuffed Red Peppers](r/stuffed_red_peppers) (Molly-9, Tom-9)
 - [Sweet Potato Casserole](r/sweet_potato_casserole)
