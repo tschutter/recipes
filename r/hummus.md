@@ -2,8 +2,8 @@ Hummus
 ------
 
 - 1 15 ounce can of Garbanzo beans (chick peas)
-- 1/4 cup tahini
-- 2 tablespoons lemon juice
+- 1/3 cup tahini
+- 3 tablespoons lemon juice
 - 1 clove garlic, minced
 - 1 teaspoon ground cumin
 - 1 teaspoon salt
