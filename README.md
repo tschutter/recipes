@@ -132,6 +132,7 @@ Seafood :fish:
 --------------
 - [Ahi Tataki](r/ahi_tataki) :star: (Molly-?, Tom-10, Kyle-?, Skylar-?)
 - [Blackened Salmon](r/blackened_salmon) (Molly-10, Tom-8, Kyle-7, Skylar-7, Alexander-9)
+- [Brined Salmon](r/brined_salmon) (Tom-9)
 - [Brown Sugar and Bourbon Salmon](r/brown_sugar_bourbon_salmon) (Molly-?, Tom-10, Kyle-8, Skylar-10)
 - [Cashew Crusted Salmon](r/cashew_crusted_salmon) (Molly-?, Tom-8, Kyle-8, Skylar-9)
 - [Creamy Shrimp and Poblanos](r/creamy_shrimp_and_poblanos) (Molly-?, Tom-9, Kyle-7, Skylar-?)
