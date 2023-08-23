@@ -34,5 +34,6 @@ ground pepper.
 
 - source: themodernproper.com
 - keywords: vegetarian
-- ratings: Liz-?, Tom-?
+- ratings: Liz-?, Tom-8, Kyle-8, Skylar-10
 - time: ? minutes
+- notes: Tom and Kyle +1 if chicken added
