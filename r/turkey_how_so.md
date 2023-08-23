@@ -17,5 +17,5 @@ Bake at 400 degrees F for 30 minutes.
 
 - source: unknown
 - keywords: poultry
-- ratings: Molly-?, Tom-7, Kyle-7, Skylar-6
+- ratings: Liz-?, Tom-7, Kyle-7, Skylar-6
 - time: ? minutes

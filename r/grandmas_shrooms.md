@@ -9,5 +9,5 @@ Saute mushrooms in butter.  Mix in sesame ginger marinade.
 
 - source: Janet Van Eps
 - keywords: side dish, vegetarian
-- ratings: Tom-?, Molly-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ?

@@ -41,5 +41,5 @@ piece.  Cook 35 minutes, or until chicken is golden.
 
 - source: Parade Magazine, 2011-01-23, Jamie Oliver
 - keywords: poultry
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-9
 - time: ? minutes

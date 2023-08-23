@@ -35,5 +35,5 @@ serve.
 
 - source: KT's BBQ News, Issue #17, Nov 2011
 - keywords: side dish, vegetarian, favorite
-- ratings: Molly-?, Tom-10, Kyle-?, Skylar-8
+- ratings: Liz-?, Tom-10, Kyle-?, Skylar-8
 - time: 80 minutes

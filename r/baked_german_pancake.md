@@ -41,5 +41,5 @@ fluffy.  Add vanilla.  Spoon over pancake.
 
 - source: Janet Van Eps
 - keywords: breakfast
-- ratings: Molly-?, Tom-?
+- ratings: Liz-?, Tom-?
 - time: ? minutes

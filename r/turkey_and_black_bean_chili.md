@@ -38,5 +38,5 @@ frozen for up to a month.  Good to double and save half in freezer.
 
 - source: The Gourmet Gazelle, reprinted in The Washington Post
 - keywords: stew, poultry
-- ratings: Molly-10, Tom-?
+- ratings: Liz-?, Tom-?
 - time: 75 minutes

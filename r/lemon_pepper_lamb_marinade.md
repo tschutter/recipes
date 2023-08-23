@@ -13,5 +13,5 @@ temperature for 10 minutes or refrigerate for 1 hour.
 
 - source: food.com/291497
 - keywords: lamb
-- ratings: Molly-?, Tom-10, Kyle-9, Skylar-9
+- ratings: Liz-?, Tom-10, Kyle-9, Skylar-9
 - time: 10 minutes

@@ -35,5 +35,5 @@ Bake at 250 degrees F for 1 hour.
 
 - source: Scott Gregorie
 - keywords: bread
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

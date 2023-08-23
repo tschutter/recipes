@@ -42,5 +42,5 @@ foil and freeze.  Reheat at 350 degrees F for 90 minutes.
 
 - source: Beta Sigma Phi
 - keywords: pork, pasta, favorite
-- ratings: Molly-?, Tom-10, Kyle-10, Skylar-7
+- ratings: Liz-?, Tom-10, Kyle-10, Skylar-7
 - time: 3.5 hours

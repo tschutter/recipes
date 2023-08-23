@@ -14,5 +14,5 @@ Mix all.
 
 - source: Senor T's (Louisville)
 - keywords: appetizer, southwest, vegetarian
-- ratings: Molly-?, Tom-?
+- ratings: Liz-?, Tom-?
 - time: ? minutes

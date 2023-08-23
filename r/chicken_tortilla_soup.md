@@ -26,5 +26,5 @@ with sour cream.  Serve with warmed tortillas.
 
 - source: Longmont Dairy
 - keywords: soup, poultry
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-9
 - time: 60 minutes

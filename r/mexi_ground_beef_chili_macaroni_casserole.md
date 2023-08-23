@@ -43,5 +43,5 @@ has melted.
 
 - source: food.com/150046
 - keywords: ground beef, casserole
-- ratings: Molly-?, Tom-8, Kyle-8, Skylar-6
+- ratings: Liz-?, Tom-8, Kyle-8, Skylar-6
 - time: 2 hours

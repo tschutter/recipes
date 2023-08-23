@@ -23,5 +23,5 @@ soup and milk mixture.  Bake for another 30 minutes.
 
 - source: ?
 - keywords: ground beef, favorite
-- ratings: Molly-?, Tom-9, Kyle-7, Skylar-4, Benjamin-8
+- ratings: Liz-?, Tom-9, Kyle-7, Skylar-4, Benjamin-8
 - time: 90 minutes

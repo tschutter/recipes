@@ -34,5 +34,5 @@ slightly.  Turn loaf out onto rack and cool completely.
 
 - source: unknown
 - keywords: bread
-- ratings: Molly-?, Tom-9
+- ratings: Liz-?, Tom-9
 - time: ? minutes

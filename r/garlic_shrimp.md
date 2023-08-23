@@ -23,4 +23,4 @@ hot.
 
 - source: Rocky Mountain News
 - keywords: shrimp, appetizer
-- ratings: Molly-?, Tom-6, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-6, Kyle-?, Skylar-?

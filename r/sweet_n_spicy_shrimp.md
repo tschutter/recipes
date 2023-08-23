@@ -38,5 +38,5 @@ Serve shrimp and avocado over rice.
 
 - source: http://www.foodnetwork.com/recipes/rachael-ray/sweet-n-spicy-shrimp-lettuce-tacos.html
 - keywords: shrimp
-- ratings: Molly-?, Tom-9, Kyle-?, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-?, Skylar-9
 - time: 45 minutes

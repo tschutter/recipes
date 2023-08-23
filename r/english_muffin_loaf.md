@@ -27,5 +27,5 @@ Bake at 400 degrees F for 25 minutes.
 
 - source: unknown
 - keywords: bread
-- ratings: Molly-?, Tom-9, Kyle-?, Skylar-7
+- ratings: Liz-?, Tom-9, Kyle-?, Skylar-7
 - time: 95 minutes

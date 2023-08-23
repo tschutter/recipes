@@ -17,4 +17,4 @@ Roll into small balls.  Coat with crushed candy canes.
 
 - source: Parade Magazine
 - keywords: chocolate
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?

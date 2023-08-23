@@ -36,4 +36,4 @@ minutes.  Taste and adjust seasonings as needed.
 - source: thepioneerwoman.com/cooking/2011/01/beef-stew-with-beer-and-paprika/
 - keywords: stew, beef
 - time: ?
-- ratings: Molly-?, Tom-8, Skylar-8
+- ratings: Liz-?, Tom-8, Skylar-8

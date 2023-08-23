@@ -17,5 +17,5 @@ Mix in rest of ingredients.
 
 - source: unknown
 - keywords: appetizer, southwest, vegetarian
-- ratings: Molly-?, Tom-8, Kyle-8, Skylar-?
+- ratings: Liz-?, Tom-8, Kyle-8, Skylar-?
 - time: 25 minutes

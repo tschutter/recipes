@@ -17,4 +17,4 @@ Refrigerate several hours or overnight, turning meat occasionally.
 
 - source: food.com/7811
 - keywords: beef
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-9

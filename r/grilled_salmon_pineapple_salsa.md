@@ -37,5 +37,5 @@ Grill the salmon.  Serve with the warm pineapple salsa.
 
 - source: Beta Sigma Phi cookbook
 - keywords: seafood
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

@@ -32,4 +32,4 @@ thyme, if fresh.
 - source: Betty Crocker's Quick & Easy Cookbook, via Daily Camera
 - keywords: poultry
 - servings: 4
-- ratings: Molly-9, Tom-9
+- ratings: Liz-?, Tom-9

@@ -30,5 +30,5 @@ Can be cut in half, use 2 eggs and a 9x13-inch pan.
 
 - source: Rhumba, Boulder CO
 - keywords: bread
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-8
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-8
 - time: 1.75 hours

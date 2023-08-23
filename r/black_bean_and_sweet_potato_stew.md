@@ -38,5 +38,5 @@ Top with sour cream, avocado, and/or orange.  Serve with cornbread.
 
 - source: Margaret Bickmore, epicurious.com
 - keywords: stew, vegetarian
-- ratings: Molly-10, Tom-9
+- ratings: Liz-?, Tom-9
 - time: ? minutes

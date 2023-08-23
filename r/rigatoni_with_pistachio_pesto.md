@@ -24,5 +24,5 @@ Serve with additional cheese, pistachios, and chives.
 
 - source: prevention.com
 - keywords: poultry
-- ratings: Molly-8, Tom-8
+- ratings: Liz-?, Tom-8
 - time: ? minutes

@@ -26,5 +26,5 @@ Serve the salmon and onion and the remaining glaze over rice.
 
 - source: http://www.realsimple.com
 - keywords: seafood, favorite
-- ratings: Molly-?, Tom-9, Kyle-?, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-?, Skylar-9
 - time: 30 minutes

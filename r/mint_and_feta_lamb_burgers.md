@@ -21,5 +21,5 @@ through, about 10 more minutes.
 
 - source: washpost.com
 - keywords: lamb
-- ratings: Molly-8, Tom-9
+- ratings: Liz-?, Tom-9
 - time: ? minutes

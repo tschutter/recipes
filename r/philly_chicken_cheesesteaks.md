@@ -27,5 +27,5 @@ provolone has melted, 2 to 3 minutes.  Serve with french fries.
 
 - source: realsimple.com
 - keywords: poultry
-- ratings: Molly-?, Tom-8, Kyle-7, Skylar-9
+- ratings: Liz-?, Tom-8, Kyle-7, Skylar-9
 - time: 50 minutes

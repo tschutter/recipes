@@ -24,4 +24,4 @@ Serve on toasted, butter buns and top with grated cheese.
 
 - source: The Great American Buffalo Cookbook
 - keywords: beef
-- ratings: Molly-?, Tom-8.5, Kyle-8.5, Skylar-?
+- ratings: Liz-?, Tom-8.5, Kyle-8.5, Skylar-?

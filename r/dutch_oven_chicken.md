@@ -22,4 +22,4 @@ small amount of moisture in the dutch oven.
 
 - source: World Championship Dutch Oven Cookbook
 - keywords: poultry, dutch oven, cabin
-- ratings: Molly-?, Tom-8, Kyle-8, Skylar-?
+- ratings: Liz-?, Tom-8, Kyle-8, Skylar-?

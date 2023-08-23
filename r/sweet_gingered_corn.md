@@ -28,5 +28,5 @@ Serve immediately.
 
 - source: unknown
 - keywords: side dish, vegetarian
-- ratings: Molly-?, Tom-9, Kyle-7, Skylar-7
+- ratings: Liz-?, Tom-9, Kyle-7, Skylar-7
 - time: ? minutes

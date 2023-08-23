@@ -14,5 +14,5 @@ pepper to taste.
 
 - source: washpost.com
 - keywords: salad, vegetarian
-- ratings: Molly-8, Tom-3
+- ratings: Liz-?, Tom-3
 - time: ? minutes

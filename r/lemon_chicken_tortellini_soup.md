@@ -32,5 +32,5 @@ and mint. Season with salt and pepper.
 
 - source: http://www.rachaelraymag.com
 - keywords: soup, poultry
-- ratings: Molly-?, Tom-9, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-9, Kyle-?, Skylar-?
 - time: ? minutes

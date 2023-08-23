@@ -49,5 +49,5 @@ Stir in nuts into each serving.  The nuts do not reheat well.
 
 - source: Sunset Chinese Cookbook
 - keywords: pork, chinese
-- ratings: Molly-?, Tom-8, Kyle-7, Skylar-7
+- ratings: Liz-?, Tom-8, Kyle-7, Skylar-7
 - time: 50 minutes

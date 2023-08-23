@@ -29,4 +29,4 @@ Bake for 3 hours at 325 degrees F, or 6 hours on low in a slow cooker.
 
 - source: Janet Van Eps
 - keywords: poultry
-- ratings: Molly-?, Tom-9, Kyle-5, Skylar-8
+- ratings: Liz-?, Tom-9, Kyle-5, Skylar-8

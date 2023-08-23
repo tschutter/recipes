@@ -34,5 +34,5 @@ Bake for 30 minutes.
 - source: food.com/138423
 - keywords: ground beef, casserole
 - servings: 6
-- ratings: Molly-?, Tom-8, Kyle-8, Skylar-8
+- ratings: Liz-?, Tom-8, Kyle-8, Skylar-8
 - time: 50 minutes

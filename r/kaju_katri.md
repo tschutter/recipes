@@ -23,4 +23,4 @@ Cut into diamond shaped pieces.
 
 - source: unknown
 - keywords: dessert
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?

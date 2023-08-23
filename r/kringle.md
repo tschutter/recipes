@@ -21,5 +21,5 @@ Bake at 500 degrees for 3 minutes.
 
 - source: unknown
 - keywords: cookies
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

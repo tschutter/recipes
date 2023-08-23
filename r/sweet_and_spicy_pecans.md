@@ -28,5 +28,5 @@ Kept covered in a dry place, pecans will stay fresh for 5 days.
 
 - source: Parade Magazine
 - servings: 8
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - keywords: appetizer, vegetarian

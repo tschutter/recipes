@@ -48,5 +48,5 @@ on the side.
 
 - source: Parade Magazine, 2017-10-01
 - keywords: poultry
-- ratings: Molly-?, Tom-7, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-7, Kyle-?, Skylar-?
 - time: 40 minutes

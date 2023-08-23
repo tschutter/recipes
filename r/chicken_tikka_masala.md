@@ -70,5 +70,5 @@ basmati rice or naan for dipping.
 
 - source: cooking.nytimes.com
 - keywords: poultry
-- ratings: Molly-8, Tom-8
+- ratings: Liz-?, Tom-8
 - time: ? minutes

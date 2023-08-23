@@ -14,5 +14,5 @@ Combine all.  Store in an airtight container.
 
 - source: gimmedelicious.com
 - keywords:
-- ratings: Molly-10, Tom-10
+- ratings: Liz-?, Tom-10
 - time: 5 minutes

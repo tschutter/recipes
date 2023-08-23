@@ -38,5 +38,5 @@ Serve pasta topped with a sprinkling of amaretti crumbs.
 
 - source: Adapted from "Pasta Modern" by Francine Segan
 - keywords: pork
-- ratings: Molly-?, Tom-?
+- ratings: Liz-?, Tom-?
 - time: ? minutes

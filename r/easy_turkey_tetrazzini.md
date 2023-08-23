@@ -27,5 +27,5 @@ bubbling.
 
 - source: allrecipes.com/Recipe/Easy-Turkey-Tetrazzini
 - keywords: poultry
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

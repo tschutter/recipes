@@ -29,5 +29,5 @@ minutes.  Serve with the chicken.
 
 - source: Parade Magazine
 - keywords: poultry
-- ratings: Molly-?, Tom-8, Kyle-9, Skylar-8
+- ratings: Liz-?, Tom-8, Kyle-9, Skylar-8
 - time: 100 minutes

@@ -63,5 +63,5 @@ days.
 
 - source: http://www.seriouseats.com/
 - keywords: cookies
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

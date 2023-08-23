@@ -31,5 +31,5 @@ Serve immediately.
 
 - source: perfectionpending.net
 - keywords: soup, pork, southwest
-- ratings: Molly-?, Tom-?
+- ratings: Liz-?, Tom-?
 - time: ? minutes

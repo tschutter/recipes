@@ -42,5 +42,5 @@ Bake at 350 degrees F for 20 to 25 minutes or until cheese is melted.
 
 - source: pillsbury.com
 - keywords: poultry, southwest
-- ratings: Molly-?, Tom-8, Kyle-8, Skylar-6
+- ratings: Liz-?, Tom-8, Kyle-8, Skylar-6
 - time: ? minutes

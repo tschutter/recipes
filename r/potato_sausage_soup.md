@@ -28,5 +28,5 @@ serve.
 
 - source: allrecipes.com
 - keywords: soup, pork
-- ratings: Molly-?, Tom-8, Kyle-8, Skylar-7
+- ratings: Liz-?, Tom-8, Kyle-8, Skylar-7
 - time: 95 minutes

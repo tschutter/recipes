@@ -66,5 +66,5 @@ parsley, and serve warm.
 
 - source: cookieandkate.com
 - keywords: vegetarian
-- ratings: Molly-?, Tom-9
+- ratings: Liz-?, Tom-9
 - time: ? minutes

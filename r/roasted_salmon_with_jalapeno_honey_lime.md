@@ -41,5 +41,5 @@ the rice.
 
 - source: cooking.nytimes.com
 - keywords: seafood
-- ratings: Molly-10, Tom-9, Alexander-7
+- ratings: Liz-?, Tom-9
 - time: 30 minutes

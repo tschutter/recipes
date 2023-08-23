@@ -46,5 +46,5 @@ Serve over goat cheese polenta.
 
 - source: foodnetwork.com
 - keywords: beef
-- ratings: Molly-?, Tom-9, Kyle-6, Skylar-9, Benjamin-9
+- ratings: Liz-?, Tom-9, Kyle-6, Skylar-9, Benjamin-9
 - time: 60 minutes + 3.5 hours

@@ -16,5 +16,5 @@ Add garnish.
 
 - source: Daily Camera
 - keywords: drink
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

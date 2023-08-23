@@ -32,5 +32,5 @@ Serve with buttered fettuccini, rice, or bread.
 
 - source: 365 Ways to Cook Chicken, #114
 - keywords: poultry, guest, favorite
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-10, Benjamin-10
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-10, Benjamin-10
 - time: 60 minutes

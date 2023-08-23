@@ -31,5 +31,5 @@ biscuits are brown and the vegetables are done.
 - source: Let's Cook Dutch
 - keywords: beef, dutch oven, cabin
 - time: 2 hours
-- ratings: Molly-5, Tom-8, Kyle-7, Skylar-7
-- notes: Molly says +mushrooms, more sauce, better def of seasoning
+- ratings: Liz-?, Tom-8, Kyle-7, Skylar-7
+- notes: Needs +mushrooms, more sauce, better def of seasoning

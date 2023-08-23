@@ -17,6 +17,6 @@ harden for at least 1 hour.
 
 - source: Cecile Schutter
 - keywords: dessert
-- ratings: Molly-?, Tom-8, Kyle-10, Skylar-5
+- ratings: Liz-?, Tom-8, Kyle-10, Skylar-5
 - time: 4 hours
 - notes: too dry, try shorter cook time

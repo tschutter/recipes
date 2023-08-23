@@ -40,5 +40,5 @@ Top with ginger whipped cream.
 
 - source: Danette Randall, Dessert Diva
 - keywords: dessert
-- ratings: Molly-?, Tom-8, Kyle-2, Skylar-?
+- ratings: Liz-?, Tom-8, Kyle-2, Skylar-?
 - time: ? minutes

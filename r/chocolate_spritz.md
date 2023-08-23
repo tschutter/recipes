@@ -29,4 +29,4 @@ Recipe already doubled from Mirro booklet.
 
 - source: Mirro Cooky and Pastry Recipes booklet
 - keywords: cookie press, favorite
-- ratings: Molly-?, Tom-10, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-10, Kyle-?, Skylar-?

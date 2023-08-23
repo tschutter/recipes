@@ -14,4 +14,4 @@ Add ice before serving.
 
 - keywords: drink
 - source: Skylar Schutter
-- ratings: Molly-?, Tom-8, Kyle-?, Skylar=9
+- ratings: Liz-?, Tom-8, Kyle-?, Skylar=9

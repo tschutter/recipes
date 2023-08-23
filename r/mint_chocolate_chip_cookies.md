@@ -24,5 +24,5 @@ temperature.
 
 - source: Betty Crocker
 - keywords: cookies
-- ratings: Molly-?, Tom-?, Skylar-?, Kyle-?
+- ratings: Liz-?, Tom-?, Skylar-?, Kyle-?
 - time: ?

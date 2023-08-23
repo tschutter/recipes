@@ -34,5 +34,5 @@ almonds, parsley, salt, and pepper.
 
 - source: unknown
 - keywords: side dish, rice, vegetarian
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

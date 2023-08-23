@@ -16,5 +16,5 @@ Garnish with olive oil and paprika.
 
 - source: Ed Victor
 - keywords: side dish, appetizer, vegetarian, favorite
-- ratings: Molly-10, Tom-9, Kyle-9, Skylar-6
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-6
 - time: 15 minutes

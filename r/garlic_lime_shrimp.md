@@ -18,5 +18,5 @@ Salt and pepper to taste.  Serve hot over rice.
 
 - source: Tom Schutter
 - keywords: shrimp, favorite
-- ratings: Molly-?, Tom-9, Kyle-8, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-8, Skylar-9
 - time: 20 minutes

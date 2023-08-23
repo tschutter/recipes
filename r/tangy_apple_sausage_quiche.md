@@ -41,5 +41,5 @@ slices and parsley.
 
 - source: Rocky Mountain News
 - keywords: pork, eggs
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-8
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-8
 - time: 95 minutes

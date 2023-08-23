@@ -32,5 +32,5 @@ Bake for 10 minutes at 425 degrees F.  Do not over bake.
 
 - source: unknown
 - keywords: bread, dessert
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

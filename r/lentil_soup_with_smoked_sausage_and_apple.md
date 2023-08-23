@@ -36,5 +36,5 @@ Add sour cream and stir in chopped scallions.
 
 - source: cooking.nytimes.com
 - keywords: soup, pork
-- ratings: Molly-9, Tom-9
+- ratings: Liz-?, Tom-9
 - time: 50 minutes

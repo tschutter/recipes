@@ -44,5 +44,5 @@ overnight or until solid.
 
 - source: ifthespoonfits.com/2015/11/01/
 - keywords: dessert, chocolate, favorite
-- ratings: Molly-?, Tom-10, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-10, Kyle-?, Skylar-?
 - time: ? minutes

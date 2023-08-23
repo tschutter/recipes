@@ -20,5 +20,5 @@ Bake at 450 degrees F for 15 to 20 minutes.
 
 - source: Unknown
 - keywords: bread, favorite
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-9
 - time: 40 minutes

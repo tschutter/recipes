@@ -24,5 +24,5 @@ Sprinkle cheese over each serving.
 
 - source: Beta Sigma Phi cookbook
 - keywords: soup, pork
-- ratings: Molly-?, Tom-9, Kyle-8, Skylar-7
+- ratings: Liz-?, Tom-9, Kyle-8, Skylar-7
 - time: ? minutes

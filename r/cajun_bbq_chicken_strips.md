@@ -27,5 +27,5 @@ Cook 2-3 minutes on each side.
 
 - source: Cheap Thrills Cuisine
 - keywords: poultry
-- ratings: Molly-?, Tom-9
+- ratings: Liz-?, Tom-9
 - time: ? minutes

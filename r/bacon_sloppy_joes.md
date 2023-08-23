@@ -32,5 +32,5 @@ Season to taste with salt and pepper and serve on the toasted buns.
 
 - source: Everyday with Rachel Ray mag
 - keywords: ground beef
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ?

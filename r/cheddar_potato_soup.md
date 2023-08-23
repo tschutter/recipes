@@ -26,5 +26,5 @@ Garnish with croutons.
 
 - source: unknown
 - keywords: soup, vegetarian
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

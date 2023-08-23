@@ -13,5 +13,5 @@ Add sugar syrup to lemon juice and water.
 
 - source: Victor 2007
 - keywords: drink
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ?

@@ -32,5 +32,5 @@ place salmon on top.  Serve with rice.
 
 - source: Cheap Thrills Cuisine
 - keywords: seafood
-- ratings: Molly-?, Tom-8, Kyle-7, Skylar-9
+- ratings: Liz-?, Tom-8, Kyle-7, Skylar-9
 - time: 2 hours + 35 minutes

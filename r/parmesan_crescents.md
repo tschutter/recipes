@@ -21,5 +21,5 @@ Bake 10 to 12 minutes or until golden brown.
 
 - source: www.bisquick.com
 - keywords: bread
-- ratings: Molly-?, Tom-6, Kyle-8, Skylar-9
+- ratings: Liz-?, Tom-6, Kyle-8, Skylar-9
 - time: ? minutes

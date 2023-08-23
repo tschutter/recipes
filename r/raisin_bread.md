@@ -27,5 +27,5 @@ Turn into 2 greased 1 quart loaf pans.  Bake at 350 degrees for 40 to
 
 - source: Janet Lee VanEps
 - keywords: bread
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

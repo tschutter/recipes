@@ -35,5 +35,5 @@ before serving.
 
 - source: Mary Klingbeil / Debbie Pink
 - keywords: salad, vegetarian
-- ratings: Molly-10, Tom-3
+- ratings: Liz-?, Tom-3
 - time: 30 minutes plus overnight

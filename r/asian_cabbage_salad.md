@@ -24,5 +24,5 @@ Whisk together dressing ingredients and toss with vegetables.
 
 - source: Linda Schutter
 - keywords: salad, vegetarian
-- ratings: Molly-?, Tom-?, Skylar-?, Kyle-?
+- ratings: Liz-?, Tom-?, Skylar-?, Kyle-?
 - time: ?

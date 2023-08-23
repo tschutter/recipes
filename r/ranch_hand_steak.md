@@ -23,5 +23,5 @@ bake for 30 minutes at 350 degrees F.
 
 - source: Great Range bison package
 - keywords: ground beef
-- ratings: Molly-?, Tom-9, Kyle-7, Skylar-8
+- ratings: Liz-?, Tom-9, Kyle-7, Skylar-8
 - time: 65 minutes

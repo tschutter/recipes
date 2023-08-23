@@ -28,5 +28,5 @@ Remove bone and put any meat back into the soup.
 
 - source: food.com/50254
 - keywords: soup, pork
-- ratings: Molly-?, Tom-9, Kyle-7, Skylar-3
+- ratings: Liz-?, Tom-9, Kyle-7, Skylar-3
 - time: 150 minutes

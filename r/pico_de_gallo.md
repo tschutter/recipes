@@ -15,5 +15,5 @@ pepper.  Drizzle with lime juice and olive oil.  Mix before serving.
 
 - source: Food Network magazine
 - keywords: vegetarian, southwest
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

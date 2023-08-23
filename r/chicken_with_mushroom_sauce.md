@@ -30,5 +30,5 @@ Serve with rice.
 
 - source: http://www.realsimple.com/
 - keywords: poultry
-- ratings: Molly-?, Tom-8, Kyle-?, Skylar-7
+- ratings: Liz-?, Tom-8, Kyle-?, Skylar-7
 - time: ? minutes

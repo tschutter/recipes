@@ -23,6 +23,6 @@ let rest for 5 more minutes.
 
 - source: Tom Schutter
 - keywords: rice, southwest, vegetarian
-- ratings: Molly-?, Tom-8, Kyle-6, Skylar-?
+- ratings: Liz-?, Tom-8, Kyle-6, Skylar-?
 - time: 65 minutes
 - notes: things to try: corn, peas, > 6 jalapeno slices, salsa

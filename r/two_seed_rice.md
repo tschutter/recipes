@@ -34,5 +34,5 @@ tender, about 25 to 30 minutes.
 
 - source: Paul Prudhomme
 - keywords: rice, vegetarian
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

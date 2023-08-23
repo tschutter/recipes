@@ -25,5 +25,5 @@ rise for 50 to 60 minutes.
 
 - source: The Best Pizza is Made at Home Cookbook
 - keywords: bread, pizza
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

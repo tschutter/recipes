@@ -36,5 +36,5 @@ Pour marinade over steak strips and serve over rice.
 
 - source: unknown
 - keywords: beef, chinese, wok
-- ratings: Molly-?, Tom-9, Kyle-?, Skylar-8
+- ratings: Liz-?, Tom-9, Kyle-?, Skylar-8
 - time: ? minutes

@@ -17,4 +17,4 @@ Beat egg whites until stiff and gently fold into batter.
 
 - source: Villaware Waffle Iron Cookbook
 - keywords: breakfast
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?

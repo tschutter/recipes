@@ -34,5 +34,5 @@ squares onto the plate; the pudding sauce will be on top.
 
 - source: www.browneyedbaker.com/2013/09/03/hot-fudge-pudding-cake-recipe
 - keywords: dessert
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

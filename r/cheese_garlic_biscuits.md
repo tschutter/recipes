@@ -18,5 +18,5 @@ Bake 8 to 10 minutes or until golden brown.
 Stir together butter and garlic powder; brush over warm biscuits.
 
 - source: Bisquick box
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-9
 - keywords: bread

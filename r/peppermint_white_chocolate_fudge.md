@@ -26,4 +26,4 @@ peppermint extract.
 
 - source: Parade Magazine
 - keywords: chocolate
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?

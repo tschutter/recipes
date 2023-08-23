@@ -35,5 +35,5 @@ Serve over rice.
 
 - source: 365 Ways to Cook Chicken, #89
 - keywords: poultry
-- ratings: Molly-?, Tom-8, Kyle-8, Skylar-8
+- ratings: Liz-?, Tom-8, Kyle-8, Skylar-8
 - time: 95 minutes

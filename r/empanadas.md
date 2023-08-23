@@ -32,5 +32,5 @@ Pre-baked empanadas cannot be refrigerated for more than 1 or 2 days.
 
 - source: food.com/133297
 - keywords: ground beef, favorite
-- ratings: Molly-?, Tom-9, Kyle-10, Skylar-3
+- ratings: Liz-?, Tom-9, Kyle-10, Skylar-3
 - time: 50 minutes

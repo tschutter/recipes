@@ -60,5 +60,5 @@ Shred the roast with two forks and serve with the gravy.
 
 - source: The Food Charlatan
 - keywords: beef
-- ratings: Molly-?, Tom-9, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-9, Kyle-?, Skylar-?
 - time: ? minutes

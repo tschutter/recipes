@@ -22,5 +22,5 @@ Bake at 350 degrees for 10 minutes.
 
 - source: unknown
 - keywords: cookies
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

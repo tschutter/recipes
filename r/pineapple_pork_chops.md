@@ -32,4 +32,4 @@ too thick, add a little bit of water.
 - source: food.com/339807
 - keywords: pork
 - time: 25 minutes
-- ratings: Molly-?, Tom-7, Kyle-7, Skylar-8
+- ratings: Liz-?, Tom-7, Kyle-7, Skylar-8

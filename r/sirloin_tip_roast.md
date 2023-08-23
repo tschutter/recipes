@@ -23,5 +23,5 @@ and against the grain.
 
 - source: howtocookmeat.com
 - keywords: beef
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

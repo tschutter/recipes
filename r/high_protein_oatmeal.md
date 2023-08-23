@@ -33,5 +33,5 @@ stirring every 20 minutes.
 
 - source: http://www.apexnutritionllc.com
 - keywords: breakfast, favorite
-- ratings: Molly-?, Tom-9, Kyle-8, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-8, Skylar-9
 - time: 20 minutes + 4 hours

@@ -27,5 +27,5 @@ out clean.
 
 - source: Bisquick box
 - keywords: ground beef
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

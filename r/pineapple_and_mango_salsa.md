@@ -21,5 +21,5 @@ pineapple and mango.
 
 - source: Jean-Pierre Peiny, executive chef of L.A. Farm restaurant
 - keywords: appetizer, southwest, vegetarian
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

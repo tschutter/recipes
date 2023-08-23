@@ -26,5 +26,5 @@ at room temperature.
 
 - source: Betty Crocker
 - keywords: cookies
-- ratings: Molly-?, Tom-9, Skylar-?, Kyle-?
+- ratings: Liz-?, Tom-9, Skylar-?, Kyle-?
 - time: ?

@@ -34,5 +34,5 @@ Heat gently.  Season with salt, pepper and lime juice to taste.
 
 - source: Everyday with Rachel Ray mag
 - keywords: soup, poultry, favorite
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-7
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-7
 - time: 75 minutes

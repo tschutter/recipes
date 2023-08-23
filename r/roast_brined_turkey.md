@@ -56,4 +56,4 @@ carving.
 
 - source: Alton Brown
 - keywords: poultry
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-9

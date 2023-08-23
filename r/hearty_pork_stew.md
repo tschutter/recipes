@@ -48,4 +48,4 @@ Serve stew over hot cooked noodles.  Makes 6 servings.
 - source: John Wolner
 - keywords: stew, pork
 - time: 90 minutes?
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-6
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-6

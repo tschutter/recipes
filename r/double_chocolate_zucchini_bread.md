@@ -53,5 +53,5 @@ on a rack for 5-10 minutes, then remove from pans.
 
 - source: ourbestbites.com
 - keywords: bread, chocolate, dessert
-- ratings: Molly-?, Tom-9
+- ratings: Liz-?, Tom-9
 - time: ? minutes

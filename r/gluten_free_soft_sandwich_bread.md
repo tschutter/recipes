@@ -38,5 +38,5 @@ getting too brown, place a ten of foil over it.
 
 - source: http://artofglutenfreebaking.com
 - keywords: bread
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

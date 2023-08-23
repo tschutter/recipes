@@ -13,5 +13,5 @@ Bake at 350 degrees F for 15 minutes.
 
 - source: Ceceile Schutter
 - keywords: side dish
-- ratings: Molly-?, Tom-?, Kyle-?, Skylar-?
+- ratings: Liz-?, Tom-?, Kyle-?, Skylar-?
 - time: ? minutes

@@ -16,5 +16,5 @@ Mix honey and hot sauce and drizzle over bacon.
 
 - source: foodnetwork.com
 - keywords: appetizer, pork
-- ratings: Molly-?, Tom-9, Kyle-9, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-9, Skylar-9
 - time: ? minutes

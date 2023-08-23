@@ -23,5 +23,5 @@ Remove from heat, cover, and let stand 5 minutes to thicken.
 
 - source: various
 - keywords: side dish, vegetarian
-- ratings: Molly-?, Tom-8, Kyle-4, Skylar-7, Benjamin-7
+- ratings: Liz-?, Tom-8, Kyle-4, Skylar-7, Benjamin-7
 - time: 45 minutes

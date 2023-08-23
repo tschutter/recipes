@@ -24,5 +24,5 @@ baking is complete.
 
 - source: unknown
 - keywords: pork, rice
-- ratings: Molly-?, Tom-9, Kyle-?, Skylar-8, Benjamin-8
+- ratings: Liz-?, Tom-9, Kyle-?, Skylar-8, Benjamin-8
 - time: ? minutes

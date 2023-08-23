@@ -33,5 +33,5 @@ Serve over angel hair pasta and top with grated parmesan cheese.
 
 - source: various
 - keywords: shrimp
-- ratings: Molly-?, Tom-9, Kyle-?, Skylar-9
+- ratings: Liz-?, Tom-9, Kyle-?, Skylar-9
 - time: 45 minutes
