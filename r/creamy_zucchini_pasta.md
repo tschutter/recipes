@@ -2,7 +2,7 @@ Creamy Zucchini Pasta
 ---------------------
 
 - 1/4 cup olive oil
-- 3 cups diced zucchini, from (2-3 medium)
+- 3 cups peeled and diced zucchini, from (2-3 medium)
 - 2 small shallots, sliced (about 1 cup)
 - 1 tablespoon garlic, minced
 - 1 cup heavy cream
