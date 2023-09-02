@@ -273,7 +273,7 @@ Bread :bread:
 - [Parmesan Crescents](r/parmesan_crescents) (Liz-?, Tom-6, Kyle-8, Skylar-9)
 - [Pumpkin Bread](r/pumpkin_bread) (Liz-?, Tom-8, Skylar-9, Kyle-?)
 - [Raisin Bread](r/raisin_bread)
-- [Rhumba Cornbread](r/rhumba_cornbread) (Liz-?, Tom-9, Kyle-9, Skylar-8)
+- [Rhumba Cornbread](r/rhumba_cornbread) (Liz-8, Tom-9, Kyle-9, Skylar-8)
 - [Salt and Pepper Biscuits](r/salt_and_pepper_biscuits) (Liz-?, Tom-9, Kyle-9, Skylar-8)
 - [Scott's Fruit Bread](r/scotts_fruit_bread)
 - [Sourdough Pita Bread](r/sourdough_pita_bread)
