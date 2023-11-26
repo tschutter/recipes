@@ -2,7 +2,7 @@ Turkey Beer Brine
 -----------------
 
 - 8 cups water
-- 1 cup kosher salt
+- 285 grams kosher salt
 - 3/4 cup brown sugar
 - 1/2 cup honey
 - 3 cloves garlic, smashed
