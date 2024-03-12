@@ -24,7 +24,7 @@ Beef, Beer, and Barley Stew
 - 2 tablespoons prepared horseradish
 
 Heat oil in a stockpot over medium-high heat.  Sprinkle beef with 1/2
-teaspoon slat and pepper.  Add beef to pan. Saute 10 minutes or until
+teaspoon salt and pepper.  Add beef to pan. Saute 10 minutes or until
 browned.  Remove from pan.
 
 Add onion, bay leaves, and thyme to pan.  Cover, reduce heat, and cook
@@ -37,7 +37,7 @@ and beer.  Bring to a boil.  Reduce heat.  Simmer, covered for 1-1/2
 hours.  Discard bay leaves and thyme sprigs.
 
 While stew is simmering, trim beets leaving root and 1 inch stem on
-each.  Scrub each beet with a brush.  Glace in a medium saucepan and
+each.  Scrub each beet with a brush.  Place in a medium saucepan and
 cover with water.  Bring to a boil.  Cover, reduce heat and simmer 35
 minutes or until tender.  Drain and rinse with cold water.  Drain and
 let cool.  Rub off skins leaving root and 1 inch stem on each beet.
