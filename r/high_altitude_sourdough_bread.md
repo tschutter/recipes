@@ -23,8 +23,8 @@ boiled water.
 
 *Autolyse (60 minutes)*
 
-In a large pot, combine 800 grams of bread flour and 100 grams of
-whole wheat flour with 650 grams of warm water.  Mix just until all
+In a large pot, combine 775 grams of bread flour and 100 grams of
+whole wheat flour with 625 grams of warm water.  Mix just until all
 the flour has been hydrated. Cover.
 
 Let the flours rest at least 60 minutes.  This rest is called the
