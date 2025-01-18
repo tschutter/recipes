@@ -17,9 +17,9 @@ High Altitude Sourdough Bread
 Mix the sourdough starter with 100 grams of warm water and 100 grams
 of bread flour to create the the pre-ferment.  The pre-ferment
 (a.k.a. levain) is an off-shoot of the sourdough starter.  Cover and
-leave on the counter overnight.  If the environment is cold and/or
-dry, then keep the pre-ferment in the microwave with a small bowl of
-boiled water.
+leave on the counter overnight.  Because at elevation the environment
+is cold and dry, keep the pre-ferment in the microwave with a small
+bowl of boiled water.
 
 *Autolyse (60 minutes)*
 
@@ -39,9 +39,9 @@ squeezing it through your fingers.
 
 Sprinkle 20 grams of salt over the dough and then add 50 grams of warm
 water.  Poke your fingers into the dough to press some salt deep
-inside, then fold over itself about a dozen times or so to incorporate
-the salt. Cover the bowl again; the bulk fermentation has begun.  If
-the environment is cold and/or dry, then keep the bowl in the
+inside, then fold over itself until the salt and water is
+incorporated.  Cover the bowl again; the bulk fermentation has begun.
+Because the environment is cold and dry, keep the bowl in the
 microwave with a small bowl of boiled water.
 
 *Bulk Fermentation (~4 hours)*
@@ -51,8 +51,8 @@ minutes.  For each stretch-and-fold, first wet your hand to prevent
 excessive sticking.  Then reach under the dough, grab the bottom and
 pull up the dough up as far as possible, and then turn it back on top
 of itself.  Rotate the bowl 90 degrees and repeat 7 more times.
-Recover the bowl.  If the environment is cold and/or dry, re-boil the
-water before putting the dough back in the microwave.
+Recover the bowl.  Because the environment is cold and dry, re-boil
+the water before putting the dough back in the microwave.
 
 If your dough does not seem very elastic, you can repeat the
 stretch-and-fold process two more times, with a thirty-minute rest in
