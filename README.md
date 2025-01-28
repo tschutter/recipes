@@ -305,6 +305,7 @@ Treats :cake:
 - [Cherry Pie Bars](r/cherry_pie_bars) (Liz-?, Tom-9, Kyle-?, Skylar-?)
 - [Chewy Edge Brownies](r/chewy_edge_brownies) (Liz-?, Tom-9, Kyle-?, Skylar-9)
 - [Choco-Cherry Double Delights](r/choco_cherry_double_delights) (Liz-?, Tom-9, Skylar-?, Kyle-?)
+- [Chocolate Amaretti Cookies](r/chocolate_amaretti_cookies) (Liz-10, Tom-9)
 - [Chocolate Pixies](r/chocolate_pixies) :star: (Liz-?, Tom-10, Kyle-10, Skylar-9)
 - [Chocolate Spritz](r/chocolate_spritz) :star: (Liz-?, Tom-10, Kyle-?, Skylar-?)
 - [Cinnamon Balls](r/cinnamon_balls) (Liz-?, Tom-9, Kyle-?, Skylar-?)
