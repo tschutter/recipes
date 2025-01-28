@@ -7,6 +7,7 @@ Spring Rolls
 - 1/2 English cucumber, thinly sliced (about 1 c.)
 - 1 mango, thinly sliced
 - 6 green onions, thinly sliced
+- 1 bell pepper, cut into matchsticks
 - 2 cups fresh tender herbs (such as basil, cilantro, and/or mint)
 - 1/2 pound cooked medium shrimp or chicken
 - sweet chili sauce, for serving
@@ -29,12 +30,12 @@ Fill a pie dish or a wide, shallow bowl with warm water.  Working with
 1 spring roll wrapper at a time, dip a wrapper in the water for a few
 seconds until softened.  Place the softened wrapper on a damp cutting
 board.  Working on the bottom third of the wrapper, layer on a small
-amount of noodles, carrot, cucumber, mango, green onion, and herbs.
-Place 3 to 4 pieces of the protein on top of the vegetables.  Fold the
-bottom of the wrapper up over the fillings, fold the corners of the
-wrapper in, and tightly roll the spring rolls.  Place the finished
-rolls on a serving platter and cover with a damp paper towel.  Repeat
-with the remaining ingredients.
+amount of noodles, vegetables and herbs.  Place 3 to 4 pieces of the
+protein on top of the vegetables.  Fold the bottom of the wrapper up
+over the fillings, fold the corners of the wrapper in, and tightly
+roll the spring rolls.  Place the finished rolls on a serving platter
+and cover with a damp paper towel.  Repeat with the remaining
+ingredients.
 
 In a medium bowl, whisk together the peanut butter, hot water, lime
 juice, honey, hot sauce, sesame oil, soy sauce, and garlic until well
