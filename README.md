@@ -356,6 +356,7 @@ Appetizers
 - [Pineapple and Mango Salsa](r/pineapple_and_mango_salsa) :cactus: :herb:
 - [Salsa Cruda](r/salsa_cruda) :cactus: :herb:
 - [Salsa Ranchera](r/salsa_ranchera) :cactus: :herb: (Liz-?, Tom-8, Kyle-8, Skylar-?)
+- [Spring Rolls](r/spring_rolls)
 - [Sweet and Spicy Pecans](r/sweet_and_spicy_pecans) :herb:
 
 Drinks :tropical_drink:
