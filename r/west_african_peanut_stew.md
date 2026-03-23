@@ -8,7 +8,7 @@ West African Peanut Stew
 - 2 chili peppers (jalapeno or hotter), diced
 <!-- -->
 - 2 pounds sweet potatoes, peeled and cut into 1/2 inch cubes
-- 1 can diced tomatoes, with juices
+- 1 15 ounce can diced tomatoes, with juices
 - 1 tablespoon ground coriander
 - 4 cups vegetable broth
 <!-- -->
