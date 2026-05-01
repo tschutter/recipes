@@ -208,6 +208,7 @@ Vegetable :herb:
 Side Dish
 ---------
 - [Almond Wild Rice](r/almond_wild_rice) :herb:
+- [Blue Corn Muffins](r/blue_corn_muffins) :herb:
 - [Carrots with Ginger and Honey](r/carrots_with_ginger_and_honey) :star: :herb: (Liz-?, Tom-9, Kyle-5, Skylar-9)
 - [Corn Muffins](r/corn_muffins) :herb:
 - [Corn with Chipotle and Thyme](r/corn_with_chipotle_and_thyme) :herb:
