@@ -42,6 +42,6 @@ over the remaining chipotle oil and finish with a couple of handfuls of the peca
 more of rosemary.
 
 - source: NYT Cooking
-- keywords: side dish
+- keywords: side dish, vegetarian
 - ratings: Tom-9
 - time: ? minutes
