@@ -1,22 +1,26 @@
 Chipotle-Orange Sweet Potatoes With Pecan Crunch
 ------------------------------------------------
 
+FOR THE SWEET POTATOES:
 - 4 to 5 sweet potatoes (about 2-1/4 pounds), skin-on, cut into 2-inch wide wedges)
 - 3 tablespoons canola oil
 - Salt
 - Black pepper
-<!-- -->
+
+FOR THE PECAN CRUNCH:
 - 2 tablespoons unsalted butter
 - 1/2 cup panko bread crumbs
 - 1/2 cup pecans, roughly chopped
 - 1 tablespoon raw sesame seeds
 - 2 teaspoons light brown sugar
 - 1 tablespoon plus a pinch finely chopped fresh rosemary
-<!-- -->
+
+FOR THE GARLIC SOUR CREAM:
 - 3/4 cup sour cream
 - 1 garlic clove, minced or crushed
 - 1 tablespoon water
-<!-- -->
+
+FOR THE CHIPOTLE ORANGE OIL:
 - 2 canned chipotles in adobo, finely minced
 - 3 tablespoons canola oil
 - 1 orange, zested and juiced (1/2 teaspoon zest and 2 tablespoons juice)
